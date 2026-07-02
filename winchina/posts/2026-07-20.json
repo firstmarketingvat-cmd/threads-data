@@ -4,11 +4,15 @@
   "topic": "비자사진",
   "text": "중국 비자, 서류 다 완벽하게 챙겼는데 '사진' 한 장 때문에 반려당하는 사람 생각보다 많아.\n\n중국 비자 사진이 한국 여권 사진이랑 규격이 달라서 그래.\n- 크기: 33 x 48mm (한국 여권용 35x45 아님)\n- 배경: 완전 흰색 (회색·미색이면 반려)\n- 얼굴: 정면, 두 귀 보이게, 입 다물고, 안경 반사·그림자 없이\n- 온라인 제출이면: JPEG, 보통 40~120KB\n\n특히 '귀 가린 머리', '배경 미색', '6개월 지난 옛 사진'에서 많이 걸리더라.\n\n비자 사진은 신청 직전에 '중국 비자용'으로 새로 찍는 게 제일 안전해. 헌 사진 돌려쓰다 반려되면 접수 다시 잡느라 시간만 날아가거든.",
   "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://kr.china-embassy.gov.cn/kor/lsfw/lszj/202303/t20230331_11052404.htm — 주한중국대사관 비자 신청 사진 규격(33x48·흰배경·얼굴 요건)\nhttps://www.visaforchina.cn/SEL4_KO/generalinformation/news/283270.shtml — 중국비자신청서비스센터(CVASC) 사진 규격 공지\nhttps://gwangju.china-consulate.gov.cn/kor/lsfwx/visaaffairs/200708/t20070803_5789898.htm — 주광주중국총영사관 비자 사진 규격 안내\n⚠️ 파일 용량·세부 규격은 신청 채널(센터/영사관)별 차이 가능 → 접수처 최신 기준 확인",
-  "card": {
-    "kicker": "사진 한 장의 함정",
-    "headline": "서류 완벽해도\n*사진* 때문에 반려",
-    "body": "33x48mm · 완전 흰배경 · 두 귀 노출.\n한국 여권사진(35x45)과 다르다.",
-    "tag": "#중국비자",
-    "photoQuery": "passport id photo white background"
-  }
+  "slides": [
+    {
+      "type": "card",
+      "kicker": "사진 한 장의 함정",
+      "headline": "서류 완벽해도\n*사진* 때문에 반려",
+      "body": "33x48mm · 완전 흰배경 · 두 귀 노출.\n한국 여권사진(35x45)과 다르다.",
+      "tag": "#중국비자",
+      "style": "photo",
+      "photoFile": "_up_2026-07-20-0_344548.jpg"
+    }
+  ]
 }
