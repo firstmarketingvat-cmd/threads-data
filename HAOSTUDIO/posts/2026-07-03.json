@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-03",
+  "time_kst": "21:00",
+  "topic": "실물색·화면색 컬러 정확도",
+  "text": "제품사진에서 제일 컴플레인 많이 들어오는 게 뭔지 알아?\n촬영 퀄이 아니라 \"색이 실물이랑 달라요\"야.\n⠀\n반품 사유 1위가 색 차이인 카테고리 많아. 립·니트·러그·가구 다 그럼.\n예쁘게만 찍으면 되는 게 아니라 '정확하게' 찍어야 하는 이유.\n⠀\n색 안 맞는 거 대부분 후보정 감성 문제가 아니라 촬영 단계 문제야.\n- 화이트밸런스: 그레이카드나 컬러체커 한 컷 찍어두고 그 기준으로 맞추면 눈대중보다 훨씬 정확함\n- 광원 섞지 마: 창문 자연광 + 형광등 같이 들어오면 색온도 꼬여서 절대 못 맞춤. 하나로 통일\n- 연색성(CRI): 저가 LED는 CRI 낮아서 특정 색(특히 빨강)이 탁하게 나옴. CRI 95+ 조명 쓰면 실물색 재현 확 좋아짐\n⠀\n그리고 하나 더. 모니터 캘리브레이션 안 된 화면에서 보정하면 나만 예쁘고 고객 화면에선 딴 색이야.\n⠀\n제일 억울한 반품이 '색 때문'인 거 알지? 촬영부터 잡으면 반품률 진짜 내려가.\n혹시 색 컴플레인 때문에 골치 아픈 제품 있어?",
+  "sources": [
+    "https://www.xrite.com/categories/calibration-profiling/colorchecker-classic — 컬러체커로 촬영 시 정확한 화이트밸런스/색 기준 잡는 표준 툴",
+    "https://www.waveformlighting.com/high-cri-led — CRI(연색성)가 색 재현에 미치는 영향과 CRI 95+ 조명 권장 설명",
+    "https://petapixel.com/what-is-white-balance/ — 혼합 광원이 화이트밸런스를 무너뜨리는 원리와 단일 광원 촬영의 중요성",
+    "https://www.datacolor.com/spyder/ — 모니터 캘리브레이션이 보정 색과 실제 출력색 일치에 필요한 이유"
+  ],
+  "card": {
+    "kicker": "COLOR ACCURACY",
+    "headline": "예쁘게 말고\n*정확하게*",
+    "body": "반품 사유 1위가 '실물색과 다름'인 카테고리 많아. 그레이카드로 화이트밸런스 잡고, 광원 섞지 말고, CRI 95+ 조명 쓰면 실물색 재현이 확 달라져. 모니터 캘리브레이션은 기본.",
+    "tag": "#컬러정확도",
+    "photoQuery": "color checker chart product photography studio lighting"
+  }
+}

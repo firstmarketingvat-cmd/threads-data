@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-08",
+  "time_kst": "21:00",
+  "topic": "[전자세금계산서] 베트남 POS 실시간 연동 의무",
+  "text": "베트남에서 매장·식당·호텔 하는 한국 사업자면 이거 진짜 챙겨야 돼.\n⠀\n2025년 6월 1일부터 시행된 시행령 70호(Decree 70/2025/ND-CP) 기준으로, 연 매출 10억 동(약 3만8천 달러) 이상이거나 소비자 대면 업종—백화점·슈퍼·소매·요식업·호텔·여객운송 같은 데는 POS 계산대를 세무당국(GDT)에 실시간으로 연결해서 전자세금계산서를 발행해야 해. 지금 2026년엔 이게 이미 적용 중이야.\n⠀\n기회 쪽은 분명해. 매출·부가세가 자동으로 잡히니까 장부 이중관리 줄고, 나중에 환급이나 정산 근거가 깔끔하게 남아. 현지 파트너랑 매출 투명성 다툴 일도 줄고.\n⠀\n근데 리스크가 실무에서 더 크더라. POS를 GDT랑 연동하는 등록·기술 세팅을 미리 안 해두면 개업하고도 정식 인보이스를 못 끊어. QR코드·구매자 세금코드 필드까지 포맷 맞춰야 하고, 오류 정정도 규정대로 안 하면 세무조사 트리거가 될 수 있어. 내가 본 케이스는 '나중에 하면 되지' 하다가 오픈 초기 매출 인보이스가 꼬인 경우였어.\n⠀\n한 가지만 짚자면—이건 대기업만의 얘기가 아니야. 매출 기준(10억 동)이 생각보다 낮아서 작은 매장도 대상이 돼. (기준시점: 2026년 7월, Decree 70/2025 근거)\n⠀\n너희 쪽은 POS-GDT 연동 세팅 이미 끝냈어? 아니면 아직 현지 회계사한테 미뤄둔 상태야?",
+  "sources": [
+    "https://www.vietnam-briefing.com/news/decree-70-key-amendments-to-invoice-regulations-in-vietnam.html/ — Vietnam Briefing, Decree 70 핵심 개정: 2025.6.1 시행, 소비자 대면 업종 POS 실시간 연동 의무",
+    "https://vietnam.incorp.asia/vietnams-e-invoice-regulations-update/ — InCorp Vietnam, 연매출 10억 동 기준·GDT 실시간 전송·대상 업종·인보이스 필수항목",
+    "https://www.acua.ai/en/media-article/vietnam-new-e-invoicing-requirements-2026 — 2026년 시점 전자세금계산서 컴플라이언스 가이드, 시행 지속 여부 확인",
+    "https://kpmg.com/us/en/taxnewsflash/news/2025/04/tnf-vietnam-amendments-to-regulations-on-electronic-invoices.html — KPMG Tax NewsFlash, Decree 70 전자세금계산서 개정 요약"
+  ],
+  "card": {
+    "kicker": "베트남 세무 실무",
+    "headline": "매장·식당 한다면\n*POS-세무당국 실시간 연동*은 선택이 아님",
+    "body": "Decree 70(2025.6.1 시행): 연매출 10억 동↑ 또는 소비자 대면 업종은 POS를 세무당국(GDT)에 실시간 연결해 전자세금계산서 발행 의무. 2026년 현재 적용 중. 세팅 밀리면 개업 후 정식 인보이스가 막힌다.",
+    "tag": "#베트남전자세금계산서",
+    "photoQuery": "vietnam retail store pos cash register payment counter"
+  }
+}
