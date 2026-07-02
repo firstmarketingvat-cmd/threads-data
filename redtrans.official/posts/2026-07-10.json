@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-10",
+  "time_kst": "08:30",
+  "topic": "화장품식품인허가",
+  "text": "베트남에 '바르는 것(화장품)'이랑 '먹는 것(식품)'은 인허가 자체가 달라. 같은 줄 알고 준비하면 한참 돌아가.\n\n- 화장품: 보건부 의약품관리국(DAV)에 제품신고(공보, Cong Bo). 보통 CFS(자유판매증명)·위임장(LOA)·성분표·효능자료 4종. 기간은 대략 3~10주.\n- 식품: 베트남식품관리국(VFA) 허가. 일반식품은 2단계, 건강기능식품은 3단계로 더 복잡하고, 공인 시험기관 '시험성적서'가 필요해.\n\n제일 많이 막히는 데가 성분·효능 표현이야. 한국 기준으론 되는 문구가 베트남에선 '의약품 같은 효능'으로 잡혀서 반려되기도 하거든.\n\n제품이 화장품인지 식품(혹은 건기식)인지에 따라 서류·기간·비용이 갈리니까, 분류부터 정확히 잡고 시작하자.",
+  "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://otislawyers.vn/ko/dv/cong-bo-my-pham-nhap-khau-vao-viet-nam-dich-vu-phap-ly-cua-otis-lawyers-kr — OTIS LAWYERS: 베트남 수입 화장품 등록(공보) 절차\nhttps://www.ktr.or.kr/certification/overseas/contentsid/2358/index.do — KTR: 베트남 화장품 신고 절차\nhttps://www.kfia.or.kr/kfia/sub.php?menukey=1462 — 한국식품산업협회: 베트남 식품 수출·인허가 절차\n⚠️ 소관기관(DAV/VFA)·단계·기간은 품목·시점별 상이 → 최신 기준 재확인",
+  "card": {
+    "kicker": "바르는 것 vs 먹는 것",
+    "headline": "화장품 공보와\n식품 허가는 *다르다*",
+    "body": "화장품=DAV 공보(3~10주).\n식품=VFA, 단계가 더 많다.",
+    "tag": "위생허가 · 레드트랜스"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-07",
+  "time_kst": "08:30",
+  "topic": "베트남수출인허가",
+  "text": "베트남 수출, 계약서 사인했다고 바로 파는 거 아니야. '제품 등록(인허가)'에서 몇 달씩 막히는 경우 진짜 많아.\n\nKOTRA도 짚었는데, 베트남은 소비재 제품 등록이 취소되거나 허가가 지연되는 일이 잦아.\n- 화장품: 보건부(DAV) 신고(공보) → 보통 3주~10주\n- 식품·건강기능식품: VFA 허가, 단계가 더 많아\n- 서류 한 줄 빠지거나 성분표 기준 안 맞으면 보완 요청에 또 몇 주\n\n그래서 '언제부터 팔 수 있냐'를 계약·발주보다 먼저 인허가 일정에 맞춰야 해. 통관 다 됐는데 등록이 안 끝나서 창고에 재고만 쌓이는 게 제일 아까운 그림이거든.\n\n품목별로 등록 기간이 천차만별이라, 너희 제품이 어디 속하는지부터 같이 짚어보자.",
+  "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://dream.kotra.or.kr/user/extra/kotranews/bbs/linkView/jsp/Page.do?dataIdx=231162 — KOTRA: 베트남 소비재 제품 등록 취소·허가 지연, 수출 유의사항\nhttps://otislawyers.vn/ko/dv/cong-bo-my-pham-nhap-khau-vao-viet-nam-dich-vu-phap-ly-cua-otis-lawyers-kr — OTIS LAWYERS: 베트남 수입 화장품 등록(공보) 절차\nhttps://www.kfia.or.kr/kfia/sub.php?menukey=1462 — 한국식품산업협회: 베트남 식품 수출절차·인허가 정보\n⚠️ 품목별 등록기간·소관기관(DAV/VFA)은 신청 시점 기준 재확인",
+  "card": {
+    "kicker": "수출 일정의 진실",
+    "headline": "계약보다 먼저\n*인허가 일정*이다",
+    "body": "화장품 공보 3~10주, 식품은 더 길게.\n등록 안 끝나면 재고만 쌓인다.",
+    "tag": "베트남수출 · 레드트랜스",
+    "photoQuery": "warehouse import export shipping logistics"
+  }
+}

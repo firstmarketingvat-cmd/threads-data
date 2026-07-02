@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-30",
+  "time_kst": "08:30",
+  "topic": "도련 블리드",
+  "text": "인쇄 맡겼는데 가장자리에 흰 줄 떴던 적 있어?\n⠀\n십중팔구 '도련(블리드)'을 안 줘서 그래.\n인쇄는 큰 종이에 찍고 잘라내는데, 재단이 머리카락 한 올만 밀려도 흰 테두리가 생기거든.\n⠀\n그래서 배경이 끝까지 찬 디자인은 상하좌우 3mm씩 더 키워서 작업해. 글자·로고 같은 중요한 건 가장자리에서 안쪽으로 충분히 띄우고.\n⠀\n카탈로그·전단 작업할 때 이 3mm가 '깔끔하게 잘려 나오느냐'를 가른다. 파일만 줘도 인쇄규격 맞게 잡아줄게.",
+  "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://www.lineprinting.co.kr/Blog/print-file-guide — 인쇄용 파일: 해상도·재단선·여백(도련) 가이드 (라인프린팅)\nhttps://remind-design.com/column/?bmode=view&idx=148158928 — 인쇄 블리드(Bleed) 설정 가이드 (리마인드디자인)\nhttp://iiden.co.kr/sub/sub09_03.php?mNum=9&sNum=3&boardid=guide&mode=view&idx=27 — 인쇄파일 3mm 크게: 도련·재단여분 이유\n⚠️ 도련 폭·안전여백은 인쇄소·제품별 규격 상이 → 입고 전 인쇄소 가이드 확인",
+  "card": {
+    "kicker": "인쇄 사고 1순위",
+    "headline": "가장자리 흰 줄?\n*도련 3mm* 때문",
+    "body": "배경은 3mm 더 키우고\n글자는 안쪽으로. 재단 밀려도 안 깨진다.",
+    "tag": "편집디자인 · haodesign",
+    "photoQuery": "printing press paper cutting catalog"
+  }
+}

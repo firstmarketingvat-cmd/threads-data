@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-26",
+  "time_kst": "06:30",
+  "topic": "한베FTA원산지",
+  "text": "베트남에 물건 보낼 때 'FTA 받았으니 끝'이라고 생각하면 한 번은 데인다. 직접 겪었어.\n\n한국에서 끊은 원산지증명서의 HS코드랑, 베트남 세관이 매기는 HS코드가 달라서 특혜관세가 막힌 적 있어. 베트남은 자기네 수입 HS코드 기준으로 증명서가 나와야 인정해줘.\n\n그래도 기회는 있어. 한-베 FTA는 사후적용 기간이 수입신고일로부터 1년이라, 통관 때 못 챙겨도 1년 안에 보정해서 환급받을 길이 남아.\n\n수출 앞두고 있으면 양국 HS코드부터 맞춰보고 가자. 거기서 관세가 갈려.\n\n#한베FTA",
+  "sources": "📍출처·소재 (수집 2026-06-25)\nhttps://dream.kotra.or.kr/user/extra/kotranews/bbs/linkView/jsp/Page.do?dataIdx=179968 — KOTRA, 베트남 수입 통관 시 FTA 적용 절차와 원산지증명서 요건 정리\nhttps://www.customs.go.kr/ftaportalkor/cm/cntnts/cntntsView.do?mi=3402&cntntsId=1062 — 관세청 FTA포털, 원산지증명서 발급 준비사항 안내\nhttps://www.customs.go.kr/ftaportalkor/ad/ftaCnvn/txrtInfo.do?mi=3526 — 관세청, 한-베/한-아세안 등 협정별 FTA 수입세율 조회\n⚠️ HS코드 분류·협정세율·사후적용 1년 규정은 관세청 FTA포털·KOTRA·현지 관세사로 건별 재확인",
+  "card": {
+    "kicker": "한-베 무역",
+    "headline": "FTA 받아도\n*HS코드 어긋나면* 관세 폭탄",
+    "body": "베트남은 자기 수입 HS코드 기준.\n안 맞으면 특혜관세 막힌다.",
+    "tag": "리얼 · 레드트랜스",
+    "photoQuery": "vietnam port container cargo customs shipping"
+  }
+}

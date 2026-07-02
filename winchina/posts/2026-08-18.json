@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-18",
+  "time_kst": "08:30",
+  "topic": "중국통신",
+  "text": "중국 도착해서 공항에서 유심 사려다 시간 훅 날리는 사람 봤어. 중국은 통신 실명제라 유심 하나 개통하는데 여권 등록하고 절차 밟느라 은근 오래 걸려.\n\n요샌 그냥 출국 전에 【eSIM】 깔고 가는 게 편해.\n✔️ QR 스캔 한 번이면 설치 끝, 유심 갈 필요 없음\n✔️ 로밍 경유형은 구글·카톡 되는 경우도 많아(만리방화벽 이슈 줄여줌)\n✔️ 로밍보다 훨씬 저렴(하루 무제한 몇천 원대)\n\n주의: eSIM 지원 폰인지 먼저 확인. 안 되는 기종은 유심으로 가야 해.\n\n짧은 여행이면 eSIM, 장기 체류·현지 번호 필요하면 유심 실명개통—이렇게 나눠 준비하면 돼.\n(요금·지원은 상품·기기별 상이, 구매 전 확인)",
+  "sources": "📍출처·소재 (수집 2026-07-01)\nhttps://kr.trip.com/guide/phone/중국+esim.html — 트립닷컴. 중국 eSIM vs 유심 비교·설치·데이터.\nhttps://esim.holafly.com/ko/guides-esim/top-best-esim-china/ — Holafly. 2026 중국 eSIM 가이드(설치·요금).\nhttps://namu.wiki/w/Korea%20SIM%20Card — 통신 실명제·유심 개통 절차 맥락 참고.\n⚠️ 정책·수치는 변동 가능 → 접수처·공식 채널 최신 기준 확인",
+  "card": {
+    "kicker": "중국 통신",
+    "headline": "중국 유심\n*줄 서지 마*",
+    "body": "실명제라 현지 유심 개통 오래.\n출국 전 eSIM이 편해.",
+    "tag": "#중국통신",
+    "photoQuery": "smartphone sim card travel china"
+  }
+}

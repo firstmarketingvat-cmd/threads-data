@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-02",
+  "time_kst": "08:30",
+  "topic": "리플렛 접지",
+  "text": "3단접지 리플렛, 다 똑같은 크기로 만들면 접을 때 안쪽 면이 삐져나와.\n⠀\n종이도 두께가 있어서, 안으로 말려 들어가는 패널은 1~2mm 작게 잡아야 깔끔하게 접히거든. 이걸 모르고 딱 3등분하면 접지 부분이 우글거려.\n⠀\n접지 방향(어느 면이 안으로 가는지)도 미리 정해야 디자인 흐름이 안 끊겨. 펼쳤을 때랑 접었을 때 보이는 순서가 다르니까.\n⠀\n리플렛·브로슈어, 접지까지 계산해서 잡아줄게. 인쇄소에서 '이거 다시 해야 돼요' 소리 안 듣게.",
+  "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://www.lineprinting.co.kr/Blog/print-file-guide — 인쇄용 파일·재단·접지 작업 가이드 (라인프린팅)\nhttps://digiprint.kr/bbs/board.php?bo_table=design_guide&wr_id=15 — 인디자인 인쇄 디자인 가이드 (디지프린트)\nhttps://factoryb.co.kr/theme/basic/file/print_guide.pdf — 인쇄 파일 작업 가이드(도련·접지) (팩토리비)\n⚠️ 접지 패널 보정값(1~2mm)은 종이 평량·접지 방식별 상이 → 인쇄소 확인",
+  "card": {
+    "kicker": "접지의 함정",
+    "headline": "3단접지, 3등분하면\n*삐져나온다*",
+    "body": "안으로 접히는 면은 1~2mm 작게.\n접지 방향까지 계산해야 깔끔.",
+    "tag": "편집디자인 · haodesign",
+    "photoQuery": "tri-fold brochure leaflet paper"
+  }
+}

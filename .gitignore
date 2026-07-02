@@ -1,0 +1,4 @@
+# Chỉ đồng bộ dữ liệu JSON (config + bài). Ảnh render lại trên cloud → không đồng bộ.
+*/images/
+**/*.png
+_*.json

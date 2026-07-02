@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-05",
+  "time_kst": "08:30",
+  "topic": "베트남노동허가",
+  "text": "베트남에 직원 파견 보낼 때, '비자만 있으면 일할 수 있겠지' 하면 큰일 나.\n\n외국인이 베트남에서 '일'을 하려면 노동허가증(Work Permit)이 따로 있어야 하거든. 비자랑 별개야.\n- 보통 입사 전에 회사가 신청 → 발급 후 거주증(TRC)까지 연결\n- 학력·경력증명 서류는 번역+공증+영사확인까지 필요해 (이게 시간 잡아먹어)\n- 면제 케이스도 있어: 30일 미만+연 3회 이하 전문가, 30억동↑ 출자자, 베트남인 배우자 등\n\n근데 면제도 그냥 넘어가는 게 아니라 '면제확인서'를 근무 10일 전에 받아둬야 해. 안 받고 일 시키다 적발되면 벌금에 추방까지 가는 경우도 있어.\n\n파견 계획 있으면 서류 리드타임부터 거꾸로 계산해야 해. 어디서 막히는지 궁금하면 물어봐.",
+  "sources": "📍출처·소재 (수집 2026-06-26)\nhttps://danang.mofa.go.kr/vn-ko/brd/m_2210/view.do?seq=47702 — 주베트남 대한민국대사관 기업지원헬프데스크: 노동허가 면제 안내\nhttps://world.moleg.go.kr/web/dta/lgslTrendReadPage.do?CTS_SEQ=55920&AST_SEQ=327 — 세계법제정보센터: 베트남 외국인근로자 노동허가 시행령(152/2020/NĐ-CP) 개편\nhttps://otislawyers.vn/ko/dv/truong-hop-nao-duoc-mien-giay-phep-lao-dong-kr — OTIS LAWYERS: 베트남 노동허가서 발급 면제 대상\nhttps://www.vinahanin.com/workpermit — 비나한인: 베트남 워크퍼밋·거주증 발급 절차·준비서류\n⚠️ 면제 요건·출자금 기준(30억동)·확인서 기한은 시행령 개정·관할 노동국 기준 재확인",
+  "card": {
+    "kicker": "주재원 파견 전",
+    "headline": "비자만 있으면 끝?\n*노동허가증*은 따로다",
+    "body": "Work Permit 없이 일 시키면 벌금·추방.\n면제도 '확인서'를 미리 받아야.",
+    "tag": "베트남 노무 · 레드트랜스",
+    "photoQuery": "office workers business meeting vietnam"
+  }
+}

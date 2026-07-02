@@ -1,0 +1,31 @@
+{
+  "id": "trevity__",
+  "name": "Trevity",
+  "name_local": "",
+  "language": "ko",
+  "threads_url": "https://www.threads.com/@trevity__",
+  "colors": {
+    "ink": "#222222",
+    "red": "#e23b3b",
+    "bg": "#ffffff",
+    "muted": "#6b6b6b"
+  },
+  "voice_summary": "반말/ 여행하다가 결국 체험단 플랫폼까지 만들어버린 마케터⠀\n⠀\n전 세계를 돌아다니며⠀\n직접 다녀오거나, 괜찮다 싶은 곳만 슬쩍 공유합니다⠀",
+  "threads": {
+    "user_id_secret": "THREADS_USERID_TREVITY__",
+    "token_secret": "THREADS_TOKEN_TREVITY__"
+  },
+  "schedule": {
+    "weekday": [
+      "08:30",
+      "21:00"
+    ],
+    "weekend": [
+      "10:30",
+      "20:30"
+    ],
+    "timezone": "Asia/Seoul"
+  },
+  "card_style": "photo",
+  "logo": "logo.jpg"
+}

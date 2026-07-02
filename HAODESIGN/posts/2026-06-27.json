@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "time_kst": "21:00",
+  "topic": "다국어·번역 편집디자인",
+  "text": "다국어 카탈로그, 번역만 끼워넣으면 백이면 백 레이아웃이 터져.\n⠀\n같은 문장도 언어마다 길이가 달라.\n독일어는 영어보다 30~40% 길어지고, 중국어는 20~30% 짧아져.\n한 칸에 욱여넣으면 줄이 어색하게 끊기거나 여백이 비어 버려.\n⠀\n그래서 난 번역을 직접 잡아.\n글 길이에 맞춰 칸을 다시 짜고, 한글은 단어 단위로 끊어(줄바꿈) 어색한 절단을 막아.\n번역·디자인이 한 손에서 가니까 말이 매끄럽게 앉지.\n⠀\n다국어 인쇄물 고민이면 편하게 견적 문의 줘.\n#편집디자인",
+  "sources": "📍출처·소재 (수집 2026-06-25)\nhttps://spoqa.github.io/2016/06/03/localize-type-setting.html — 다국어 타이포그래피: 언어별 텍스트 길이·글자 너비 차이 대응 (Spoqa 기술블로그) ⚠️ 30~40%·20~30% 수치는 일반 경험치, 콘텐츠별 편차 있음\nhttps://smartstudio.tech/deepdive-linebreak-css-about-language/ — 다국어 줄바꿈: keep-all로 라틴·CJK 불필요한 절단 방지 (SmartStudio 블로그)\nhttps://designbase.co.kr/dictionary/localization/ — 현지화: 폰트·이미지·색상 문화별 해석 차이 고려 (디자인 용어사전)\nhttps://helpx.adobe.com/kr/fonts/using/multiscript-typesetting.html — 다국어 섞어짜기·폰트 페어링 기준 (Adobe Fonts 도움말)",
+  "card": {
+    "kicker": "다국어 편집디자인",
+    "headline": "번역만 끼워넣으면\n*레이아웃이 터진다*",
+    "body": "언어마다 글 길이가 다르다.\n번역까지 직접 잡아야 말이 앉는다.",
+    "tag": "편집디자인 · haodesign",
+    "photoQuery": "multilingual catalog typography layout localization"
+  }
+}
