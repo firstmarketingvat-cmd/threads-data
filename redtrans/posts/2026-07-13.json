@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-13",
+  "time_kst": "08:30",
+  "topic": "베트남사회보험",
+  "text": "베트남 법인에서 한국 직원 쓸 때 급여만 계산하고 【사회보험】 빼먹는 경우 진짜 많아.\n\n12개월 이상 근로계약 외국인은 베트남 사회보험 의무가입이야. 요율이 세다 — 회사 17.5%, 본인 8%. 급여의 4분의 1이 보험료로 나간다고 보면 돼. (신 사회보험법 41/2024, 2025.7 시행 기준)\n\n근데 한국인은 카드가 하나 있어. 2024년 1월 발효된 【한-베 사회보장협정】. 연금 부분 이중가입이 면제돼서, 파견자는 최초 60개월(연장 36개월), 현지 채용 한국인도 60개월까지 베트남 연금보험료를 안 낼 수 있어.\n\n함정은 이게 자동이 아니라는 거. 국민연금 가입증명을 떼서 베트남 쪽에 제출해야 면제가 잡혀. 서류 안 챙기고 있다가 나중에 소급 정산으로 두들겨 맞는 케이스 봤다.\n\n너네 법인, 한국 직원 보험료 지금 어떻게 처리하고 있어?",
+  "sources": "📍출처·소재 (수집 2026-07-03)\nhttps://www.dnp-law.com/compulsory-social-insurance-contributions-and-benefits-for-foreign-employees-in-vietnam-in-2025/ — 외국인 의무 사회보험: 본인 8%·회사 17.5%, 12개월 이상 계약 대상(신법 41/2024, 2025.7.1 시행)\nhttps://kocham.kr/bbs/board.php?bo_table=notice&wr_id=1654 — 주베트남 대사관/KOCHAM 한-베 사회보험협정 Q&A: 2024.1.1 발효, 파견 60+36개월·현지채용 60개월 연금 면제\nhttps://taxsummaries.pwc.com/vietnam/individual/other-taxes — PwC: 베트남 사회보험 요율 교차 확인\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "한-베 실무",
+    "headline": "베트남 사회보험,\n급여의 *25%*가 더 나간다",
+    "body": "한국 직원은 한-베 협정으로 연금 면제 가능 — 단, 신청해야",
+    "tag": "#베트남사회보험",
+    "photoQuery": "payroll documents calculator office vietnam"
+  }
+}

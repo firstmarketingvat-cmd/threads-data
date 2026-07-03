@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-31",
+  "time_kst": "21:00",
+  "topic": "중국호텔",
+  "text": "중국 숙소, 싸다고 아무 데나 잡으면 체크인 데스크에서 막힌다. 아직도 【외국인 접수 안 되는 호텔】이 있어.\n\n원래 중국 호텔은 외국인 받으려면 자격을 따로 갖춰야 했는데, 2024년 5월 정부가 '자격 없다고 외국인 거부하지 마라'고 공지하면서 공식적으론 풀렸어. 근데 현장은 아직 과도기야. 로컬 저가 체인·소도시 숙소는 여권 등록 시스템이 없거나 직원이 등록할 줄 몰라서 그냥 돌려보내는 경우가 여전히 있다.\n\n✔️ 예약 전 숙소 페이지에서 【외국인 투숙 가능(外宾)】 표기 확인 — 트립닷컴 같은 덴 상세정보에 떠\n✔️ 소도시·초저가일수록 리스크 큼. 애매하면 체인급이 안전\n✔️ 현장서 거부당하면 그 자리서 환불 요청 + 예약내역 캡처 남겨둬\n\n호텔서 자면 주숙등기도 자동 처리되니까, 숙소는 몇 천 원 아끼는 것보다 '외국인 OK'가 먼저다.",
+  "sources": "📍출처·소재 (수집 2026-07-03)\nhttps://loyaltylobby.com/2024/05/25/chinas-government-responds-to-recent-incidents-of-foreign-guests-not-allowed-to-check-in-to-certain-hotels/ — 2024.5.24 중국 정부 공지 보도: '외국인 접수 자격 없음'을 이유로 한 투숙 거부 금지\nhttps://e.vnexpress.net/news/travel/why-many-chinese-hotels-don-t-accept-foreign-guests-4952211.html — 정책 이후에도 소규모·저가 호텔의 거부 사례 지속(시스템·언어 문제) 보도\nhttps://www.china-briefing.com/news/china-announces-several-measures-to-facilitate-hotel-accommodation-for-overseas-personnel/ — 외국인 숙박 편의 조치 정리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 여행 실무",
+    "headline": "싼 호텔 잡았다가\n*체크인 거부* 당한다",
+    "body": "외국인 접수 불가 숙소 아직 있다 — 예약 전 外宾 표기 확인",
+    "tag": "#중국호텔",
+    "photoQuery": "china hotel reception front desk"
+  }
+}

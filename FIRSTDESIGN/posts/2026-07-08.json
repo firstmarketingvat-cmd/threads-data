@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-08",
+  "time_kst": "08:30",
+  "topic": "메뉴판",
+  "text": "메뉴판 다시 뽑을 때 디자인만 바꾸지 말고 【가격 표기】부터 손봐. 돈 안 들이고 객단가 올리는 포인트가 여기 있어.\n\n코넬대 호텔스쿨 연구에서, 메뉴판에 통화 기호 없이 숫자만 적었더니 1인당 지출이 【8% 넘게】 높게 나왔어. '₩12,000'보다 '12,000'이 돈 나간다는 감각을 덜 건드리는 거야.\n\n실무에서 같이 챙기는 것―\n✔️ 가격을 오른쪽 끝에 점선으로 줄 세우지 말기. 손님이 음식이 아니라 가격끼리 비교하게 돼\n✔️ 가격은 메뉴 설명 바로 뒤에 같은 크기로 자연스럽게\n✔️ 밀고 싶은 대표 메뉴는 박스나 사진으로 시선을 먼저 잡기\n\n메뉴판은 인쇄물이 아니라 '조용한 영업사원'이야. 지금 우리 가게 메뉴판에 ₩ 붙어 있으면, 다음 인쇄 때 그거 하나만 빼봐.",
+  "sources": "📍출처·소재 (수집 2026-07-03)\nhttps://news.cornell.edu/stories/2009/12/beware-menus-dont-use-dollar-signs — 코넬대: 통화 기호 없는 메뉴가 1인당 지출 8.15% 증가\nhttps://www.nrn.com/menu-trends/cornell-cia-study-sometimes-it-pays-to-drop-the-dollars-from-your-menu — 코넬·CIA 공동 연구 보도\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "매장 디자인",
+    "headline": "메뉴판에서 *₩* 하나\n뺐을 뿐인데",
+    "body": "통화 기호 없는 메뉴판, 객단가 8% 차이",
+    "tag": "#메뉴판",
+    "photoQuery": "restaurant menu design table korean"
+  }
+}
