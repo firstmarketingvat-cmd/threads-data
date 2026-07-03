@@ -19,3 +19,5 @@
 - Mỗi thư mục con = 1 brand: `<brand>/config.json` + `<brand>/posts/YYYY-MM-DD.json`
 - Ngày bài mới = kế sau ngày mới nhất trong `<brand>/posts/`, không trùng ngày.
 - Chống trùng chủ đề (chủ repo yêu cầu 2026-07-03): quét `topic` + `card.headline` của **TẤT CẢ** bài đã có trong `<brand>/posts/` (không chỉ 10 bài gần nhất) — chủ đề mới không được trùng bất kỳ bài nào từ đầu. Riêng full text thì đọc kỹ ~10 bài gần nhất để tránh trùng góc viết/giọng.
+- `topic` = **từ khóa ngắn kiểu tag dễ viral trên Threads** (chủ repo yêu cầu 2026-07-03): 1 cụm ngắn ≤ ~8 ký tự Hàn, không ngoặc/không gạch/không viết cả câu (ví dụ tốt: `호이안`, `베트남우기`, `인쇄해상도`; ví dụ sai: `[호이안 입장권] 올드타운 12만동 티켓...`). Chi tiết dài để trong `text` và `card.headline`.
+- Lưu ý kỹ thuật: tên thư mục brand có thể chứa dấu cách (vd `FIRSTMARKETING COMPANY (VIETNAM)`) — khi dùng shell phải quote đường dẫn, và trước khi ghi file mới phải kiểm tra file chưa tồn tại.

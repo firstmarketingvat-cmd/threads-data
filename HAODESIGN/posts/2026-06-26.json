@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
   "time_kst": "08:30",
-  "topic": "인쇄 입고 데이터 주의점",
+  "topic": "인쇄데이터",
   "text": "디자인 멀쩡한데 인쇄가 망하는 이유, 대부분 '입고 데이터'에서 갈려.\n⠀\n26년 하면서 본 사고는 늘 똑같아.\n· 색은 RGB로 작업 → 인쇄하면 칙칙하게 빠짐 (CMYK 필수)\n· 이미지 72dpi 그대로 → 300dpi 아니면 글자·사진 깨짐\n· 도련 3mm 안 줌 → 재단할 때 끝이 잘려나감\n· 폰트 윤곽선 안 함 → 다른 PC서 글자 깨지고 누락\n⠀\n예쁘게 만드는 것보다, 인쇄소에서 사고 안 나게 넘기는 게 진짜 실력이야.\n#편집디자인",
   "sources": "📍출처·소재 (수집 2026-06-25)\nhttps://www.nanumprinting.co.kr/Guide/Guide02_1/ — 인쇄 입고 공통 주의: CMYK 변환·고해상(300dpi)·도련·폰트 윤곽선 (인쇄소 작업가이드) ⚠️ 규격·수치 입고 전 인쇄소별 재확인\nhttps://www.lineprinting.co.kr/Blog/print-file-guide — 인쇄용 파일 해상도·재단선·여백 가이드, 도련 3mm 기준 설명 (인쇄소 블로그) ⚠️ 도련 mm는 제품·제본별 상이\nhttps://dtpia.co.kr/WorkGuide/How/Common.aspx — 색상모드 CMYK·래스터 300ppi·폰트 윤곽선 만들기 공통 작업방법 (인쇄소 가이드)\nhttps://remind-design.com/column/?bmode=view&idx=147837621 — 인쇄용 파일 기본 규격과 해상도 설정법 정리 (디자인 칼럼)",
   "card": {
