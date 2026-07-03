@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-04",
+  "time_kst": "10:30",
+  "topic": "베트남 이커머스 결제수단 전환 — COD가 여전히 1위지만 BNPL(선구매 후결제)이 3년 만에 3배로, 결제단이 곧 전환율이다",
+  "text": "베트남 온라인 쇼핑 하면 아직도 'COD(착불 현금결제)'를 떠올립니다. 실제로 2025년에도 소비자가 가장 선호하는 결제수단 1위는 COD(약 35%). 여기까지만 보면 \"베트남은 현금 시장\"이라는 결론으로 끝나기 쉽습니다.\n\n그런데 그 밑에서 판이 바뀌고 있습니다. 지난 12개월간 BNPL(선구매 후결제)을 한 번이라도 써본 소비자가 49%. 2022년 17%에서 3년 만에 거의 3배로 뛰었습니다. 특히 25~34세, 여성 쇼퍼에서 증가가 가파릅니다.\n\n실무 관점에서 이게 왜 중요하냐면, COD와 BNPL은 브랜드에 주는 부담이 정반대이기 때문입니다.\n\nCOD는 결제 문턱은 낮지만 '수령 거부(반송)' 리스크를 판매자가 떠안습니다. 물류비·재고 손실이 그대로 마진을 갉습니다. 반대로 BNPL은 객단가를 끌어올리지만, 지원되는 결제 옵션이 없으면 장바구니에서 그냥 이탈합니다.\n\n그래서 결제단은 '기술팀 일'이 아니라 '마케팅 KPI'입니다. 광고로 트래픽을 아무리 밀어넣어도, 선호 결제수단이 checkout에 없으면 그 예산은 마지막 화면에서 샙니다.\n\n지금 점검할 것: 우리 상세페이지·checkout에 COD와 BNPL(및 MoMo·ZaloPay 같은 지갑)이 함께 걸려 있나요? 그리고 COD 반송률을 전환율만큼 관리하고 있나요?\n\n트래픽 최적화만큼 결제단 최적화를 보고 있는 브랜드가 베트남에서 마진을 지킵니다.",
+  "sources": "https://tgmresearch.com/vietnam-ecommerce-payment-shift-2025.html — TGM Research Vietnam E-Commerce Insights 2025: 2025년 COD 선호 35%, 지난 12개월 BNPL 사용 경험 49%(2022년 17%→약 3배), 25~34세·여성에서 증가 가팔라짐\nhttps://tgmresearch.com/press-tgm-vietnam-ecommerce-insights-2025.html — TGM Research 2025 보도자료: 베트남 이커머스의 소셜·모바일·플랫폼 파워 및 결제수단 다변화 추세\nhttps://datareportal.com/reports/digital-2025-vietnam — DataReportal Digital 2025 Vietnam: 인터넷 사용자 7,980만(침투율 78.8%), Zalo가 로컬 메신저로 상위권 — 로컬 결제지갑(ZaloPay 등) 생태계 배경",
+  "card": {
+    "kicker": "VIETNAM COMMERCE",
+    "headline": "COD는 1위, BNPL은 3년새 3배",
+    "body": "베트남 결제수단 1위는 여전히 COD(35%). 그런데 지난 12개월 BNPL 사용 경험이 49%로 2022년 대비 거의 3배. 결제단은 기술이 아니라 전환율 KPI입니다.",
+    "tag": "#베트남마케팅",
+    "photoQuery": "vietnam online shopping checkout mobile payment ecommerce"
+  }
+}
