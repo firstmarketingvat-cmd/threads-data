@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-28",
+  "time_kst": "08:30",
+  "topic": "중국결제",
+  "text": "'중국은 카드도 현금도 안 받는다며?' — 절반만 맞아. 결제는 결국 【알리페이·위챗페이】로 수렴한다. 핵심은 출국 전 5분 세팅이야.\n\n✔️ 비자·마스터 해외카드 연동 + 【여권 실명인증】까지 마쳐야 제대로 돌아가\n✔️ 수수료는 건당 200위안 이하 0%, 초과부터 3%\n✔️ 위챗페이는 첫 연동 후 60일간 1,000위안 이하도 수수료 면제 중 (2026.3 기준)\n✔️ 한도는 건당 5,000달러·연 5만 달러 — 여행엔 차고 넘친다\n\n근데 현지 스레드엔 '디디 불렀는데 카드 사용 불가 떴다'는 글이 종종 올라와. 일부 가맹점·미니프로그램은 아직 해외카드를 거절해. 소액 현금은 따로 챙겨라.\n\n제일 흔한 실패는 카드사 앱에서 【해외결제 ON】 안 켜고 가는 거다. 비행기 타기 전에 눌러라.",
+  "sources": "📍출처·소재 (수집 2026-07-03)\nhttps://www.threads.com/@skflwoddl/post/DWAqyKvmR9h — 현지/한국인 Threads: '알리페이에 여권을 등록해야 해?' 실명인증에 놀라는 실제 반응 (Threads)\nhttps://www.threads.com/@foxtail_9/post/DHlVkEzhA-U — 한국인 여행자 Threads: 디디 호출 후 '현지사용불가 카드'로 결제 실패한 실사례 (Threads)\nhttps://english.beijing.gov.cn/travellinginbeijing/essentials/inboundtourismfacilitationmeasures/202603/t20260326_4566766.html — 베이징시 공식(2026.3): 위챗페이 해외카드 200위안 이하 수수료 3% 면제 + 첫 연동 60일간 1,000위안 이하 면제\nhttps://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=2307252mur7f2307257zfyfe&lang=en&plat=ios&Channel=helpcenter — 위챗페이 공식 해외카드 연동 가이드(비자·마스터·JCB, 실명인증)\nhttps://realchinatrip.com/blogs/payments-apps/how-to-use-alipay-and-wechat-pay-for-foreigners-setup-limits-comparison-table — 한도 건당 5,000달러·연 5만 달러 정리 (인민은행 상향 기준)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 여행 실무",
+    "headline": "중국 결제 세팅,\n*출국 전 5분이 전부*",
+    "body": "해외카드 연동+여권 인증 · 200위안 이하 수수료 0% · 일부 매장은 해외카드 거절",
+    "tag": "#중국결제",
+    "photoQuery": "qr code payment smartphone china street market"
+  }
+}
