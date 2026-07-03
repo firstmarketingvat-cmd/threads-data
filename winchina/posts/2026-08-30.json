@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-30",
+  "time_kst": "10:30",
+  "topic": "보조배터리",
+  "text": "중국 도착해서 국내선 갈아타는 순간, 네 보조배터리가 【압수 1순위】 된다.\n\n작년 6월부터 중국 국내선은 【3C(CCC) 인증마크】 없는 보조배터리 기내 반입 금지야. 몸체에 마크가 선명히 박혀 있어야 하고, 흐릿하거나 리콜 모델이면 그 자리서 버려야 돼. 한국 제품 대부분 3C가 없다. KC·CE 보여줘도 안 통해. 실제로 푸둥에서 선전 가는 환승 검색대에서 뺏겼다는 글이 스레드에 계속 올라와.\n\n✔️ 한국↔중국 직항만 탄다 → 3C 해당 없음, 용량 규정만 지키면 돼\n✔️ 국내선 구간 있다 → 3C 없는 배터리는 두고 가라. 현지서 샤오미 하나 사는 게 싸다\n✔️ 100Wh 이하 OK, 위탁수하물은 무조건 금지\n✔️ 라벨 글씨 마모돼도 압수 대상이다\n\n베이징 찍고 시안·청두 들어가는 일정이면, 캐리어 싸기 전에 배터리 뒷면부터 뒤집어봐라.",
+  "sources": "📍출처·소재 (수집 2026-07-03)\nhttps://www.threads.com/@hwang_ssuya/post/DROIi6ngVFS — Threads 현지 후기: 푸둥공항 국내선 환승 보안검색서 CCC 미인증 보조배터리 압수당한 경험담\nhttps://www.threads.com/@lallal_redsix/post/DQQUsGNEr5i — Threads 현지 후기: KC·CE 마크 제시해도 불인정, 한국 배터리 업체 대부분 CCC 없음\nhttps://www.mofa.go.kr/cn-xian-ko/brd/m_26909/view.do?seq=2347789 — 주시안 대한민국총영사관 공지: 중국 국내선 탑승 시 보조배터리 반입 유의 (3C 인증)\nhttps://us.trip.com/guide/info/china-power-bank-limit.html — 2026 가이드: 2025-06-28 시행, 3C 미표시·표기 흐림·리콜 대상 반입 금지, 100Wh 이하 허용·위탁 금지\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 항공 규정",
+    "headline": "중국 국내선 보조배터리,\n*3C 없으면 압수*",
+    "body": "한국 배터리 대부분 3C 인증 없음 — 환승 검색대에서 그대로 버려진다",
+    "tag": "#보조배터리",
+    "photoQuery": "power bank airport security check tray"
+  }
+}
