@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-10",
+  "time_kst": "21:00",
+  "topic": "베트남개인정보보호법(PDPL)2026시행+개인정보국외이전CTIA의무",
+  "text": "베트남 거래하면서 고객 이름, 연락처, 주문 내역 엑셀로 한국 본사에 넘기는 거 다들 하잖아. 그거 이제 그냥 넘기면 안 된다.\n\n2026년 1월 1일부터 베트남 개인정보보호법(PDPL, 91/2025/QH15)이 시행됐어. 2023년부터 있던 시행령(Decree 13)을 통째로 갈아치운 정식 법률이고, 12월 31일에 세부 시행령(356/2025)까지 나왔다.\n\n핵심은 '국외이전'이야. 베트남에서 모은 개인정보를 밖으로 빼는 순간(=한국 본사 서버, 한국 클라우드로 넘기는 것 포함) 첫 이전 후 60일 안에 '국외이전 영향평가(CTIA)'를 준비해서 신고해야 해. 우리가 실제로 겪은 건, 이게 계약서 한 줄이나 시스템 세팅 문제가 아니라 '누가 어떤 데이터를 어디로 왜 보내는지'를 문서로 다 정리해야 하는 일이라는 거. 번역·현지화 업무에서도 고객 DB를 번역 툴이나 외주에 넘기면 그것도 걸릴 수 있어서, 우린 지금 데이터 흐름부터 다시 그리고 있어.\n\n리스크가 세다. 국외이전 위반은 직전 연도 매출의 최대 5%까지 과징금이 잡힌다(일반 위반 상한은 30억 동, 개인정보 불법 매매는 최대 이익의 10배). 벌금 액수만 보면 겁주는 것 같지만, 반대로 데이터 거버넌스 제대로 잡아두면 다른 동남아 규제 올 때 그대로 재활용된다는 게 기회 쪽이야.\n\n다만 이건 우리가 본 범위 안에서의 얘기고, 회사 규모(소기업·가구기업 유예·면제 조항 있음)나 데이터 종류에 따라 적용이 갈리니까 실제 적용은 꼭 확인해야 해.\n\n너희는 베트남 고객 데이터, 지금 어디로 어떻게 넘기고 있어? 국외이전이라는 개념 자체를 생각해본 적 있어?\n\n#베트남개인정보보호법",
+  "sources": "Tilleke & Gibbins — Vietnam's New Personal Data Protection Law: A Closer Look (Law 91/2025/QH15, effective 2026-01-01; Decree 356/2025 issued 2025-12-31; 5% revenue / VND 3bn / 10x penalties) https://www.tilleke.com/insights/vietnams-new-personal-data-protection-law-a-closer-look/\nVietnam-Briefing — Vietnam's Personal Data Protection Regulation: Decree 356 (Decree 356/2025/ND-CP, CTIA 60-day deadline) https://www.vietnam-briefing.com/news/vietnam-personal-data-protection-regulation-decree-356.html/\nITIF — Vietnam's Cross-Border Data Transfer Regulation (2025-06-09) https://itif.org/publications/2025/06/09/vietnam-cross-border-data-transfer-regulation/\n법률신문/율촌 — 베트남 개인정보보호법 제정(2026년 1월 시행) http://www.lawtimes.co.kr/news/articleView.html?idxno=209688",
+  "card": {
+    "kicker": "2026.1.1 시행 · 참고시점 2026.7",
+    "headline": "베트남 고객 데이터, 한국으로 그냥 넘기면 매출 5% 과징금",
+    "body": "PDPL(91/2025/QH15) 시행. 개인정보를 베트남 밖으로 이전하면 첫 이전 후 60일 내 국외이전 영향평가(CTIA) 신고 의무. 위반 시 직전 매출 최대 5% 과징금. 번역·현지화로 고객 DB 넘길 때도 적용될 수 있음.",
+    "tag": "#베트남개인정보보호법",
+    "photoQuery": "vietnam data privacy business office"
+  }
+}
