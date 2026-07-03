@@ -17,4 +17,5 @@
 
 ## Cấu trúc
 - Mỗi thư mục con = 1 brand: `<brand>/config.json` + `<brand>/posts/YYYY-MM-DD.json`
-- Ngày bài mới = kế sau ngày mới nhất trong `<brand>/posts/`, không trùng ngày, không trùng chủ đề với ~10 bài gần nhất.
+- Ngày bài mới = kế sau ngày mới nhất trong `<brand>/posts/`, không trùng ngày.
+- Chống trùng chủ đề (chủ repo yêu cầu 2026-07-03): quét `topic` + `card.headline` của **TẤT CẢ** bài đã có trong `<brand>/posts/` (không chỉ 10 bài gần nhất) — chủ đề mới không được trùng bất kỳ bài nào từ đầu. Riêng full text thì đọc kỹ ~10 bài gần nhất để tránh trùng góc viết/giọng.
