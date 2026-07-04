@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-16",
+  "time_kst": "21:00",
+  "topic": "베트남소득세",
+  "text": "베트남 법인 급여 담당자들, 7월 1일부터 【개인소득세(PIT)】 계산이 바뀌었다. 작년 12월 국회를 통과한 개정법이 시행됐거든.\n\n바뀐 것 세 가지만 기억해―\n✔️ 누진 구간 7단계 → 5단계로 단순화\n✔️ 최고세율 35% 기준이 월 8천만동 초과 → 【1억동 초과】로 상향. 고연봉 주재원 부담이 줄어드는 방향\n✔️ 본인공제 월 1,550만동, 부양가족 1인당 620만동으로 인상\n\n한국 회사들이 체크할 포인트는 '네트 계약'이야. 주재원 급여를 세후 기준으로 묶어둔 회사면 그로스업 비용이 달라져서, 회사가 아끼는 쪽으로 재계산 여지가 생겨.\n\n반대로 급여 시스템·연말정산 로직이 아직 옛 구간이면 원천징수부터 틀어진다.\n\n너네 법인 급여 계산식, 7월분부터 새 구간으로 바꿨어?",
+  "sources": "📍출처·소재 (수집 2026-07-04)\nhttps://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-040.html — KPMG: 개정 PIT법 2025.12.10 통과, 2026.7.1 시행, 구간 7→5단계·35% 기준 월 1억동\nhttps://www.vietnam-briefing.com/news/vietnams-personal-income-tax-law.html/ — 개정 내용 정리: 공제 본인 1,550만동/부양 620만동\nhttps://vietnam.acclime.com/news-insights/vietnams-new-personal-income-tax-law-in-2026-major-updates-and-business-impact/ — 기업 영향: 네트 계약·그로스업 재계산 포인트\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "한-베 실무",
+    "headline": "주재원 소득세,\n*35% 기준*이 올라갔다",
+    "body": "7.1 시행 — 구간 7→5단계, 공제 인상, 네트 계약은 재계산 각",
+    "tag": "#베트남소득세",
+    "photoQuery": "payroll tax calculator documents office vietnam"
+  }
+}
