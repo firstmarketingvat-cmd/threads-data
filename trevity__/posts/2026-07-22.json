@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-22",
+  "time_kst": "08:30",
+  "topic": "[입국신고서] 베트남 온라인 입국신고 의무화, 이거 모르고 가면 심사대에서 혼자 폰 붙잡고 있음",
+  "text": "베트남 4월 15일부터 온라인 입국신고 시작함. 종이신고서 이제 안 줌.\n\n지금은 호치민 떤선녓 공항만 '의무'인데, 하노이·다낭·푸꾸옥으로 넓힐 예정이라 미리 알아두는 게 이득임.\n\n정리하면 딱 이거야.\n- 출발 72시간(3일) 안에 작성\n- prearrival.immigration.gov.vn 여기서 무료로 함 (대행 결제 유도 사이트 조심)\n- 비자 대체 아님. 무비자든 전자비자든 이건 별도로 또 해야 됨\n- 다 하면 QR 나옴. 캡처나 프린트해서 심사대에서 보여주면 끝\n\n미리 안 해도 공항 QR 스캔해서 현장 작성은 되는데, 그 줄에서 여권·항공·호텔 정보 폰으로 치고 있으면 뒷사람 눈총 세게 옴. 5분이면 되는 거 미리 하고 가자.",
+  "sources": "https://vn.usembassy.gov/notice-implementation-of-pre-arrival-declaration-for-international-visitors-arriving-at-airports-in-vietnam/ — 주베트남 미국대사관 공지, 공항 사전 입국신고 시행 안내(공식 근거)\nhttps://prearrival.immigration.gov.vn/ — 베트남 출입국관리국 공식 사전신고 포털(무료 작성처)\nhttps://www.trip.com/guide/arrival/vietnam-arrival-card.html — 시행일 2026-04-15, 현재 떤선녓만 의무·타 공항 확대 예정, 72시간 전 작성·비자 대체 아님 확인\nhttps://www.vietnam-visa.com/vietnam-pre-arrival-form/ — 대상(외국인 여권 소지자)·작성 시기·공식 포털 교차확인",
+  "card": {
+    "kicker": "베트남 입국 실무",
+    "headline": "종이신고서 사라짐\n*온라인 입국신고* 이제 필수",
+    "body": "출발 72시간 안에 prearrival.immigration.gov.vn에서 무료로. 비자랑 별개, QR 받아서 심사대에 제출.",
+    "tag": "#베트남입국신고",
+    "photoQuery": "vietnam airport immigration passport control queue"
+  }
+}

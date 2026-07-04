@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-10",
+  "time_kst": "08:30",
+  "topic": "종이 결(그레인)",
+  "text": "같은 카탈로그를 같은 종이로 뽑았는데, 어떤 책은 페이지가 착 눕고 어떤 책은 자꾸 덮이려 들지. 26년 하다 보면 '아 이거 결 반대로 걸었네' 바로 보여.\n⠀\n종이는 만들 때 섬유가 한 방향으로 눕는다. 초지기 흐르는 쪽이 세로결(MD), 그 수직이 가로결(CD)이야. 이 결 방향으로는 술술 접히는데, 결을 가로지르면 잘 안 접히고 접힌 자리가 섬유째 끊겨서 갈라진다.\n⠀\n그래서 접지·제본엔 규칙이 하나 있어. 접는 선, 그리고 책등이 결 방향과 나란해야 한다는 거. 이걸 어기면 두꺼운 표지는 접힌 골이 하얗게 트고, 책은 안 펼쳐지고 뻑뻑해지고, 습도 바뀌면 배가 물결치듯 울어. 특히 시간 지날수록 더 티나.\n⠀\n디자인 파일엔 안 보이는 축이라 견적·발주 단계에서 결부터 잡고 들어가는 이유야. 종이 고를 때 평량·재질만 보지 말고 결이 어느 쪽인지 한 번씩 물어봐.",
+  "sources": "https://www.redprinting.co.kr/ko/guide/view/1 — 국내 인쇄사 가이드, MD/CD(세로결·가로결) 정의와 '결 방향으로는 쉽게, 수직으로는 안 접힌다'는 실무 원칙 확인\nhttps://www.ibookbinding.com/blog/paper-grain-direction-and-cardboard-grain-direction/ — 제본 전문 자료, 결 반대로 접으면 갈라짐·찢김 발생, 결을 책등과 나란히 둬야 함\nhttps://blog.papercraftpanda.com/the-most-important-rule-in-bookbinding-grain-direction/ — 결이 책등과 가로지르면 골 갈라짐·뻑뻑한 펼침·표지 뒤틀림·앞배 물결이 생기고 세월·습도에 악화된다는 설명",
+  "card": {
+    "kicker": "HAODESIGN · 인쇄 현장",
+    "headline": "페이지가 안 눕는 책,\n대부분 *결* 때문이야",
+    "body": "종이엔 세로결·가로결(MD/CD)이 있고, 접는 선과 책등이 결과 나란해야 한다. 어기면 골이 갈라지고 책이 뻑뻑해지고 표지가 뒤틀려. 디자인엔 안 보이는 축이라 발주 전에 잡는다.",
+    "tag": "#종이결",
+    "photoQuery": "paper grain fiber texture bookbinding spine"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-10",
+  "time_kst": "08:30",
+  "topic": "경면스테인리스",
+  "text": "요즘 광장·리테일에서 '거울처럼 주변을 비추는' 조형물 많이 봤을 거야. 경면 스테인리스다. 하늘·사람·매장을 통째로 반사해서 배경이 매번 바뀌는 게 매력이지.\n\n근데 예쁜 만큼 손이 많이 간다. 지문, 빗물 자국, 새똥, 해안가 소금기가 표면에 얼룩·부식으로 남아. 그래서 관리는 딱 두 가지만 기억하면 돼. 미지근한 물 + 중성세제, 그리고 극세사 천. 연마재·철수세미·염소 표백제는 절대 금지 — 한 번 긁히면 거울이 안 돌아온다.\n\n하나 더, 소재 등급을 안 보고 발주하면 1년 안에 반점이 핀다. 일반 304랑 해안용 316은 몰리브덴 유무로 갈리는데, 염분 환경에선 수명 차이가 크다. 그래서 우린 설치 위치부터 물어보고 등급을 정한다. 바닷가면 두말없이 316.\n\n반짝이는 건 잠깐이고, 그 반짝임을 몇 년 유지하는 건 설계 단계에서 갈린다.",
+  "sources": "https://finestsculpture.com/blogs/news/how-to-care-for-stainless-steel-mirror-sculptures-cleaning-maintenance-protection-guide — 경면 스테인리스 관리 가이드: 중성세제+극세사, 연마재·염소 금지, 지문·빗물·소금기·새똥이 얼룩 유발, 야외는 4~8주 딥클리닝·연 1~2회 나노 코팅.\nhttps://www.buildersstainless.com/stainless-steel-grades-marine-coastal-construction — 해안 시공 등급 해설: 해안가는 316 권장, 304는 염화물 공식(pitting)에 취약.\nhttps://www.reliance-foundry.com/blog/304-vs-316-stainless-steel — 304 vs 316 차이: 316의 몰리브덴이 염수 부식 저항 결정, 염수 환경 수명차 큼.",
+  "card": {
+    "kicker": "경면 스테인리스 조형물",
+    "headline": "거울처럼 반짝이는 조형물,\n그 광택을 *몇 년* 유지하려면",
+    "body": "지문·빗물·소금기가 얼룩을 만든다. 관리는 중성세제+극세사, 연마재·염소는 금지. 해안이면 소재 등급도 304 아닌 316으로.",
+    "tag": "#경면스테인리스",
+    "photoQuery": "mirror polished stainless steel sculpture outdoor plaza"
+  }
+}
