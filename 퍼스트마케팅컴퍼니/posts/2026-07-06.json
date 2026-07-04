@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-06",
+  "time_kst": "08:30",
+  "topic": "베트남 전자상거래법 7/1 발효 — 셀러 실명인증 전면화",
+  "text": "7월 1일부터 베트남에서 '익명 셀러'가 사라지고 있어. 전자상거래법이 발효됐거든.\n\n바뀐 것들:\n· 플랫폼 셀러는 VNeID(전자신분) 인증 의무\n· 틱톡샵 신규 셀러는 주민증 NFC 스캔까지\n· 쇼피는 7/8부터 은행계좌 실명인증 안 하면 출금 정지\n· 외국 플랫폼은 현지법인 또는 대리인 지정 의무\n\n무섭게 들리지? 근데 반대로 보면, 서류 제대로 갖춘 기업한테는 경쟁자가 정리되는 구간이야. 대충 하던 셀러들이 빠져나간 자리는 결국 준비된 쪽이 가져가더라.\n\n#베트남진출",
+  "sources": "https://moit.gov.vn/tin-tuc/luat-thuong-mai-dien-tu-chinh-thuc-duoc-quoc-hoi-thong-qua.html — 베트남 산업통상부(MOIT) 공식: 전자상거래법 통과·2026-07-01 시행, 외국 플랫폼 현지 실체 의무\nhttps://baomoi.com/luat-thuong-mai-dien-tu-co-hieu-luc-dinh-danh-nguoi-ban-bang-vneid-c55528380.epi — 현지 보도(7/2): VNeID 셀러 신원인증 의무화 발효\nhttps://cafebiz.vn/san-thuong-mai-dien-tu-dong-loat-siet-dinh-danh-nguoi-ban-17626070409004686.chn — CafeBiz(7/4): 틱톡샵 CCCD NFC 스캔, 쇼피 7/8 출금 제한 등 플랫폼별 조치",
+  "card": {
+    "kicker": "베트남 규제 브리핑",
+    "headline": "베트남 *익명 셀러*의\n시대가 끝났다",
+    "body": "7/1 전자상거래법 발효 — VNeID 실명인증·현지 대리인 의무화",
+    "tag": "#베트남진출",
+    "photoQuery": "ho chi minh city vietnam business district"
+  }
+}
