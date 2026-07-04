@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-07",
+  "time_kst": "21:00",
+  "topic": "떤선녓 공항 입국 사전신고 QR — 실전 팁",
+  "text": "4월 15일부터 떤선녓 공항으로 입국하는 외국인은\n온라인 사전신고가 의무야. 아직 모르는 사람 많더라.\n\nprearrival.immigration.gov.vn\n도착 3일 전부터 입력 가능하고, 제출하면 QR 하나 나와.\n그거 입국심사 때 보여주면 끝. 완전 무료야.\n(돈 내라는 사이트는 전부 사칭이니까 조심하고)\n\n실전 팁 하나.\n주소란에 특수문자나 긴 번지수 넣으면 자꾸 오류 나.\n건물명 정도로 간단하게 쓰면 통과돼.\n나도 처음에 몇 번 튕겼어 ㅎㅎ\n\n대신 이거 해두면 입국심사가 진짜 빨라.\n요즘 저녁 시간대는 5분 컷 했다는 사람도 있으니까\n비행 전에 3분만 투자해.\n(2026년 7월 기준, 현재 떤선녓만 의무·타 공항 순차 확대 예정)\n\n#호치민",
+  "sources": "https://vn.usembassy.gov/change-to-entry-requirements-for-passengers-arriving-at-tan-son-nhat-international-airport-sgn/ — 떤선녓 공항 사전신고 의무화 공지(주베트남 미국대사관, 공식)\nhttps://prearrival.immigration.gov.vn/ — 베트남 출입국관리국 공식 사전신고 포털\nhttps://www.threads.com/@yangdongseuk/post/DXO4TOUGgKs/ — 호치민 10년차 교민의 실제 후기: 입력 6번 만에 성공(주소 숫자 제거), 입국심사 5분\nhttps://www.threads.com/@tckulee/post/DXOe6QaCDVW/ — 4/15부터 사전신고 필수 안내(한인 커뮤니티 확산 글)",
+  "card": {
+    "kicker": "REDTRANS · 입국 실무",
+    "headline": "떤선녓 입국,\n*QR 사전신고* 의무",
+    "body": "도착 3일 전부터 무료 신고 — 주소는 간단하게 써야 통과",
+    "tag": "#호치민",
+    "photoQuery": "tan son nhat airport immigration arrival"
+  }
+}

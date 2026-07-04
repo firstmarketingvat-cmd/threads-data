@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-11",
+  "time_kst": "10:30",
+  "topic": "성급 합병 1년 — 라이선스 주소, 바꿔야 하나?",
+  "text": "성급 합병(63개 → 34개)된 지 딱 1년.\n요즘도 제일 많이 받는 질문이 이거야.\n\n\"라이선스 주소 다 바꿔야 하나요?\"\n\n답부터. 당장 안 바꿔도 돼.\n재무부 공문(4370/BTC-DNTN)으로 기존 라이선스는 그대로 유효하고,\n다른 변경사항 생길 때 같이 바꾸면 돼.\n변경 자체는 무료에 3영업일이라 어렵지도 않아.\n\n근데 함정이 하나 있어.\n세금계산서 주소는 등록 주소랑 일치해야 해서,\n거래처가 새 주소로 끊어달라고 하는 순간부터 꼬이기 시작해.\n도장 주소 따로, 은행 등록 주소 따로, 사회보험 따로…\n\n그래서 요즘은 자본금 변경이든 뭐든 한 건 생겼을 때\n주소까지 한 번에 정리하는 법인이 늘었어.\n어차피 할 거면 흩어놓지 말고 묶어서 하는 게 답이야.\n(2026년 7월 기준)\n\n#베트남 법인",
+  "sources": "https://www.talentnetgroup.com/vn/featured-insights/hr-operations/business-license-updates-after-provincial-mergers — 합병 후 라이선스 갱신 불요(공문 4370/BTC-DNTN) 실무 정리\nhttps://www.vietnam-briefing.com/news/update-your-company-address-after-vietnams-provincial-merger-a-brief-guide.html/ — 주소 변경 절차·무료·3영업일, 인보이스 주소 일치 이슈\nhttps://vero-asean.com/vietnam-provincial-reform-2025-business-implications/ — 63→34개 합병 구조와 기업 영향 개관",
+  "card": {
+    "kicker": "REDTRANS · 법인 실무",
+    "headline": "합병 1년,\n주소 *안 바꿔도* 된다?",
+    "body": "라이선스는 그대로 유효 — 단, 세금계산서 주소가 함정",
+    "tag": "#베트남 법인",
+    "photoQuery": "vietnam map administrative documents stamp"
+  }
+}
