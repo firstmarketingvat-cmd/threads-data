@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-01",
+  "time_kst": "08:30",
+  "topic": "디디추싱",
+  "text": "중국서 길에서 택시 잡는 순간 호구 확정이야. 관광지·공항 앞은 미터기 안 켜고 부르는 값이 기본이거든. 정답은 【디디추싱】 하나다.\n\n근데 디디 앱 따로 깔 필요도 없어. 알리페이 안에 【DiDi Travel】 미니앱이 있어서, 알리페이에 해외카드만 등록돼 있으면 중국 번호 없이 바로 부른다.\n\n✔️ 출발·도착지 영문 입력 가능, 호출 전 예상요금부터 뜬다 — 바가지 원천 차단\n✔️ 기사와는 자동번역 채팅으로 소통. 자주 쓰는 문구도 알아서 추천해줘\n✔️ 같은 거리라도 차량 등급 따라 요금 몇 배 차이. 급한 거 아니면 기본 등급이면 충분해\n\n공항 픽업존에서 '택시?' 하며 다가오는 사람 따라가지 마라. 앱에서 부른 차 번호판만 확인하면 끝이다.",
+  "sources": "📍출처·소재 (수집 2026-07-04)\nhttps://kr.trip.com/guide/transport/%EB%94%94%EB%94%94+%ED%83%9D%EC%8B%9C.html — 디디 영어 인터페이스·예상요금 표시·자동번역 채팅\nhttps://korean.beijing.gov.cn/specials/paymentservices/howtopaybeijing/202405/t20240511_3674073.html — 알리페이 해외카드 등록 후 내부 미니앱(DiDi 포함) 이용 가능 (공식)\nhttps://www.threads.com/@jnahee/post/DHEIoCmSMAM — Threads 현지 후기: 같은 거리도 차량 등급별 52~147위안 차이\nhttps://www.threads.com/@ekon_jade/post/DHSqVZmScqv — Threads: 길빵 택시 바가지·미터기 회피 사례, 디디 호출 권장\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 여행 실무",
+    "headline": "중국 택시, 손 들지 말고\n*디디*로 불러라",
+    "body": "알리페이 속 DiDi Travel — 중국 번호 없이 호출, 예상요금 먼저",
+    "tag": "#디디추싱",
+    "photoQuery": "china city taxi street ride hailing app"
+  }
+}
