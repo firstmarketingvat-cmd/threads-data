@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-10",
+  "time_kst": "08:30",
+  "topic": "베트남개인정보보호법",
+  "text": "베트남 마케팅 하는데 '고객 DB 사서 문자·메시지 돌리기', 아직도 이렇게 하는 브랜드 있어. 2026년부턴 이거 진짜 위험해.\n\n2026년 1월 1일부터 베트남 개인정보보호법(PDPL, 법률 91/2025)이 시행됐어. 2023년 시행령(Decree 13)을 통째로 대체하는 '법'이야. 시행령보다 급이 올라간 거지.\n\n마케터가 꼭 알아야 할 세 가지만 정리하면\n\n1. 개인정보 '사고파는' 행위 자체가 원칙적으로 금지야. 리드 리스트 구매해서 뿌리던 방식, 여기서 막혀.\n\n2. 동의는 '목적별로 따로, 자발적으로, 명확하게'. 회원가입 하나에 마케팅 수신·제3자 제공까지 묶어서 한 번에 체크시키는 '번들 동의'는 걸려.\n\n3. 벌금이 세. 개인정보 불법 매매는 부당이득의 최대 10배, 국경 간 데이터 이전 위반은 직전연도 매출의 최대 5%까지 물릴 수 있어.\n\n한국 본사가 베트남 고객 데이터를 그냥 한국 서버로 넘겨 받던 관행도 다시 봐야 해. '이전'에 해당하면 5% 규정 안에 들어와.\n\n결국 핵심은 하나. 이제 베트남 마케팅은 '데이터를 어떻게 모으고 어디에 두고 어떤 동의를 받았나'가 캠페인만큼 중요해졌다는 거.",
+  "sources": "https://www.tilleke.com/insights/vietnams-new-personal-data-protection-law-a-closer-look/ — Tilleke & Gibbins(현지 로펌): PDPL 2026.1.1 시행, 개인정보 매매 금지, 매매 위반 부당이득 10배·국경이전 위반 매출 5% 벌금 확인\nhttps://rouse.com/insights/news/2025/vietnam-s-new-personal-data-protection-law-what-businesses-need-to-know — Rouse: 법률 91/2025/QH15가 Decree 13(2023) 대체, 데이터 매매 전면 금지 조항\nhttps://www.mondaq.com/privacy-protection/1662942/vietnams-new-personal-data-protection-law-what-businesses-need-to-know — Mondaq: 동의는 목적별·자발적·명확해야 하며 번들/포괄 동의 금지 명시\nhttps://dream.kotra.or.kr/user/extra/kotranews/bbs/linkView/jsp/Page.do?dataIdx=222587 — KOTRA: 마케팅·광고 분야가 법 적용 대상, 한국 진출기업이 동의 확보·수집경로 확인 내부 시스템 필요",
+  "card": {
+    "kicker": "VIETNAM PDPL 2026",
+    "headline": "베트남, 이제\n'DB 사서 뿌리는' 마케팅은 *벌금감*",
+    "body": "2026.1.1 개인정보보호법(법률 91/2025) 시행 · 개인정보 매매 금지 · 번들 동의 금지 · 위반 시 부당이득 10배 / 매출 5%",
+    "tag": "#베트남개인정보보호법",
+    "photoQuery": "vietnam data privacy law smartphone security"
+  }
+}

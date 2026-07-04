@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-02",
+  "time_kst": "08:30",
+  "topic": "중국인터넷",
+  "text": "중국 도착해서 '유심 샀는데 왜 구글·카톡이 안 되지?' 하는 사람, 매년 똑같이 나와.\n\n핵심은 하나야. 【중국 현지 유심(또는 호텔 와이파이)】으로 붙으면 트래픽이 중국 안에서 걸러져. 만리방화벽 그대로 맞는 거지. 구글·인스타·왓츠앱·카톡까지 먹통이거나 툭툭 끊긴다.\n\n반대로 한국 통신사 【국제로밍】이나 【해외 eSIM(홍콩·한국 망 경유)】은 데이터가 중국 밖 서버로 나갔다 들어와. '로밍' 트래픽이라 방화벽 검열 대상에서 아예 빠져. 그래서 VPN 안 켜도 google.com 그냥 열린다.\n\n정리하면 이렇게 봐:\n- 현지 유심 → 방화벽 O. VPN 필요\n- 로밍 / 해외 eSIM → 방화벽 우회. VPN 불필요\n- 호텔·카페 와이파이는 현지망이라 또 막힘(노트북 주의)\n\nVPN 쓸 거면 하나 못 박고 가. 중국 안에선 VPN 앱 다운 자체가 어려워. 【출국 전 미리 설치】하고, 양회 같은 민감한 시기엔 그 VPN도 흔들린다는 것도 알아둬라.\n\n관광객이 VPN 썼다고 잡혀간 사례는 아직 없어. 다만 규정상 '비인가 경로 접속'은 이론적으로 벌금 대상이라, 업무·장기체류면 애초에 로밍/eSIM으로 깔끔하게 가는 게 속 편해.",
+  "sources": "https://www.nomadesim.com/blog/do-you-need-a-vpn-for-travel-to-china — 여행 eSIM/로밍이 중국 밖 서버로 트래픽을 라우팅해 만리방화벽을 우회, VPN 불필요. 현지 와이파이 붙으면 다시 차단된다는 메커니즘 확인.\nhttps://esimdb.com/blog/travel-esim-china-vpn-great-firewall/ — 로밍 연결은 중국 외부 서버 경유라 검열 필터를 안 받는다는 원리, WhatsApp 등 서구 앱 차단 현황(2026).\nhttps://sesamedisk.com/china-vpn-regulations-2026/ — 중국 VPN 규제 2026: 비인가 경로 접속 시 최대 RMB 5,000 벌금 조항, 단속은 제공자·자국민 위주라는 실무 현황.\nhttps://www.travelchinacheaper.com/is-it-legal-to-use-a-vpn-in-china — 관광객 VPN 사용은 회색지대, 외국인 처벌 사례 사실상 없음, 앱은 출국 전 미리 설치 권고.",
+  "card": {
+    "kicker": "중국 인터넷",
+    "headline": "유심 샀는데 왜\n구글·카톡이 안 되지?",
+    "body": "현지 유심·호텔 와이파이는 방화벽 그대로.\n로밍·해외 eSIM은 중국 밖으로 나갔다 와서\nVPN 없이도 뚫린다. VPN 쓸 거면 출국 전 설치.",
+    "tag": "#중국인터넷",
+    "photoQuery": "china smartphone great firewall internet"
+  }
+}
