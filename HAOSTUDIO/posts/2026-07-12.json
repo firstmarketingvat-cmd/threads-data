@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-12",
+  "time_kst": "10:30",
+  "topic": "AI배경",
+  "text": "요즘 'AI로 배경 깔면 되는데 촬영이 왜 필요해요?' 진짜 많이 듣는다. 근데 AI 배경 컷, 보는 사람은 이유도 모른 채 '어딘가 어색한데' 하고 넘겨버려.\n\n원인은 결국 【빛】이야.\n✔️ 제품에 맺힌 하이라이트 방향과 배경 광원이 서로 다르고\n✔️ 제품이 바닥에 닿는 접지 그림자가 비어서 '붕 뜬' 느낌이 나고\n✔️ 유리·금속은 존재하지도 않는 배경을 반사해야 하니 표면부터 어긋나\n\n그래서 스튜디오는 AI를 버리는 게 아니라 순서를 지켜. 들어갈 배경을 먼저 정하고, 그 장면의 빛 방향·색온도에 맞춰 제품을 실제로 촬영한 다음, AI는 배경 확장·정리에만 써. 접지 그림자와 반사는 반드시 카메라로 담고.\n\n소비자 10명 중 9명이 'AI 이미지인지 알고 싶다'는 시대야(게티이미지 조사). 결국 팔리는 컷의 신뢰는 실제 빛에서 나온다.",
+  "sources": "📍출처·소재 (수집 2026-07-05)\nhttps://newsroom.gettyimages.com/en/getty-images/nearly-90-of-consumers-want-transparency-on-ai-images-finds-getty-images-report — 게티이미지 조사: 소비자 약 90% 'AI 이미지 여부 알고 싶다' (2024.4)\nhttps://contentauthenticity.org/blog/photo-forensics-from-lighting-shadows-and-reflections — 합성 판별 포렌식: 광원 방향·그림자·반사 일관성\nhttps://www.cloudretouch.com/match-lighting-product-background-swap/ — 리터칭 실무: 배경 교체 시 빛 방향·접지 그림자 매칭\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 인사이트",
+    "headline": "AI 배경이 *어색한* 이유\n빛은 못 속인다",
+    "body": "광원 방향·접지 그림자·반사 — 어긋나는 건 결국 빛이다",
+    "tag": "#AI배경",
+    "photoQuery": "product photography studio lighting setup softbox"
+  }
+}
