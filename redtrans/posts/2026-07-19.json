@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-19",
+  "time_kst": "10:30",
+  "topic": "계좌생체인증",
+  "text": "베트남 법인 계좌, 어느 날 갑자기 이체가 안 되면 십중팔구 【생체인증】 문제다.\n\n작년 7월부터 법인 계좌는 법정대표자가 은행에 생체인증(안면 등록)을 안 해두면 온라인 이체가 막혀. 개인도 1회 1,000만동 넘는 온라인 송금엔 얼굴 인증이 붙고. 중앙은행이 인증 안 된 비활성 계좌 8,600만 개를 정리했다는 발표까지 나왔다.\n\n한국 회사들이 걸리는 포인트는 이거야―\n✔️ 법정대표가 한국 상주면 인증하러 【본인이 직접 베트남 은행】에 가야 하는 경우가 많다. 출장 일정에 은행 방문부터 박아라\n✔️ 대표 교체·여권 갱신하면 정보 업데이트도 다시\n✔️ 급여일·세금 납부일에 계좌 막히면 그때부턴 진짜 손해다\n\n우리도 대표 출장 때 거래 은행 돌면서 등록했다. 너네 법인 계좌, 대표 생체인증 돼 있는지 확인해봤어?",
+  "sources": "📍출처·소재 (수집 2026-07-06)\nhttps://www.vietnam.vn/en/tu-ngay-1-7-2025-tam-dung-giao-dich-voi-doanh-nghiep-chua-xac-thuc-sinh-trac-hoc — 현지 보도: 2025.7.1부터 법정대표 생체인증 미완료 기업 전자거래 중단\nhttps://www.aseandaily.co.kr/news/articleView.html?idxno=1006134 — 아세안데일리: 1회 1,000만동 이상 온라인 송금 생체인증 의무\nhttps://www.insidevina.com/news/articleView.html?idxno=40152 — 인사이드비나: 생체인증 미완료·장기 미사용 계좌 8,600만 개 삭제\nhttps://woori.com.vn/en/news/notice-on-updating-valid-identification-documents-and-registering-biometrical-information-to-avoid-transaction-interruptions/ — 우리은행 베트남 공지: 신분증 업데이트·생체정보 등록 안내\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 실무",
+    "headline": "법인 계좌가 갑자기 막혔다?\n대표 *생체인증*부터 확인",
+    "body": "법정대표 안면 등록 없으면 온라인 이체 정지 — 출장 때 은행부터",
+    "tag": "#계좌생체인증",
+    "photoQuery": "face recognition smartphone banking authentication vietnam"
+  }
+}

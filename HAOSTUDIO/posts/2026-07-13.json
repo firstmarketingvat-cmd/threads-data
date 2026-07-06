@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-13",
+  "time_kst": "08:30",
+  "topic": "렌즈화각",
+  "text": "폰으로 제품 찍으면 어딘가 뚱뚱하고 어색하게 나오지? 조명 문제가 아니라 【화각】 때문일 확률이 높아.\n\n폰 기본 카메라는 광각이야. 가까이서 찍으면 가운데가 부풀고 가장자리가 늘어나는 왜곡이 생겨. 화장품 용기가 실물보다 땅딸막해 보이는 이유지.\n\n스튜디오가 제품컷에 【85~100mm】(풀프레임 기준) 렌즈를 쓰는 것도 그래서야―\n✔️ 왜곡이 거의 없어서 병·박스의 직선이 그대로 산다\n✔️ 카메라가 제품에서 멀어지니 그 사이에 조명 세팅할 공간도 나온다\n✔️ 주얼리처럼 작은 건 100mm 마크로로 디테일까지\n\n폰으로 찍어야 하면 방법은 하나야. 제품에서 【두세 걸음 물러나서】 망원(2x·3x)으로 당겨 찍어봐. 렌즈 하나 안 바꾸고 실루엣이 달라진다.",
+  "sources": "📍출처·소재 (수집 2026-07-06)\nhttps://tomcrowl.com/best-focal-length-for-product-photography/ — 제품 촬영 권장 화각: 풀프레임 50~100mm, 광각 왜곡 주의\nhttps://skylinefba.com/best-focal-length-for-product-photography/ — 50mm 미만 광각 왜곡, 장초점일수록 왜곡 감소\nhttps://callofphotography.com/85mm-vs-100mm-macro/ — 85mm vs 100mm 마크로: 워킹 디스턴스·디테일 비교\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 노하우",
+    "headline": "제품이 뚱뚱하게 나오는 건\n조명 아니라 *화각* 탓",
+    "body": "광각의 왜곡을 지우는 85~100mm — 폰이면 물러나서 망원으로",
+    "tag": "#렌즈화각",
+    "photoQuery": "camera lens 85mm studio product photography setup"
+  }
+}
