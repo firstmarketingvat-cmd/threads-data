@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-15",
+  "time_kst": "21:00",
+  "topic": "네이버톡톡",
+  "text": "전화는 놓칠 때가 많고, 인스타 DM은 손님이 다 쓰는 것도 아니지? 네이버 검색·플레이스에서 바로 채팅이 들어오는 【네이버 톡톡】부터 켜자.\n\n✔️ 손님은 앱 설치 없이 네이버에서 바로 문의 — 진입장벽이 없다\n✔️ 개설·이용 【무료】. 스마트플레이스와 연동하면 가게 정보 보다가 그 자리에서 채팅으로 이어진다\n✔️ 영업시간·주차 같은 단골 질문은 【자동응답】으로 걸어두면 알아서 처리된다\n✔️ '알림받기' 누른 고객에겐 신메뉴·이벤트 메시지를 보낼 수 있다 — 동네 단골용 미니 채널인 셈\n\n단, 톡톡은 켜는 것보다 【답하는 속도】가 생명이다. 문의를 쌓아두면 안 켠 것만 못해. 답장 담당부터 정하고 시작하자.",
+  "sources": "📍출처·소재 (수집 2026-07-10)\nhttps://ssl.pstatic.net/static.talk/bizmember/guide/Naver%20TalkTalk%20Starter%20Kit.pdf — 네이버톡톡 공식 서비스 소개서(무료·자동응답·알림받기 마케팅)\nhttps://docs.channel.io/help/ko/categories/네이버-톡톡-21827f8f — 톡톡 연동·상담 기능 정리\nhttps://help.worksmobile.com/ko/use-guides/message/store-bot/smart-place/home/ — 스마트플레이스 연동 고객문의 통합 관리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "동네 장사 툴",
+    "headline": "전화 못 받는 사장님,\n*톡톡*이 대신 받는다",
+    "body": "무료 개설·자동응답·알림받기 마케팅까지",
+    "tag": "#네이버톡톡",
+    "photoQuery": "shop owner smartphone chat customer service"
+  }
+}

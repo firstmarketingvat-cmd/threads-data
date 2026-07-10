@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-24",
+  "time_kst": "08:30",
+  "topic": "출생증명",
+  "text": "해외 기관이 'Birth Certificate 내세요' 하면 다들 한 번 멈칫해요. 한국엔 【그 이름의 서류가 없거든요】.\n\n한국에서 출생 증명 역할을 하는 건―\n✔️ 기본은 【기본증명서(상세)】. 출생 일시·장소·신고일이 모두 실려요\n✔️ 부모 관계까지 요구하는 기관이면 가족관계증명서를 세트로 내는 경우가 많아요\n✔️ 병원 출생증명서는 출생신고용 서류라 성인이 새로 떼기 어렵고, 해외 제출용으로도 잘 안 받아줘요\n✔️ 경로는 늘 같은 순서예요: 번역 → 【번역공증】 → 아포스티유(협약국) 또는 영사확인\n\n포인트는 '어느 서류로 대체할지'를 정하는 건 한국이 아니라 【제출처】라는 것. 요구 문구(birth certificate, long form 등)를 그대로 받아두는 게 첫 단추예요.",
+  "sources": "📍출처·소재 (수집 2026-07-10)\nhttps://allminwon.com/main/product_view.php?pro_num=A00801 — 한국통합민원센터, 기본증명서 해외 제출(번역·공증·인증) 안내\nhttps://allminwon.com/gn_board/view.php?bbs_code=blog&page=3&bd_num=2763 — 출생증명서 대체 서류·번역공증·아포스티유 절차\nhttps://www.apostille.go.kr/index.do — 대한민국 e-아포스티유 공식 서비스\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "서류 가이드",
+    "headline": "한국엔 없는 서류,\n*출생증명서*",
+    "body": "기본증명서(상세)로 대체하는 순서",
+    "tag": "#출생증명",
+    "photoQuery": "birth certificate official documents stamp"
+  }
+}
