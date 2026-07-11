@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-16",
+  "time_kst": "08:30",
+  "topic": "블랙제품",
+  "text": "검은 제품 찍으면 그냥 시커먼 덩어리로 나오지? 빛을 더 쏟아부어도 소용없어. 검정은 【비추는】 게 아니라 【윤곽을 긋는】 촬영이야.\n\n✔️ 라인 — 제품 뒤쪽 양옆에 스트립박스를 세워 모서리에 가는 하이라이트를 긋는다. 이 선이 형태를 만든다\n✔️ 노출 — 카메라는 검정도 중간 밝기로 만들려고 해서 자동으로 찍으면 회색으로 떠. 노출 보정을 마이너스로 내려 검정을 검정답게\n✔️ 배경 — 블랙 온 블랙이면 배경을 제품에서 멀리 빼. 빛은 거리 제곱으로 약해져서 뒤로 갈수록 배경이 더 깊게 가라앉는다\n\n무광·유광도 갈려. 유광 블랙은 조명 '면'이 그대로 비치니 큰 면광으로 매끈한 반사를 심고, 무광은 결이 살도록 옆에서 쓸어주는 사광.\n\n검정은 색으로 찍는 게 아니라 반사로 찍는 색이다.",
+  "sources": "📍출처·소재 (수집 2026-07-11)\nhttps://www.threads.com/@studio_gamsungs/post/DEMVkxky7y7 — 한국 사진 스튜디오 계정 Threads 게시물: 조명 활용 '검은 배경 만들기' — 광원에서 배경이 멀어질수록 배경이 어두워진다는 원리(역제곱 감쇠) 설명. 배경 분리 팁의 근거.\nhttps://digital-photography-school.com/how-to-shoot-black-objects-on-black-backgrounds/ — 블랙 온 블랙 촬영 가이드: 림 라이트로 피사체 윤곽을 배경에서 분리, 배경에 닿는 광량 통제가 핵심.\nhttps://visualeducation.com/class/how-to-photograph-black-products-on-a-black-backdrop-using-2-lights/ — 조명 2등(스트립)으로 검정 제품 모서리에 엣지 하이라이트를 만드는 표준 세팅.\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "블랙 제품 촬영",
+    "headline": "검정은 비추는 게 아니라\n*긋는* 거다",
+    "body": "스트립 라이트로 윤곽선을 긋고, 노출은 마이너스로. 검정은 반사로 찍는 색.",
+    "tag": "#제품촬영",
+    "photoQuery": "black product photography rim light dark background studio"
+  }
+}

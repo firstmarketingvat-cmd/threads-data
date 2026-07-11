@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-16",
+  "time_kst": "08:30",
+  "topic": "QR인쇄",
+  "text": "전단지에 QR 넣고 인쇄했는데 【스캔이 안 되는】 경우, 십중팔구 파일이 아니라 설계 문제다.\n\n✔️ 크기: 최소 2×2cm. 멀리서 찍는 포스터는 【스캔 거리의 1/10】이 기준 — 1m 거리면 코드가 10cm는 돼야 해\n✔️ 여백: 코드 사방에 【4모듈 이상 빈 공간】(ISO 표준). 테두리·글자를 바짝 붙이면 그때부터 복불복\n✔️ 대비: 밝은 배경에 어두운 코드. 파스텔·회색·반전(흰 코드)은 인식률이 뚝 떨어진다\n✔️ 데이터: 캡처 이미지 말고 벡터로. 인쇄용은 4도 검정 말고 【K100 단독】 — 핀 어긋나면 셀이 뭉개진다\n\n마지막으로, 인쇄 전 교정지를 폰 서너 대로 직접 찍어봐라. 26년째 QR 들어간 시안은 이 관문 못 넘으면 안 넘긴다.",
+  "sources": "📍출처·소재 (수집 2026-07-11)\nhttps://www.qrcode.com/ko/howto/code.html — QR코드 개발사 덴소웨이브 공식 가이드: 심볼 사방 4셀 이상 마진(여백) 필수, 셀이 클수록 인식 수월 — 여백·크기 수치의 1차 근거\nhttps://www.threads.com/@design_boc/post/DKjXnG5vO1d — 한국 디자이너 Threads 게시물(현지 소재): 최소 2×2cm, 300dpi/벡터 사용, 밝은 배경+어두운 코드, 낮은 대비·복잡한 배경 회피, 인쇄 전 여러 기기로 테스트 등 실무 체크리스트\nhttps://qrcodekit.com/guides/quiet-zone-requirements-for-qr-codes/ — ISO/IEC 18004 기준 콰이어트 존 4모듈, 스캔 거리 10:1 원칙 정리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 상식",
+    "headline": "멀쩡한 QR이 인쇄만 하면\n*먹통 되는* 이유",
+    "body": "크기·여백·대비 — 스캔되는 QR의 조건",
+    "tag": "#QR코드",
+    "photoQuery": "smartphone scanning QR code printed flyer poster"
+  }
+}
