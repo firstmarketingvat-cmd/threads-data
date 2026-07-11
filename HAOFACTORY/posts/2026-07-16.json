@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-16",
+  "time_kst": "08:30",
+  "topic": "코르텐강",
+  "text": "요즘 미술관 마당이나 공원에서 보는 '일부러 녹슨' 철 조형물, 방치된 게 아니다. 【코르텐강(내후성강)】이라는 소재다.\n\n구리·크롬 등을 섞은 강재라, 표면에 생긴 녹이 치밀하게 안정되면 그 녹이 오히려 속을 지키는 【보호막】이 된다. 도장 없이, 세월이 그대로 마감이 되는 철이지.\n\n다만 조건이 있다―\n✔️ 젖고 마르기를 반복해야 녹이 안정된다. 늘 젖어 있거나 물이 고이는 디테일이면 일반 철처럼 계속 삭는다\n✔️ 해안가 염분은 보호막을 계속 벗겨내서 부적합 — 바닷가면 다른 소재로 간다\n✔️ 안정되기 전 초기엔 녹물이 흘러내린다. 바닥이 밝은 석재면 자갈층·배수 디테일까지 같이 설계해야 얼룩이 안 남는다\n\n같은 붉은 녹인데, 어떤 건 작품이 되고 어떤 건 하자가 된다. 그 차이는 소재가 아니라 【자리 읽기】에서 갈린다.",
+  "sources": "📍출처·소재 (수집 2026-07-11)\nhttps://www.steelconstruction.info/Weathering_steel — 내후성강 개요: 구리·크롬·니켈 등 합금 강재, 건습 반복으로 안정 녹층(파티나) 형성, 상시 습윤·매립 환경에선 일반강 수준으로 부식해 비권장\nhttps://straightcurve.com/uk/questions/corten-steel-weathering-steel-7-questions/ — 파티나 형성은 기후 따라 수개월~수년, 초기 녹물 흘러내림으로 바닥 오염 가능(안정 후 감소)\nhttps://www.ahlcorten.com/news/is-corten-steel-siding-right-for-your-climate.html — 해안 염화물이 보호 녹층을 계속 벗겨내 재부식 유발, 해수 인근 사용 비권장(美 FHWA 기준 언급)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "소재 노트",
+    "headline": "일부러 녹슨 철,\n녹이 *보호막*이 된다",
+    "body": "코르텐강 — 건습 반복이 조건, 해안 염분과 초기 녹물은 설계에 넣어야",
+    "tag": "#코르텐강",
+    "photoQuery": "corten weathering steel sculpture rust patina outdoor plaza"
+  }
+}
