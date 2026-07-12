@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-17",
+  "time_kst": "08:30",
+  "topic": "바코드",
+  "text": "패키지·리플렛에 바코드 넣고 인쇄했는데 【스캔이 안 되는】 사고, 인쇄 잘못이 아니라 디자인 단계에서 이미 정해진 경우가 많다.\n\n스캐너는 붉은 빛으로 바코드를 읽는다. 그래서―\n✔️ 빨강·주황 바는 스캐너 눈엔 【흰색】으로 보인다. 빨간 바코드는 그 자체로 불량\n✔️ 바는 어두운 색, 바탕은 밝은 색. 검정 바+흰 바탕이 정답이고, 금박·은박 바탕은 난반사로 위험하다\n✔️ 축소는 【표준 크기의 80%】가 하한. 그 밑으로 줄이면 인쇄 퍼짐에 바 간격이 뭉개진다\n✔️ 좌우 여백(콰이어트 존)은 규격의 일부다. 테두리·그림을 바짝 붙이면 인식률이 뚝 떨어져\n\n계산대에서 안 찍히는 바코드는 디자인이 아무리 예뻐도 반품 사유다. 데이터 넘기기 전에 출력해서 폰으로 한 번 찍어봐라.",
+  "sources": "📍출처·소재 (수집 2026-07-12)\nhttps://www.gs1us.org/upcs-barcodes-prefixes/how-to-use-your-upc-barcodes/place-barcodes-on-products — GS1 US: 바코드 배치·인쇄 가이드(색상 대비, 콰이어트 존)\nhttps://www.gs1au.org/resources/how-to-guides/creating-and-printing-barcodes — GS1 호주: 스캐너 적색광 특성상 빨간 바는 인식 불가, 검정 바+흰 바탕 권장, 축소 한계\nhttps://www.gs1uk.org/knowledge-hub/barcodes/what-is-a-quiet-zone — GS1 UK: 콰이어트 존 정의와 침범 시 인식 실패\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 실무 노트",
+    "headline": "빨간 바코드는\n스캐너엔 *안 보인다*",
+    "body": "색·크기·여백 — 인쇄 전에 정해지는 바코드 인식률",
+    "tag": "#바코드",
+    "photoQuery": "barcode scanner supermarket checkout red laser closeup"
+  }
+}
