@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-24",
+  "time_kst": "08:30",
+  "topic": "베트남법인세",
+  "text": "베트남 법인 있는 회사들, 올해 세무 신고 전에 【법인세법】부터 다시 봐라. 새 법(67/2025/QH15)이 작년 10월 1일 발효됐고, 【2025 회계연도분부터 적용】이다.\n\n핵심은 중소기업 우대세율이 처음 생겼다는 것―\n✔️ 연매출 30억동 이하: 【15%】\n✔️ 30억~500억동: 【17%】\n✔️ 그 위는 기존 20% 그대로\n\n단, 함정이 있다. 모회사-자회사, 특수관계사로 쪼개서 매출을 낮추는 구조엔 우대세율이 안 붙어. 관계사 요건에 걸리면 배제된다.\n\n베트남에 소규모 법인 돌리는 한국 회사엔 실질 감세인데, 적용 판단이 【직전 연도 매출】 기준이라 올해 숫자가 내년 세율을 정한다.\n\n너네 법인 작년 매출, 어느 구간이야?",
+  "sources": "📍출처·소재 (수집 2026-07-13)\nhttps://www.ey.com/en_gl/technical/tax-alerts/vietnam-passes-new-corporate-income-tax-law — EY: 베트남 신 법인세법(67/2025/QH15) 통과, 15%/17% 우대세율 신설\nhttps://vietnam.acclime.com/news-insights/vietnams-new-corporate-income-tax-law-strategic-overhaul-effective-october-2025/ — Acclime: 2025년 10월 1일 발효, 2025 과세연도부터 적용\nhttps://www.roedl.com/en/insights/vietnam-new-corporate-income-tax-law/ — Rödl & Partner: 매출 30억동/500억동 구간, 관계사 분할 방지(안티 프래그멘테이션) 조항\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 비즈니스",
+    "headline": "베트남 법인세,\n*15% 구간*이 생겼다",
+    "body": "새 법인세법 — 연매출 30억동 이하 15%, 500억동까지 17%",
+    "tag": "#베트남법인세",
+    "photoQuery": "Ho Chi Minh City office buildings finance skyline"
+  }
+}
