@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-20",
+  "time_kst": "08:30",
+  "topic": "포커스스태킹",
+  "text": "주얼리·시계 클로즈업, 조리개를 아무리 조여도 【초점이 다 안 맞는】 이유가 있어요. 접사 거리에선 심도가 몇 mm뿐이라, 반지의 스톤은 쨍한데 밴드는 흐려지죠.\n\n그렇다고 f/22까지 조이면 【회절】 때문에 사진 전체가 물러져요. 렌즈가 제일 쨍한 f/8~f/11에선 심도가 모자라고요.\n\n그래서 프로 접사는 【포커스 스태킹】으로 갑니다―\n✔️ 초점을 앞에서 뒤로 조금씩 옮기며 여러 장 촬영 — 반지 하나에 15~20컷도 찍어요\n✔️ 각 컷의 쨍한 부분만 소프트웨어로 합성, 앞부터 뒤까지 전부 선명한 한 장을 만듭니다\n✔️ 조건은 삼각대 고정·동일한 조명·움직이지 않는 피사체. 여기서도 결국 세팅이 8할이에요\n\n한 컷처럼 보이는 주얼리 매크로, 사실은 【수십 장짜리 한 장】입니다.",
+  "sources": "📍출처·소재 (수집 2026-07-15)\nhttps://photographylife.com/macro-photography-tutorial/2 — Photography Life: 1:1 접사 심도 2~3mm 수준, f/16 이상 회절로 화질 저하\nhttps://pathedits.com/blogs/tips/jewelry-photo-retouching — 주얼리 스태킹 컷수: 평면 펜던트 5~8컷, 입체 반지 15~20컷+\nhttps://www.packshot-creator.com/how-to/focus-stacking-jewelry/ — 상업 주얼리·시계 촬영에서 포커스 스태킹은 표준 워크플로\nhttps://helpx.adobe.com/photoshop/desktop/create-masks/blend-images/create-a-composite-with-extended-depth-of-field.html — 포토샵 Auto-Blend(Stack Images) 합성 절차\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "제품 접사",
+    "headline": "쨍한 주얼리 한 컷,\n사실은 *수십 장*입니다",
+    "body": "심도 몇 mm의 세계 — 조리개 대신 포커스 스태킹으로 답한다",
+    "tag": "#포커스스태킹",
+    "photoQuery": "jewelry ring macro photography sparkling gemstone closeup"
+  }
+}

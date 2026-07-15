@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-20",
+  "time_kst": "08:30",
+  "topic": "무료이미지",
+  "text": "'무료 이미지니까 그냥 쓰면 되죠?' — 카탈로그 데이터 받다 보면 제일 아찔한 말이다. 무료와 【무제한】은 다르거든.\n\n✔️ 언스플래시·픽사베이, 상업 인쇄 자체는 된다. 근데 사진 속 【사람·로고·브랜드】는 별개다 — 그 권리까지 준 적 없다고 라이선스에 박혀 있어\n✔️ 알아볼 수 있는 인물을 광고물에 쓰려면 모델 동의(릴리즈)가 필요한데, 무료 스톡은 이걸 【보증 안 해준다】. 확인 책임은 쓰는 쪽이야\n✔️ 유료 스톡도 끝이 아니다. 표준 라이선스엔 인쇄 【50만 부】 한도가 흔하고, 패키지·판매용 제품은 확장 라이선스 영역이다\n✔️ 폰트처럼 이미지도 내용증명 날아오는 시대다. 어떤 파일을 어떤 라이선스로 받았는지 【기록】이 방패다\n\n그래서 우린 시안에 이미지 앉힐 때 출처·라이선스부터 정리한다. 예쁜 사진 한 장보다 【출처 한 줄】이 회사를 지킨다.",
+  "sources": "📍출처·소재 (수집 2026-07-15)\nhttps://unsplash.com/license — Unsplash License: 상업 사용 가능하되 상표·로고·인물 권리는 불포함\nhttps://help.unsplash.com/en/articles/6611971-model-and-property-release-overview — Unsplash 공식: 모델·재산 릴리즈 무보증, 확인은 사용자 책임\nhttps://pixabay.com/service/license-summary/ — Pixabay Content License: 단독 재판매·상표적 사용·보증 암시 금지\nhttps://www.shutterstock.com/help/en/articles/10617089-shutterstock-standard-image-license-vs-enhanced-image-license — Shutterstock: 표준 라이선스 인쇄 50만 부 한도, 재판매·패키지는 Enhanced\nhttps://www.korea.kr/news/reporterView.do?newsId=148931087 — 정책브리핑: '개인용 무료' 소재의 상업 사용 분쟁·내용증명 사례\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 실무",
+    "headline": "무료 이미지의 청구서는\n*인쇄 후에* 온다",
+    "body": "상업 OK ≠ 무제한 — 인물·로고·부수 한도는 별개다",
+    "tag": "#무료이미지",
+    "photoQuery": "photographer stock photos contact sheet lightbox"
+  }
+}
