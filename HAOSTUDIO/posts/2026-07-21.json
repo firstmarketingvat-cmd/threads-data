@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-21",
+  "time_kst": "08:30",
+  "topic": "테더링",
+  "text": "촬영장 사진 보면 카메라에 케이블이 꽂혀 큰 모니터로 이어져 있죠. 폼이 아니라 【테더링】 — 프로 제품 촬영의 기본 세팅이에요.\n\n✔️ 카메라 뒷면 LCD는 작아서 【초점 미세 빗나감, 렌즈 먼지, 원치 않는 반사】가 안 보여요. 큰 화면에서 100%로 확대해야 잡힙니다. 집에 와서 발견하면 그날 촬영은 다시예요\n✔️ 찍는 순간 파일이 컴퓨터로 넘어가니 【실시간 컨펌】이 됩니다. 클라이언트와 그 자리에서 '이 컷 OK'를 정하면 재촬영 리스크가 사라져요\n✔️ 세팅값 비교도 즉시 — 조명 한 끗 바꾼 A/B컷을 나란히 놓고 고릅니다\n✔️ 파일이 카메라+컴퓨터에 【이중 저장】되니 백업까지 자동이고요\n\n결과물 차이는 셔터가 아니라 이런 확인 공정에서 벌어져요. 촬영 견적 비교할 때 '모니터 보면서 컨펌 가능한가'를 물어보세요 — 스튜디오의 작업 방식이 보입니다.",
+  "sources": "📍출처·소재 (수집 2026-07-16)\nhttps://www.captureone.com/blog/shooting-tethered-with-capture-one-pro — 캡처원 공식: 테더링 촬영의 즉시 대형화면 확인·품질 컨트롤·협업 워크플로\nhttps://thedigitalstory.com/2020/06/tethered-product-photography-with-Capture-One-Pro.html — 제품 촬영에서 테더링의 효율: 실시간 확인·세팅 비교\nhttps://www.slrlounge.com/capture-one-vs-lightroom-tethered-shooting/ — 스튜디오 테더링 표준 워크플로 비교(수치·정책 인용 없음, 실무 지식 기반)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "스튜디오 노트",
+    "headline": "프로 촬영장에 큰 모니터가\n*꼭 있는* 이유",
+    "body": "테더링 — 초점·먼지·반사를 그 자리에서 잡는 확인 공정",
+    "tag": "#테더링",
+    "photoQuery": "photography studio tethered camera laptop monitor product set"
+  }
+}

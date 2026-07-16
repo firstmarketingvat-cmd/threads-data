@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-30",
+  "time_kst": "08:30",
+  "topic": "반려동물검역",
+  "text": "이민·주재원 준비 상담에서 의외로 늦게 터지는 서류가 【반려동물 검역】이에요. 사람 서류는 몇 주면 되는데, 강아지·고양이는 【몇 달】 단위거든요.\n\n✔️ 출국 자체는 간단해 보여요 — 공항 농림축산검역본부에서 검역증명서 발급(수수료 1만원). 문제는 그 전 단계입니다\n✔️ 순서가 정해져 있어요. 【마이크로칩 이식 → 광견병 예방접종 → 항체가 검사】. 항체가는 0.5 IU/㎖ 이상이어야 하고, 채혈은 접종 4주 뒤가 권장이에요\n✔️ 나라마다 요구가 달라요 — 채혈 후 일정 기간 지나야 입국 가능한 국가, 지정 서식 건강증명서·사전 수입허가까지 받는 국가도 있습니다\n✔️ 그래서 권장 준비 기간이 【6~7개월 전】부터예요\n\n기준은 늘 같습니다 — 서류의 정답은 우리가 아니라 【도착국 검역당국】이 정해요. 출국일보다 검역 조건 확인이 먼저입니다.",
+  "sources": "📍출처·소재 (수집 2026-07-16)\nhttps://www.qia.go.kr/livestock/qua/livestock_outforeign_hygiene_inf.jsp — 농림축산검역본부 공식: 개·고양이 출국 검역 절차, 공항 검역증명서 발급·수수료 1만원\nhttps://www.qia.go.kr/livestock/qua/livestock_dogcat_quar_con.jsp — 검역본부: 마이크로칩·광견병 항체가 0.5 IU/㎖ 기준(한국 재입국 시에도 적용)\nhttps://kbthink.com/main/living-finance/consumption-life/card-consumption/pet-travel-abroad.html — 준비 기간 6~7개월 권장, 접종 4주 후 채혈·국가별 검역규정 상이\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "출국 서류 실무",
+    "headline": "반려동물 출국 서류는\n*몇 달* 단위다",
+    "body": "마이크로칩 → 접종 → 항체가 검사 — 정답은 도착국 검역당국에 있다",
+    "tag": "#반려동물검역",
+    "photoQuery": "dog travel crate airport pet passport documents"
+  }
+}
