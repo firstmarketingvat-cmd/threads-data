@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-29",
+  "time_kst": "08:30",
+  "topic": "인쇄용PDF",
+  "text": "인쇄소에 '원본(ai) 파일 주세요' 하던 시대는 갔다. 요즘 데이터 사고를 막는 표준은 【인쇄용 PDF】 — 그중에서도 PDF/X 규격이다.\n\n✔️ PDF/X-1a는 조건이 빡빡하다 — 폰트 【전부 임베드】, 색은 【CMYK·별색만】, 투명도는 병합. 사고 날 요소를 저장 단계에서 걸러준다\n✔️ RGB 이미지가 한 장이라도 섞이면 인쇄에서 색이 뒤집힌다 — X-1a로 뽑으면 이 실수가 【원천 차단】돼\n✔️ 도련 3mm와 재단선까지 넣어야 진짜 인쇄용이다. 규격만 맞추고 도련 빼먹는 게 제일 흔한 실수야\n✔️ 인디자인·일러스트 저장 창에서 사전설정 【PDF/X-1a:2001】 하나 고르면 끝난다. 어려운 게 아니라 안 하는 거다\n\n인쇄 사고의 8할은 기계가 아니라 파일에서 난다. 26년째 최종 데이터를 PDF/X로만 주고받는 이유다.",
+  "sources": "📍출처·소재 (수집 2026-07-29)\nhttps://remind-design.com/column/?bmode=view&idx=148411284 — PDF/X-1a 정의·필수 설정(폰트 임베드, CMYK/별색, 투명도 병합) 정리 (디자인 실무 칼럼)\nhttps://infobooks.gabia.io/bbs/board.php?bo_table=w3_1&wr_id=7 — 인쇄소 제출용 PDF 사전설정(PDF/X-1a;2001, 옵셋 CMYK) 안내 (인쇄 실무)\nhttps://domeprinting.com/printing-quote-request/ — 인쇄용 파일 PDF/X-1a·X-4 권장, 300dpi·CMYK 체크리스트 (인쇄사)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 실무",
+    "headline": "인쇄 데이터의 표준\n*PDF/X*",
+    "body": "폰트 임베드·CMYK·투명도 병합 — 사고 요소를 저장 단계에서 거른다",
+    "tag": "#인쇄용PDF",
+    "photoQuery": "prepress printing proof cmyk color bars desk"
+  }
+}
