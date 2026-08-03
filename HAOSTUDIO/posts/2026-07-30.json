@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-30",
+  "time_kst": "08:30",
+  "topic": "이미지압축",
+  "text": "스튜디오에서 받은 쨍한 사진, 상세페이지에 올리니 【흐릿해지는】 경험 있으시죠? 카메라 탓이 아니라 파일이 다치는 과정 때문이에요.\n\n✔️ JPG는 저장할 때마다 데이터를 버리는 【손실 압축】 포맷입니다. 열어서 수정하고 다시 저장할수록 화질이 계단식으로 깎여요 — 복사본의 복사본과 같은 원리죠\n✔️ 업로드하면 플랫폼이 한 번 더 【리사이즈·압축】을 겁니다. 이미 깎인 파일은 여기서 티가 확 나요\n✔️ 그래서 수정은 원본(PSD·PNG)에서 하고, JPG 저장은 【맨 마지막 한 번】만 하는 게 원칙입니다\n✔️ 내보낼 땐 플랫폼 규격에 맞추세요 — 스마트스토어 상세는 가로 860px 권장. 엉뚱한 크기로 올리면 강제 리사이즈로 또 뭉개집니다\n\n사진 퀄리티는 촬영장에서 끝나지 않아요. 【마지막 저장 버튼】까지가 관리 구간입니다.",
+  "sources": "📍출처·소재 (수집 2026-08-03)\nhttps://imagekit.io/blog/jpeg-image-degradation/ — ImageKit: JPEG 손실 압축은 재저장할 때마다 아티팩트가 누적되는 세대 손실(generation loss) 발생, 편집은 무손실 포맷(PNG·TIFF)에서 하고 JPEG 저장은 최종 1회만 권장\nhttps://cloudinary.com/blog/why_jpeg_is_like_a_photocopier — Cloudinary: JPEG 재저장 화질 저하를 '복사기의 복사본' 효과로 설명\nhttps://uploadcare.com/blog/jpeg-quality-loss/ — Uploadcare: JPEG 양자화 단계의 비가역 손실·재압축 누적 열화 원리\nhttps://1minutesangse.com/guides/smartstore-detail-page — 스마트스토어 상세페이지 2026 가이드: 상세설명 이미지 가로 860px 권장, 긴 이미지는 세로 약 5,000px 이내로 분할\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "스튜디오 노트",
+    "headline": "쨍하게 받은 사진,\n올리면 *흐려지는* 이유",
+    "body": "JPG는 저장할 때마다 깎인다 — 수정은 원본에서, 저장은 마지막 한 번",
+    "tag": "#이미지압축",
+    "photoQuery": "photographer editing product photo laptop screen studio ecommerce"
+  }
+}

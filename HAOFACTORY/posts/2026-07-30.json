@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-30",
+  "time_kst": "08:30",
+  "topic": "3D스캔",
+  "text": "손으로 빚은 30cm 원형을 5m로 세운다 — 예전엔 장인이 몇 달씩 실측해 확대했지만, 지금은 【3D스캔】이 그 다리를 놓는다.\n\n✔️ 축소 원형을 스캔하면 표면 굴곡까지 수백만 개 점으로 딴다. 손맛 그대로 【디지털 원형】이 되는 거야\n✔️ 데이터는 크기를 마음대로 탄다 — 확대·축소는 물론, 청동 주물의 【수축분 보정】까지 계산해서 키운다\n✔️ 확대 데이터를 단면으로 잘라 스티로폼을 깎고 이어 붙인다 — 국내 【특허】로도 등록된 대형 조형물 공정이다\n✔️ 반대 방향도 있다. 국가유산청은 유산을 미리 스캔해 둔다 — 훼손되면 그 데이터로 【원형 복원】하려고\n\n미켈란젤로 다비드상 복제도 스캔은 【이틀】이면 끝났다. 형태는 여전히 손에서 나오지만, 크기와 보존은 이제 데이터가 책임진다.",
+  "sources": "📍출처·소재 (수집 2026-08-03)\nhttps://patents.google.com/patent/KR100941872B1/ko — 3차원 모델링을 이용한 대형 조형물 제작방법 특허: 축소모형→3차원 입체화→단면데이터 추출→스티로폼 가공·결합\nhttps://www.einscan.com/applications/digital-sculpture-enlargement-3d-scanning/ — 조각 원형(마케트) 3D스캔→디지털 확대 공정 소개\nhttps://laranbronze.com/3d-scanning-and-enlarging — 브론즈 주조소: 스캔 데이터 임의 크기 확대·청동 수축분 보정\nhttps://www.einscan.com/applications/reviving-history-3d-scanning-brings-michelangelos-david-to-resistencia-ko/ — 다비드상 3D스캐닝 복제 사례: 전통 실측 수개월 대비 스캔 이틀 완료\nhttps://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/threeD/3dInfomation.jsp — 국가유산청 '3D 국가유산': 멸실·훼손 대비 3D 스캔 데이터 구축, 원형 복원·민간 활용 제공\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "조형물 테크",
+    "headline": "손맛은 그대로,\n크기는 *데이터*가 키운다",
+    "body": "축소 원형 3D스캔→확대→스티로폼 가공 — 대형 조형물의 요즘 공정",
+    "tag": "#3D스캔",
+    "photoQuery": "3d scanning sculpture handheld scanner artist studio"
+  }
+}
