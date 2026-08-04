@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-31",
+  "time_kst": "08:30",
+  "topic": "총잉크량",
+  "text": "진한 밤하늘 배경, C100 M100 Y100 K100으로 깔면 제일 진할까? 인쇄에선 사고다. 4도 합계엔 상한선이 있다 — 【총잉크량(TAC)】 얘기야.\n\n✔️ TAC은 한 지점에 얹히는 CMYK 합계다. 400%는 잉크 네 겹을 다 붓는 값이고, 코팅지 상한은 보통 【300~320%】\n✔️ 넘기면 잉크가 안 마른다. 뒷묻음·얼룩·건조 지연이 줄줄이 오고, 신문용지 같은 비코팅지는 상한이 【240%대】로 더 낮다\n✔️ 그래서 어두운 색은 4도를 퍼붓는 게 아니라 【배합 설계】로 만든다. 리치블랙 값에 이유가 있는 거다\n✔️ 인쇄용 PDF로 변환할 때 【표준 프로파일】이 총잉크량을 잡아준다 — 프로파일 TAC 한도가 300%인 이유\n\n화면은 잉크의 무게를 모른다. TAC 넘긴 파일은 결국 인쇄소 손을 한 번 더 탄다.",
+  "sources": "📍출처·소재 (수집 2026-08-04)\nhttps://www.prepressure.com/design/basics/tic — 총잉크량(TIC/TAC) 개념·상한: 코팅지 300~320%, 용지별 차이 (프리프레스 전문)\nhttps://pandagm.com/docs/total-area-coverage-tac-should-be-320-or-lower/ — 인쇄사 실무 기준: TAC 320% 이하 권장, 초과 시 건조·품질 문제\nhttps://pdfpress.app/blog/total-ink-coverage-guide — TAC 초과 시 뒷묻음·건조 지연 등 사고 유형, Fogra 등 표준 프로파일 300% 한도\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 데이터",
+    "headline": "진하게 한다고 4도를 다 부으면\n*잉크가 마르지 않는다*",
+    "body": "CMYK 합계 상한 — 코팅지 기준 총잉크량 300~320%",
+    "tag": "#총잉크량",
+    "photoQuery": "offset printing press cmyk ink rollers closeup"
+  }
+}
