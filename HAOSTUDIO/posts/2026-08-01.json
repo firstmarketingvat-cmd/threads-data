@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-01",
+  "time_kst": "10:30",
+  "topic": "3D렌더",
+  "text": "요즘 대형 브랜드 광고 속 제품 컷, 촬영이 아니라 【3D 렌더링(CGI)】인 경우가 늘고 있어요. '그럼 스튜디오는 필요 없어지나요?' — 현장에서 보는 답은 조금 다릅니다.\n\n✔️ CGI는 강해요. 계절·중력 상관없이 원하는 장면을 만들고, 컬러 옵션 수십 개도 모델링 하나로 뽑아냅니다\n✔️ 그런데 렌더가 '가짜 티' 나는 지점은 늘 같아요 — 【빛과 그림자】. 그래서 CGI 작업자도 실제 조명 설계를 공부합니다\n✔️ 실무는 대체가 아니라 【하이브리드】로 가요. 실물 질감이 생명인 컷은 촬영으로, 변형·연출 컷은 렌더로 나눕니다\n✔️ 기준이 좋아야 렌더도 삽니다 — 실제 색·질감을 정확히 잡은 【실사 컷】이 CGI의 출발점이 되거든요\n\n도구가 늘어도 '진짜처럼 보이게 하는 눈'의 값은 그대로예요. 그 눈은 결국 빛을 다뤄본 경험에서 나옵니다.",
+  "sources": "📍출처·소재 (수집 2026-08-05)\nhttps://300cbt.com/blogs/ecommerce-marketing/how-3d-product-rendering-works-for-ecommerce-brands — 이커머스 브랜드의 3D 제품 렌더링 활용·촬영 대비 장점\nhttps://www.tripo3d.ai/ko/blog/explore/rendering-examples — 3D 렌더링 유형·워크플로우: 실사 대체/보완 목적 정리\nhttps://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/photorealistic.html?lang=ko — 어도비: 실사적 가상 사진의 핵심은 조명·합성 설계\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 트렌드",
+    "headline": "그 제품 컷,\n*촬영이 아닐* 수도 있어요",
+    "body": "CGI 시대에도 승부는 빛 — 실무 답은 하이브리드",
+    "tag": "#3D렌더",
+    "photoQuery": "3d product rendering studio lighting workstation"
+  }
+}
