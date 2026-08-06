@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-02",
+  "time_kst": "10:30",
+  "topic": "펼침면",
+  "text": "카탈로그 시안에서 제일 자신 있던 【양면 펼침 이미지】, 실물 책에선 한가운데가 접혀 들어가 사라진다 — 펼침면(스프레드) 사고다.\n\n✔️ 무선제본은 풀로 등을 붙이는 구조라 【안쪽 몇 mm】는 펼쳐도 안 보인다. 화면엔 없는 손실이야\n✔️ 그래서 인물 얼굴·로고·글자를 【가운데 접합부에 걸치면 안 된다】. 얼굴이 반으로 접히는 사고가 제일 흔해\n✔️ 좌우 페이지는 다른 판에서 인쇄돼 만난다 — 걸침 이미지는 【색·위치가 미세하게 어긋날】 수 있다는 것까지 계산해야 해\n✔️ 마주보는 페이지는 제본 방향 도련이 겹친다 — 스프레드 데이터는 낱장과 【만드는 법 자체가 다르다】\n\n펼침면은 두 페이지가 아니라 【제본까지 포함한 한 장면】이다. 26년째 스프레드 시안엔 접합부 금지선부터 긋고 시작하는 이유야.",
+  "sources": "📍출처·소재 (수집 2026-08-06)\nhttps://booktory.com/make-guide/pg4-1.asp?gnb=4&lnb=1 — 북토리 인쇄 가이드: 무선제본 구조·펼침 특성\nhttps://onlinehelp.prinect-lounge.com/Prinect_Signa_Station/Version2020/ko/Prinect/TOV_Workflow/TOV_Workflow-7.htm — 하이델베르크 Prinect 공식 매뉴얼: 마주보는 페이지의 제본 방향 블리드 중첩 주의\nhttps://printallday.com/full-bleed-printing/ — 인쇄 실무 가이드: 도련·재단 영역 설계\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "편집디자인",
+    "headline": "양면 펼침 이미지,\n*책 한가운데*서 접혀 죽는다",
+    "body": "무선제본 안쪽은 안 보이는 구간 — 얼굴·글자를 걸치지 마라",
+    "tag": "#펼침면",
+    "photoQuery": "open magazine spread on table design"
+  }
+}
