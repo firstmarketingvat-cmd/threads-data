@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-12",
+  "time_kst": "08:30",
+  "topic": "파랑보라",
+  "text": "시안에선 쨍한 파랑이었는데 인쇄물에선 【보라】로 나온다 — 인쇄판의 고전 사고다. 파랑과 보라는 CMYK에서 벽 하나 없는 이웃이거든.\n\n✔️ 원인은 배합이다 — 화면의 파랑(RGB)을 CMYK로 바꾸면 C와 M이 같이 올라가는데, 【마젠타(M)】가 조금만 세도 눈엔 보라로 넘어간다\n✔️ 실무 안전선이 있다 — 파랑은 M을 C보다 【30 이상】 낮게. C100 M70이면 로열블루, C100 M95는 파랑이 아니라 보라 레시피다\n✔️ 모니터는 못 믿는다 — RGB의 쨍한 파랑은 애초에 인쇄 색역 밖이라 화면 그대로는 안 나온다. 종이 위 색은 【교정쇄】로 봐야 해\n✔️ 브랜드 컬러가 파랑이면 처음부터 【별색(팬톤)】 지정이 보험이다 — '리플렉스 블루'가 괜히 유명한 게 아니야\n\n파랑은 CMYK에서 제일 예민한 색이다. 26년째 파란 시안은 M 수치부터 확인하고 넘기는 이유야.",
+  "sources": "📍출처·소재 (수집 2026-08-24)\nhttps://compelprinting.com/printing/why-printing-blues-can-be-so-tricky/ — 파랑 인쇄의 30% 룰: C-M 간격 30 이상 유지\nhttps://www.printingforless.com/blog/why-is-my-blue-purple-rgb-v-cmyk/ — RGB→CMYK 변환에서 파랑이 보라로 기우는 원리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "하오 인쇄노트",
+    "headline": "파랑으로 보낸 시안이\n*보라*로 돌아오는 이유",
+    "body": "C와 M의 간격 30 — 파랑을 지키는 배합의 안전선",
+    "tag": "#파랑보라",
+    "photoQuery": "blue purple ink printing cmyk swatch"
+  }
+}
