@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-24",
+  "time_kst": "06:30",
+  "topic": "사이버보안",
+  "text": "베트남에 웹서비스·앱 굴리는 회사들, 8월 19일부로 판이 바뀌었다. 사이버보안법 라인의 시행령 3종 — 【331·332·333/2026】이 한꺼번에 나오고 【발효도 즉시】였다.\n\n✔️ 331은 정보시스템을 【5등급】으로 분류해 등급별 보호 의무를 붙인다 — 내 시스템이 몇 등급인지부터가 숙제다\n✔️ 332는 보안 제품·서비스 사업의 【조건부 라이선스】 규정이다\n✔️ 333이 범위가 제일 넓다 — 통신망·인터넷 기반으로 서비스하는 【외국 기업 포함】 정보보안 의무를 명시했다. 인력·신고·사고 대응 체계까지 붙는 흐름이야\n\n기회는 명확해 — 요건이 명문화되면 입찰·대기업 벤더 심사에서 준비된 회사가 유리해진다.\n\n리스크는 속도다 — 유예 없이 즉시 발효라, 등급 분류 확인 전엔 '우리랑 무관'이라 단정하지 마라.\n\n너네 베트남 서비스, 시스템 등급 분류 해봤어?",
+  "sources": "📍출처·소재 (수집 2026-08-30)\nhttps://blogs.duanemorris.com/vietnam/2026/08/27/vietnams-cybersecurity-reset-three-new-decrees-redefine-compliance-for-foreign-investors-and-fies/ — Duane Morris(로펌)/시행령 331·332·333, 2026-08-19 즉시 발효·외투기업 영향\nhttps://vietnamnews.vn/society/1798053/viet-nam-issues-new-cybersecurity-rules-for-domestic-foreign-businesses.html — Vietnam News(국영)/333호 6장 32조, 국내외 기업 정보보안 의무\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "레드트랜스 인사이트",
+    "headline": "베트남 사이버보안 시행령 3종,\n*유예 없이* 발효됐다",
+    "body": "정보시스템 5등급 분류부터 외국 기업 의무까지 — 8월 19일 즉시 시행.",
+    "tag": "#사이버보안",
+    "photoQuery": "cybersecurity server room network security"
+  }
+}
