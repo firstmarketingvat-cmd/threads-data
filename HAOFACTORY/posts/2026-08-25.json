@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-25",
+  "time_kst": "08:30",
+  "topic": "배수설계",
+  "text": "옥외 조형물이 몇 년 뒤 말썽 나는 원인의 절반은 겉이 아니라 【속】에 있다 — 속이 빈 조형물 안에 물이 고이는 거다. 비 새는 것만이 아니야, 밤낮 온도차만으로도 내부에 【결로】가 맺히거든.\n\n✔️ 그래서 도면엔 눈에 안 보이는 구멍이 있다 — 제일 낮은 지점의 【드레인홀(배수구)】. 물이 고일 자리를 애초에 없앤다\n✔️ 짝꿍은 【통기구】다 — 공기가 돌아야 속이 마른다. 꽉 막는 게 능사가 아니야\n✔️ 고인 물은 겨울에 얼어 부피가 커진다 — 용접부 미세 크랙을 벌리는 【동파】가 그렇게 오고, 철 골조면 속부터 녹슨다\n✔️ 위치 잡기가 실력이다 — 배수·통기구는 기능은 살리고 눈에는 안 띄는 자리에 숨긴다. 벌레 못 들어오게 망 처리까지가 마감이야\n\n조형물 수명은 겉 도장만큼 속 공기가 정한다. 견적 미팅 때 '배수 설계는 어떻게 하세요?' 한 줄 던져봐라 — 업체 내공이 바로 드러난다.",
+  "sources": "📍출처·소재 (수집 2026-09-06)\nhttps://www.eabel.net/ko/engineering-handbook/prevent-condensation-inside-outdoor-electrical-enclosures/ — 옥외 함체 엔지니어링 핸드북: 결로 방지 — 배수·통기·밀봉 설계 원리\nhttp://www.koreawelding.org/common/download.html?service=board&dir=201710&fileName=%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%EA%B0%95+%EC%9A%A9%EC%A0%91%EB%B6%80%EC%9D%98+%EB%B6%80%EC%8B%9D%EA%B3%BC+%EA%B7%B8+%EB%B3%B4%EC%88%98++%EC%9A%A9%EC%A0%91%EA%B8%B0%EC%88%A0.pdf — 대한용접·접합학회: 스테인리스강 용접부의 부식과 보수\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "조형물 설계",
+    "headline": "조형물 수명은\n*속 구멍*이 정한다",
+    "body": "결로·동파를 막는 드레인홀 — 보이지 않는 설계의 힘",
+    "tag": "#배수설계",
+    "photoQuery": "stainless steel sculpture rain drops outdoor closeup metal surface"
+  }
+}
