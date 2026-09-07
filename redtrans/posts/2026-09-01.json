@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-01",
+  "time_kst": "06:30",
+  "topic": "이부요금제",
+  "text": "베트남 공장 돌리는 사람들, 전기요금 고지서가 【두 줄】이 되는 판이 왔다 — 올해부터 시범 중인 【이부요금제】다.\n\n✔️ 대상은 월평균 【20만kWh 이상】 쓰는 대형 수용가 — 제조업 약 7천 곳이 시범군이야\n✔️ 구조는 용량요금+전력량요금 — 최대수요(kW)에 돈이 붙고, 쓴 만큼(kWh)은 따로 계산된다\n✔️ 상반기엔 청구 없는 【그림자 고지서】로 돌렸고, 7월부턴 실측 테스트 구간이다 — 본격 확대 전 마지막 리허설이야\n\n기회는 관리다 — 피크만 눌러도 요금이 내려가는 구조라, 설비 가동 스케줄이 곧 돈이 된다.\n\n리스크는 방치다 — 피크 관리 안 하던 공장은 같은 전기 쓰고 더 낼 수 있어.\n\n너네 공장엔 두 줄짜리 계산서, 와 있는지 확인해봤어?",
+  "sources": "📍출처·소재 (수집 2026-09-07)\nhttps://www.nortonrosefulbright.com/en/knowledge/publications/9f5d6ce8/vietnams-shift-to-capacity-and-energy-pricing-what-the-two-component-tariff-means — Norton Rose Fulbright: 이부요금제 구조(용량+전력량)·시범 대상·단계별 일정\nhttps://arcusenergyasia.com/resources/regulations/two-part-tariff — Arcus Energy: 2026-01-01부터 제조업 약 7천 곳 그림자 고지서 병행 발행\nhttps://www.usasean.org/article/vietnam-accelerates-electricity-market-reform-two-tier-electricity-pricing — US-ABC: 월 20만kWh 이상 대형 수용가 대상·전력시장 개혁 맥락\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 전력",
+    "headline": "베트남 전기요금,\n*고지서가 두 줄* 된다",
+    "body": "이부요금제 시범 — 피크(kW)에 돈 붙는 구조, 관리가 곧 절감",
+    "tag": "#이부요금제",
+    "photoQuery": "vietnam factory electricity meter power lines industrial night"
+  }
+}

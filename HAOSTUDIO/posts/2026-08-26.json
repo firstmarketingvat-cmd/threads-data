@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-26",
+  "time_kst": "08:30",
+  "topic": "광원크기",
+  "text": "조명을 더 세게, 더 많이 달라는 요청을 종종 받아요 — 그런데 사진이 딱딱해 보이는 원인은 세기가 아니라 【광원 크기】입니다.\n\n✔️ 빛은 【클수록 부드럽습니다】 — 큰 광원은 여러 각도에서 빛이 돌아 들어가 그림자 경계가 스르르 풀려요\n✔️ 소프트박스·디퓨저가 하는 일이 그거예요 — 작은 램프를 【큰 면광원으로】 바꿔주는 장치입니다\n✔️ 거리도 크기예요 — 같은 조명도 【가까이 붙이면】 상대적으로 커져 더 부드러워집니다. 멀리 두면 다시 딱딱해져요\n✔️ 반대로 쨍한 무드가 목표면 일부러 【작고 먼 광원】을 씁니다 — 하드 쉐도우도 설계의 영역이에요\n\n결국 스튜디오의 실력은 조명 개수가 아니라 【빛의 크기를 다루는 손】에 있어요.",
+  "sources": "📍출처·소재 (수집 2026-09-07)\nhttps://photographylife.com/what-are-diffusers-in-photography-and-how-to-use-them — Photography Life: 디퓨저 원리 — 광원 면적 확대가 부드러운 빛을 만든다\nhttps://kastlite.com/blogs/blog/how-to-use-a-light-diffuser — Kastlite: 디퓨저 크기·피사체와의 거리와 빛의 부드러움 관계\nhttps://productshotai.app/blog/product-photography-lighting/ — 제품 촬영 조명 가이드: 광원 크기·거리별 그림자 차이\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 원리",
+    "headline": "부드러운 사진의 비밀,\n*빛의 크기*입니다",
+    "body": "광원이 클수록, 가까울수록 부드럽다 — 조명 설계의 기본",
+    "tag": "#광원크기",
+    "photoQuery": "large softbox studio lighting product table soft shadow"
+  }
+}
