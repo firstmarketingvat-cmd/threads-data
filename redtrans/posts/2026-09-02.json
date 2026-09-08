@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-02",
+  "time_kst": "06:30",
+  "topic": "해저케이블",
+  "text": "베트남 사무실 인터넷이 요즘 유독 버벅인다면 기분 탓이 아니다 — 8월 25일부터 국제 해저케이블이 【4개 동시에】 탈 났다. SJC2·AAE-1에 AAG·IA까지, 베트남이 쓰는 국제망의 절반 이상이야.\n\n✔️ 국제 트래픽의 【약 30%】가 영향권이다 — 한국 본사와의 화상회의·VPN·해외 클라우드가 피크 시간에 느려진다\n✔️ 베트남 국내망은 멀쩡하다 — 서버가 어디 있느냐로 체감이 갈리는 구조야. 신형 ADC 케이블도 이번엔 무사했어\n✔️ 처음이 아니다 — 베트남 해저케이블은 몇 년째 단골로 끊긴다. 복구는 선박 일정 따라 주 단위, 길면 달 단위야\n\n기회는 설계다 — 현지 고객용 서비스를 【베트남 내 호스팅】으로 돌려두면 이런 날에도 안 흔들린다.\n\n리스크는 무대책이다 — 국제망 하나에 업무를 다 걸어둔 회사만 멈춘다.\n\n너네 법인 화상회의, 이번 주 몇 번 끊겼어?",
+  "sources": "📍출처·소재 (수집 2026-09-08)\nhttps://vietnamnet.vn/en/sjc2-and-aae-1-cable-failures-disrupt-vietnam-s-international-internet-traffic-2549467.html — 베트남넷: 8/25 SJC2·AAE-1 동시 장애, 국제 트래픽 약 30% 영향\nhttps://www.lightreading.com/cable-technology/four-subsea-cable-faults-hit-vietnam-s-internet — AAG·IA 포함 4개 케이블 동시 장애, 해외 서비스 피크 시간 지연 경고\nhttps://dtinews.dantri.com.vn/vietnam-today/two-undersea-cables-disrupted-affecting-vietnams-internet-links-20260827063605859.htm — 현지 언론: 장애 구간·국내망 영향 없음\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 비즈 인사이트",
+    "headline": "베트남 국제망,\n*4개가 동시에* 끊겼다",
+    "body": "8/25 해저케이블 동시 장애 — 국제 트래픽 30% 영향권",
+    "tag": "#해저케이블",
+    "photoQuery": "undersea fiber optic submarine cable ocean network"
+  }
+}

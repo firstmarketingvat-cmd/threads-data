@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-27",
+  "time_kst": "08:30",
+  "topic": "벡터파일",
+  "text": "'로고 파일 보내주세요' 하면 카톡 프로필용 JPG가 오는 경우가 태반이다 — 인쇄판에서 그 로고는 못 쓴다. 필요한 건 【벡터(AI) 원본】이거든.\n\n✔️ JPG·PNG는 픽셀 덩어리다 — 명함에선 멀쩡해도 현수막 크기로 키우면 【계단처럼 깨진다】\n✔️ 벡터는 수학 좌표로 그린 그림이다 — 몇 배로 늘려도 안 깨져. 로고·심볼이 벡터로 만들어지는 이유다\n✔️ 구분법은 간단하다 — 확대해서 가장자리가 흐려지면 래스터, 쨍하면 벡터. 확장자는 AI·EPS·SVG 쪽이야\n✔️ 원본이 없으면 【벡터화 작업】부터 다시 한다 — 로고 만들 때 AI 파일 받아 보관해두는 게 제일 싼 보험이다\n\n로고 값엔 파일 값도 들어 있다. 26년째 작업 시작 전에 'AI 원본 있으세요?'부터 묻는 이유야.",
+  "sources": "📍출처·소재 (수집 2026-09-08)\nhttps://www.adobe.com/kr/creativecloud/file-types/image/comparison/raster-vs-vector.html — Adobe: 래스터 vs 벡터 구조·확대 시 품질 차이\nhttps://www.adobe.com/kr/creativecloud/file-types/image/vector/ai-file.html — Adobe: AI 파일 특성(크기 무관 선명도 유지, 인쇄 적합)\nhttps://www.skillagit.com/people/people_view.php?b_id=008&idx=446&page=1&search_key=&search_val=&mode=view — 인쇄소가 AI 원본을 요구하는 이유(실무 관점)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "편집디자인 실무",
+    "headline": "그 로고 JPG,\n*키우면 깨진다*",
+    "body": "인쇄의 표준은 벡터(AI) — 원본 보관이 제일 싼 보험",
+    "tag": "#벡터파일",
+    "photoQuery": "vector logo design bezier curves illustrator screen closeup"
+  }
+}
