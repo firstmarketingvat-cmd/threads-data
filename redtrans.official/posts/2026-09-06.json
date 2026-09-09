@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-06",
+  "time_kst": "10:30",
+  "topic": "원산지증명",
+  "text": "수출 서류 상담에서 자주 받는 질문이에요 — '원산지증명서(CO)는 어디서 떼나요?' 답은 【용도에 따라 다릅니다】.\n\n✔️ FTA 특혜관세용은 【기관발급】 협정이 많아요 — 세관(유니패스)이나 대한상공회의소에서 심사 후 발급합니다. 한-베트남 FTA도 기관발급이에요\n✔️ 협정에 따라 【자율발급】도 있어요 — 한-미 FTA처럼 수출자가 직접 작성하는 방식입니다. 협정부터 확인해야 해요\n✔️ 특혜용이 아닌 【일반(비특혜) CO】는 상공회의소 몫이에요 — 바이어나 은행이 요구하는 경우입니다\n✔️ 순서는 하나예요 — 상대국·협정 확인 → 발급 방식 확인 → 필요 서류 준비\n\n증명서 한 장에 관세율이 갈립니다. 어느 나라에 어떤 용도로 내는 서류인지부터 알려주시면 경로를 같이 잡아드릴게요.",
+  "sources": "📍출처·소재 (수집 2026-09-09)\nhttps://www.customs.go.kr/ftaportalkor/cm/cntnts/cntntsView.do?mi=3402&cntntsId=1062 — 관세청 FTA포털: 기관발급 원산지증명서 — 세관·상공회의소 발급 절차 (공식)\nhttps://www.customs.go.kr/ftaportalkor/cm/cntnts/cntntsView.do?mi=3403&cntntsId=1063 — 관세청 FTA포털: 자율발급 방식·협정별 차이 (공식)\nhttps://jwgd.co.kr/37/?bmode=view&idx=121792820 — 관세사 실무 칼럼: CO 종류(특혜/비특혜)와 발급 업무 과정\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "수출 서류",
+    "headline": "원산지증명서,\n*떼는 곳이 갈립니다*",
+    "body": "기관발급 vs 자율발급 vs 일반 CO — 용도가 경로를 정한다",
+    "tag": "#원산지증명",
+    "photoQuery": "certificate of origin export documents stamp customs office desk"
+  }
+}
