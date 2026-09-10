@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-29",
+  "time_kst": "10:30",
+  "topic": "AI검색",
+  "text": "대구·경북 사장님들, 요즘 손님이 가게를 어떻게 찾는지 알아? 검색창에 치는 게 아니라 【AI한테 물어본다】 — '수성구 조용한 파스타집 추천해줘'처럼.\n\n✔️ 네이버 검색엔 【AI 브리핑】이 깔렸다 — 질문형 검색에 AI가 답을 요약하고 장소 카드를 골라 보여준다. 적용 범위는 계속 넓어지는 중이야\n✔️ AI가 답을 만들 때 읽는 1차 자료가 【플레이스 정보】다 — 사진·가격·영업시간·소개글이 비어 있으면 답변 후보에서 빠진다\n✔️ 챗GPT로 다시 확인하는 손님도 늘었다 — 블로그·리뷰에 쌓인 글이 AI 답변의 재료가 돼\n✔️ 이제 순위 경쟁이 아니라 【선택 경쟁】이다 — 목록 5위보다 'AI가 고른 세 곳'에 드는 게 세다\n\n플레이스 비워두면 AI 시대엔 아예 없는 가게가 된다. 오늘 우리 동네+업종으로 AI한테 한번 물어봐라 — 우리 가게가 나오는지.",
+  "sources": "📍출처·소재 (수집 2026-09-10)\nhttps://www.safemkt.kr/naver-ai-tab-2026/ — 네이버 AI탭·AI 브리핑 대응 전략: 장소 카드 선택 구조, 플레이스가 1차 데이터\nhttps://blog.oneplan.co.kr/naver-ai-search-optimization/ — 네이버 AI 브리핑 인용 조건 4가지 — 정보 완결성·일관성\nhttps://www.bloter.net/news/articleView.html?idxno=661906 — 블로터: 네이버 AI 브리핑 확대 흐름\n⚠️ 알고리즘·적용 범위 수시 변동",
+  "card": {
+    "kicker": "동네 마케팅",
+    "headline": "손님은 이제\n*AI한테 물어본다*",
+    "body": "AI가 읽는 1차 자료는 플레이스 — 비워두면 없는 가게",
+    "tag": "#AI검색",
+    "photoQuery": "person asking ai chatbot on smartphone restaurant recommendation"
+  }
+}
