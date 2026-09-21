@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-03",
+  "time_kst": "08:30",
+  "topic": "트래핑",
+  "text": "인쇄물 색 경계에 실처럼 하얀 틈이 보인다면, 디자인 실수가 아니라 【판 어긋남】이다 — 그걸 미리 막는 설계가 【트래핑】이야.\n\n✔️ 옵셋은 C·M·Y·K 네 판을 겹쳐 찍는다 — 종이가 밀리면 판끼리 머리카락만큼 어긋나고, 맞닿은 색 사이에 흰 틈이 뜬다\n✔️ 트래핑은 인접한 색을 【0.1mm 안팎】 살짝 겹쳐두는 보험이다 — 어긋나도 틈 대신 겹침이 남는다\n✔️ 방향에도 원칙이 있다 — 밝은 색을 어두운 색 쪽으로 넓힌다. 겹친 티가 덜 나는 쪽이야\n✔️ 요즘은 인쇄소 RIP이 자동으로 잡아준다 — 대신 별색끼리 맞닿는 로고, 작은 음각 글자는 사람이 확인해야 한다\n\n오버프린트가 '겹쳐 찍기'라면 트래핑은 '어긋남 대비 설계'다. 색 경계 많은 시안일수록 데이터에 보험부터 걸어라.",
+  "sources": "📍출처·소재 (수집 2026-09-21)\nhttps://onlinehelp.prinect-lounge.com/Prinect_PDF_Toolbox/Version2020/ko/Prinect/Trap_editor/Trap_editor-2.htm — 하이델베르크 Prinect(공식 매뉴얼): 트래핑 정의 — 판 정렬 오차 보정용 미세 겹침\nhttps://digitalprepress.com/guides/trapping-explained-guide — 프리프레스 가이드: 스프레드/초크·밝은 색을 어두운 색 쪽으로 확장하는 원칙\nhttps://www.cir-label.com/news/printing-knowledge/overprint-vs-knockout-printing-trapping-guide/ — 오버프린트 vs 녹아웃 vs 트래핑 구분\n⚠️ 정책·수치 변동 가능·공식 확인 (트랩 폭은 인쇄소·기계별 상이)",
+  "card": {
+    "kicker": "편집디자인",
+    "headline": "색 경계의 흰 틈, \n*트래핑*이 막는다",
+    "body": "네 판이 어긋나는 날을 위한 0.1mm 보험",
+    "tag": "#트래핑",
+    "photoQuery": "cmyk offset printing plates registration marks closeup color edges"
+  }
+}
