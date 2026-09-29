@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-04",
+  "time_kst": "08:30",
+  "topic": "티그용접",
+  "text": "스테인리스 조형물의 이음매가 안 보인다? 그 매끈함은 광 내기 전에 【용접】에서 먼저 갈린다 — 조형물 판의 국룰은 【티그(TIG) 용접】이다.\n\n✔️ 텅스텐 전극에 【아르곤 가스】로 감싸며 녹여 붙이는 방식이다 — 불티가 거의 없고 이음매가 가늘고 깨끗해\n✔️ 느린 게 단점이자 장점이다 — 속도는 다른 용접보다 한참 처지지만, 얇은 스텐·알루미늄 판을 태우지 않고 잇는 건 이 방식이 답이다\n✔️ 용접 뒤가 절반이다 — 열 받은 자리는 무지개색으로 변색되며 부식에 약해진다. 【연마·산세 처리】까지 마쳐야 '녹 안 스는 스텐'이 유지돼\n✔️ 열 변형도 계산이다 — 큰 판을 이을 땐 용접 순서를 설계해 뒤틀림을 잡는다\n\n겉에 보이는 건 형태지만 수명은 이음매가 정한다. 견적 미팅에서 '용접은 뭘로 하세요' 한 줄 던져봐라.",
+  "sources": "📍출처·소재 (수집 2026-09-29)\nhttps://www.weldingtipsandtricks.com/how-to-tig-stainless.html — 용접 실무 가이드: 스테인리스 TIG — 아르곤 실드·열관리\nhttps://www.thefabricator.com/thewelder/blog/consumables/what-does-discoloration-mean-in-stainless-steel-welding — The Fabricator: 용접 변색(히트 틴트)=산화막 손상, 내식성 저하 신호\nhttps://yeswelder.com/blogs/welding-101/stainless-steel-weld-color-chart-what-each-color-means-and-how-to-prevent-discoloration — 변색 컬러차트와 산세·부동태화 처리\n⚠️ 정책·수치 변동 가능·공식 확인 (소재·두께별 공정 상이)",
+  "card": {
+    "kicker": "제작 공정",
+    "headline": "그 매끈한 이음매,\n*티그 용접*이다",
+    "body": "아르곤으로 감싸 녹이는 정밀 용접 — 스텐 조형물 수명은 이음매가 정한다.",
+    "tag": "#티그용접",
+    "photoQuery": "tig welding stainless steel closeup blue arc workshop"
+  }
+}
