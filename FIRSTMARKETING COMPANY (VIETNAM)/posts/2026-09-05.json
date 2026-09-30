@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-05",
+  "time_kst": "10:30",
+  "topic": "주소개편",
+  "text": "베트남 타깃 광고, 작년에 만든 지역 리스트 그대로 쓰고 있으면 손봐야 한다 — 작년 7월 행정개편으로 【63개 성·시가 34개】로 합쳐졌고, 군(district) 단위는 아예 사라졌다.\n\n✔️ 주소 체계가 통째로 바뀌었다 — 빈즈엉·바리아붕따우가 호치민시로 흡수되는 식이라, 고객 DB·배송 주소가 옛 표기로 쌓여 있으면 정비 대상이다\n✔️ 광고 플랫폼 지역 타기팅도 과도기다 — 옛 성 단위로 잡아둔 캠페인은 커버 범위부터 다시 확인해야 해\n✔️ '지방 도시' 전략의 단위가 커졌다 — 성 하나가 광역권 규모가 되면서 권역 물류·유통 재편이 같이 돌아간다\n✔️ 법인 서류는 급하지 않다 — 당국이 행정개편만으론 주소 변경을 강제하지 않는다고 정리했어\n\n시장은 그대로인데 지도가 바뀌었다. 너네 캠페인 지역 세팅과 고객 주소 DB, 새 지도 기준으로 돌려봤어?",
+  "sources": "📍출처·소재 (수집 2026-09-30)\nhttps://www.vietnam-briefing.com/news/update-your-company-address-after-vietnams-provincial-merger-a-brief-guide.html/ — 63→34 성 통합(2025-07-01)·전 기업 주소 변경·라이선스 갱신 의무 없음(재무부 4370/BTC-DNTN)\nhttps://www.tilleke.com/insights/vietnam-provides-guidance-on-new-addresses-following-administrative-boundary-changes/ — 신주소 체계 가이드(2급 행정모델·군 단위 폐지)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 마케팅",
+    "headline": "지역 타기팅의\n*지도가 바뀌었다*",
+    "body": "63개 성이 34개로 — 주소 DB·광고 지역 세팅·물류권역 재점검할 때다.",
+    "tag": "#주소개편",
+    "photoQuery": "vietnam map administrative regions city aerial"
+  }
+}
