@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-06",
+  "time_kst": "10:30",
+  "topic": "CNC조각",
+  "text": "사람 키 세 배짜리 캐릭터 조형물, 조각가가 끌로 깎는 장면을 상상하지? 요즘 대형 조형물의 원형은 【CNC 조각기】가 깎는다.\n\n✔️ 시작은 3D 모델이다 — 종이 도면이 아니라 【데이터】가 원형이고, 기계가 경로를 따라 EPS(스티로폼) 블록을 통째로 깎아낸다\n✔️ 빠르고 정확하다 — 좌우대칭, 같은 캐릭터 여러 기 반복 제작이 【오차 없이】 나온다. 손조각과 제일 크게 갈리는 지점이야\n✔️ 기계보다 큰 놈은 【분할 가공】이다 — 조각내 깎고, 현장에서 퍼즐처럼 붙여 세운다\n✔️ 깎은 폼은 아직 약하다 — 【하드코팅·퍼티·도장】까지 입어야 비바람 버티는 조형물이 된다. 기계가 반, 손마감이 반이다\n\n결국 퀄리티의 절반은 3D 모델 단계에서 정해진다. 시안 미팅 때 '원형은 뭘로 깎으세요?' 한 줄 던져봐라.",
+  "sources": "📍출처·소재 (수집 2026-10-01)\nhttps://www.whiteclouds.com/3d-technology/foam-carving/ — 폼 카빙 공정: 디지털 모델→CNC/핫와이어→하드코트·도장\nhttps://www.smashthedesign.com/cnc-foam-carving/ — 대형 CNC 라우터: 대형 EPS 블록 정밀 가공·오차 관리\nhttps://www.wecutfoam.com/post/life-size-and-over-size-foam-sculptures-fabrication — 실물·초대형 폼 조형물 제작: 분할 가공·내부 구조·마감\n⚠️ 정책·수치 변동 가능·공식 확인 (장비·소재별 가공 범위 상이)",
+  "card": {
+    "kicker": "제작 공정",
+    "headline": "대형 조형물의 원형,\n*데이터가 깎는다*",
+    "body": "3D 모델 → CNC로 EPS 조각 → 하드코팅·도장 — 기계 반, 손마감 반.",
+    "tag": "#CNC조각",
+    "photoQuery": "cnc machine carving large foam sculpture workshop dust"
+  }
+}
