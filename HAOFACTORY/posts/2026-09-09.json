@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-09",
+  "time_kst": "08:30",
+  "topic": "샌드블라스트",
+  "text": "조형물 공장 한쪽에서 방호복 입고 철골에 모래바람을 쏘고 있다 — 【샌드블라스트】, 칠하기 전에 표면을 깎아 깨우는 공정이다.\n\n✔️ 원리는 분사다 — 압축공기로 연마재를 쏘아 녹·스케일·용접 찌꺼기를 벗겨낸다. 그라인더가 못 들어가는 굴곡도 균일하게 먹어\n✔️ 진짜 목적은 【앵커 패턴】이다 — 표면에 미세한 요철을 심어 도료가 물고 늘어질 자리를 만든다. 도장 밀착력이 여기서 정해져\n✔️ 연마재도 사양이다 — 모래 대신 알루미나·글래스비드 등으로 갈리고, 소재 따라 조합이 달라진다\n✔️ 매끈한 새 철판도 그냥 못 칠한다 — 광 나는 면일수록 도료가 미끄러지거든\n\n10년 가는 도장과 2년 만에 벗겨지는 도장은 칠 전에 갈린다. 사양서 받으면 '전처리는 뭐로 해요?' 한 줄 던져봐라.",
+  "sources": "📍출처·소재 (수집 2026-10-04)\nhttps://cmf.designdb.com/web/archive/archiveTechView.do?masIdx=2765 — 디자인DB CMF: 샌드블라스트 원리(압축공기+연마재 분사, 표면 거칠기 형성)\nhttps://ko.precisaofabricacao.com/info/metal-surface-treatment-sandblasting-process-35342625.html — 블라스팅 후 표면적 증가→도장·도금층 결합력 강화(앵커 패턴)\nhttps://eng.sdpaint.com/bbs/view.php?tn=pds&cate=&id=8 — 도료사 기술자료: 철재 도장 전처리(블라스트 등 기계적 처리)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "제작 공정",
+    "headline": "도장 수명의 절반은\n*칠하기 전*에 정해진다",
+    "body": "샌드블라스트 — 녹을 벗기고, 도료가 물고 늘어질 요철을 심는다.",
+    "tag": "#샌드블라스트",
+    "photoQuery": "sandblasting steel structure worker protective suit workshop"
+  }
+}
