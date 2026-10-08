@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-13",
+  "time_kst": "10:30",
+  "topic": "색공간",
+  "text": "분명 쨍하게 받은 사진인데 홈페이지에 올리니 색이 바래 보인다 — 파일 손상이 아니라 【색공간】 문제일 확률이 높아요.\n\n✔️ 사진 파일엔 색의 '좌표계'가 있어요 — 웹의 표준은 【sRGB】, 인쇄·보정 작업용으론 더 넓은 【AdobeRGB】를 씁니다\n✔️ 문제는 웹 환경이에요 — 브라우저·SNS 상당수가 이미지를 sRGB로 간주해서, AdobeRGB 파일은 채도가 꺼진 【물 빠진 색】으로 보입니다\n✔️ 처방은 변환이에요 — 웹용 JPG는 【sRGB 변환+프로파일 포함】 저장이 기본값입니다. 내보내기 설정 체크 하나 차이예요\n✔️ 그래서 납품은 용도별로 갑니다 — 인쇄용 원본 따로, 웹·SNS용 sRGB 따로 받아두는 게 안전해요\n\n같은 사진인데 어디선 예쁘고 어디선 칙칙하다면 십중팔구 이 얘기입니다. 지금 쓰는 상세페이지 사진의 색공간부터 확인해보세요.",
+  "sources": "📍출처·소재 (수집 2026-10-08)\nhttps://bluekea.com/en/blog/digital-photography-techniques/color-space-for-web-srgb-vs-adobergb — 웹용 색공간 해설: 브라우저가 AdobeRGB를 sRGB로 가정하면 채도 저하\nhttps://expertphotography.com/srgb-vs-adobe-rgb/ — sRGB vs AdobeRGB 색역 차이와 웹 업로드 권장 설정\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "제품사진",
+    "headline": "올리면 바래는 사진\n범인은 *색공간*",
+    "body": "웹의 표준은 sRGB입니다",
+    "tag": "#색공간",
+    "photoQuery": "color calibration monitor photo editing"
+  }
+}
