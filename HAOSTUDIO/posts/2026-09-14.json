@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "time_kst": "08:30",
+  "topic": "누끼파일",
+  "text": "'누끼로 주세요'라는 말, 사실 파일 종류만 세 가지입니다 — 【흰 배경 JPG·투명 PNG·패스 든 PSD】. 어디에 쓰실지가 받을 파일을 정해요.\n\n✔️ 오픈마켓 썸네일은 의외로 【흰 배경 JPG】가 정답인 경우가 많아요 — 플랫폼 규정이 흰 배경을 요구하는 자리가 있거든요\n✔️ 배너·상세 합성엔 【투명 PNG】 — 어떤 배경에든 바로 얹히는 대신, 재편집 여지는 없어요\n✔️ 디자이너가 계속 다룰 소스라면 【패스·레이어 살린 PSD】입니다 — 배경 교체와 수정 폭이 가장 넓어요\n✔️ 주의 하나 — 투명 PNG를 JPG로 다시 저장하면 투명 영역이 흰색으로 깔리며 가장자리가 지저분해질 수 있어요\n\n같은 촬영인데 포맷 때문에 일이 두 번 되기도 합니다. 예약 때 '어디에 쓰실 건지'만 알려주세요 — 납품 구성을 미리 잡아드릴게요.",
+  "sources": "📍출처·소재 (수집 2026-10-09)\nhttps://www.adobe.com/creativecloud/file-types/image/raster/png-file.html — Adobe: PNG 투명도 특성과 용도\nhttps://en.wikipedia.org/wiki/Portable_Network_Graphics — PNG 포맷 개요: 알파 채널, JPG와의 차이\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "제품사진",
+    "headline": "'누끼 주세요'의 정체\n*파일이 세 가지*",
+    "body": "JPG·PNG·PSD, 용도가 포맷을 정한다",
+    "tag": "#누끼파일",
+    "photoQuery": "product photo cutout transparent background retouch"
+  }
+}
