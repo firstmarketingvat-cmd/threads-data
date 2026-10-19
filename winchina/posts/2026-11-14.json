@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "time_kst": "08:30",
+  "topic": "보조배터리",
+  "text": "중국 국내선 탈 일정 있으면 캐리어 말고 보조배터리부터 봐라 — 중국 국내선은 【3C 인증 마크】 없는 보조배터리를 기내에 못 들고 탄다. 2025년 6월 28일부터 적용 중인 민항국(CAAC) 규정이다.\n\n✔️ 3C 마크가 없거나 흐려서 안 보이면 보안검색에서 【압수】다 — 리콜 대상 모델도 마찬가지야\n✔️ UL 같은 해외 인증은 【대체가 안 된다】 — 한국서 산 멀쩡한 제품도 3C 없으면 그냥 막혀\n✔️ 용량 규칙은 그대로다 — 100Wh 이하 반입, 100~160Wh는 항공사 승인, 위탁수하물은 원래 금지\n✔️ 국제선 직항은 이 규제 대상이 아니다 — 함정은 【베이징·상하이서 국내선 환승】하는 일정이야\n\n몇만 원짜리 배터리, 검색대에서 버리는 건 1초다. 가방 싸기 전에 배터리 뒷면 마크부터 뒤집어 봐라.",
+  "sources": "📍출처·소재 (수집 2026-10-19)\nhttps://www.flanders-china.be/en/newsletterpublications/uncertified-power-banks-banned-on-domestic-flights-in-china — 2025-06-28부터 중국 국내선 3C 미인증·리콜 보조배터리 기내 반입 금지\nhttps://www.ceair.com/global/ko_KRW/Announcement/BaggageService/KR_RegulationsonSafeTransportationofLithiumBatteries/ — 중국동방항공 공식: 100Wh 이하 반입·100~160Wh 승인·위탁 금지\nhttps://www.universalweather.com/blog/china-prohibits-non-certified-power-banks-on-business-aviation-flights/ — UL 등 해외 인증은 3C 대체 불가\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 기내반입",
+    "headline": "중국 국내선, 3C 없는\n*보조배터리는 못 탄다*",
+    "body": "해외 인증도 대체 불가 — 검색대에서 압수된다",
+    "tag": "#보조배터리",
+    "photoQuery": "power bank airport security check"
+  }
+}
