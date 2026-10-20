@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-22",
+  "time_kst": "08:30",
+  "topic": "인쇄판",
+  "text": "파일만 넘기면 바로 종이에 찍히는 줄 알지? 옵셋 인쇄는 그 사이에 한 단계가 더 있다 — 데이터로 【인쇄판】부터 만든다.\n\n✔️ 요즘은 【CTP】 방식이다 — 필름 단계 없이 레이저가 알루미늄 판 표면에 이미지를 바로 새긴다\n✔️ 판은 색마다 따로다 — 4도 인쇄면 C·M·Y·K 【판이 4장】, 별색이 붙으면 한 장 더 늘어난다. '1도 줄이면 싸진다'는 말이 여기서 나와\n✔️ 필름을 안 거치니 밀착 불량으로 화선이 뭉개질 일이 없고 준비 시간도 짧다 — 품질 비교 연구들도 CTP 쪽 손을 들어줬어\n✔️ 그래서 '한 글자만 급히 고칠게요'가 비싼 거다 — 글자 하나여도 그 색의 판은 【통째로 다시】 출력한다\n\n인쇄가 시작되는 곳은 인쇄기가 아니라 판 출력실이다. 데이터 확정 사인이 무거운 이유야.",
+  "sources": "📍출처·소재 (수집 2026-10-20)\nhttps://koreascience.or.kr/article/JAKO200926239076122.pdf — 국내 논문: CTP는 필름 공정 생략으로 화선 왜곡·준비시간·폐수 문제 개선\nhttps://print-us.fujifilm.com/news-updates/cpt-upgrades/ — Fujifilm: CTP 개요, 알루미늄 판재·레이저 노광\nhttps://avesis.marmara.edu.tr/yayin/4636aa73-dfcd-4002-8507-be0be1c3a2c7/the-comparison-of-prints-produced-by-ctp-and-conventional-plate — CMYK 4색 기준 CTP vs 필름판 품질 비교 연구\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 상식",
+    "headline": "그 인쇄, 종이보다\n*판*이 먼저다",
+    "body": "CTP — 색마다 알루미늄 판 한 장씩",
+    "tag": "#인쇄판",
+    "photoQuery": "offset printing aluminum plate press"
+  }
+}
