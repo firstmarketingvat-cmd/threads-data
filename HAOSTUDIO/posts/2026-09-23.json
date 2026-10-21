@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-23",
+  "time_kst": "08:30",
+  "topic": "틸트시프트",
+  "text": "비스듬히 누운 제품을 앞코부터 꽁무니까지 한 컷에 쨍하게 — 조리개를 조이는 대신 【초점면을 기울이는】 방법이 있어요. 틸트 렌즈입니다.\n\n✔️ 보통 카메라의 초점은 센서와 평행한 '벽'처럼 서 있어요 — 비스듬한 제품은 그 벽을 뚫고 나가니 어딘가는 흐려집니다\n✔️ 틸트 렌즈는 렌즈를 기울여 그 벽을 【눕힙니다】 — 테이블에 깔린 라인업과 초점면을 겹치면 조리개를 열고도 전체가 선명해요(샤임플러그 원리)\n✔️ 초점이 '늘어나는' 게 아니라 【자리를 옮기는】 겁니다 — 설계 없이 쓰면 오히려 엉뚱한 곳이 흐려져요\n✔️ 수십 장을 합성하는 포커스 스태킹과 쓰임이 갈려요 — 김·액체처럼 【한 순간】을 잡아야 하는 컷은 틸트가 답입니다\n\n광학으로 해결하면 보정 시간이 줄고 디테일은 삽니다. 긴 제품·라인업 컷, 흐림 없이 가는 길이 있어요.",
+  "sources": "📍출처·소재 (수집 2026-10-21)\nhttps://schneiderkreuznach.com/en/industrial-optics/knowledge-hub/scheimpflug-principle — 샤임플러그 원리: 센서·렌즈·초점면이 한 선에서 만남\nhttps://cdn.cambridgeincolour.com/tutorials/tilt-shift-lenses2.htm — 틸트는 심도를 늘리는 게 아니라 위치를 옮김\nhttps://filmdaft.com/what-is-a-tilt-shift-lens-definition-effects-uses/ — 틸트 렌즈 개요·용도\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 상식",
+    "headline": "초점의 벽을\n*눕혀서* 찍는다",
+    "body": "틸트 렌즈 — 라인업 전체가 선명해지는 이유",
+    "tag": "#틸트시프트",
+    "photoQuery": "tilt shift lens camera studio product photography"
+  }
+}
