@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-30",
+  "time_kst": "06:30",
+  "topic": "탄소국경세",
+  "text": "EU에 물건 보내는 베트남 생산기지들, 올해부터 청구서가 하나 늘었다 — 【CBAM(탄소국경조정제)】. 전환기 끝나고 2026년부터 돈 내는 본게임이 시작됐어.\n\n✔️ 기준은 EU 탄소가격이다 — 올 2분기 적용가가 톤당 【€75선】\n✔️ 철강이 제일 아프다 — 1톤 생산에 CO₂ 약 2톤, 감축 없이 가면 EU향 수출원가가 【20%대】로 뛸 수 있다는 현지 추산까지 나왔다\n✔️ 공제 카드는 있다 — 생산국에서 탄소가격을 이미 냈으면 그만큼 빠진다. 문제는 베트남 탄소시장이 아직 【시범 단계】라 공제 근거가 약하다는 것\n✔️ 배출 데이터 없이 가면 【기본값】으로 더 비싸게 계산당한다\n\n기회는 준비된 공장이다 — 측정·감축 실적이 바이어 선별 기준이 된다.\n\n리스크는 무대응이다 — 숫자 없는 공장부터 발주 리스트에서 빠진다.\n\n너네 EU향 제품, 탄소 배출량 숫자로 갖고 있어?",
+  "sources": "📍출처·소재 (수집 2026-10-22)\nhttps://www.reccessary.com/en/insight/vietnam-cbam-carbon-price-deduction-analysis — CBAM 2026 부과 단계 진입·2분기 기준가 €75.28/톤·탄소가격 공제 구조 분석\nhttps://ven.congthuong.vn/cbam-how-can-vietnamese-businesses-prepare-for-the-eu-s-new-requirements-59588.html — 베트남 산업무역부 계열 매체: 철강 1톤≈CO₂ 2톤, 수출원가 약 23% 상승 추산\nhttps://eastasiaforum.org/2026/03/06/vietnams-carbon-market-faces-a-reality-check/ — 베트남 시범 탄소시장의 한계(검증·공제 근거 미비) 분석\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "EU 수출 규제",
+    "headline": "EU행 수출품에\n*탄소 청구서*가 붙는다",
+    "body": "CBAM 부과 개시 — 베트남 탄소시장 공제는 아직, 배출 데이터가 경쟁력이다",
+    "tag": "#탄소국경세",
+    "photoQuery": "steel factory smokestack industrial emissions"
+  }
+}
