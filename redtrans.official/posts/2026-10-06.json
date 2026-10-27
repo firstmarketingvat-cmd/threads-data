@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-06",
+  "time_kst": "08:30",
+  "topic": "공인번역",
+  "text": "'공인번역사가 번역한 것만 받는대요' — 해외 기관 안내문의 certified translation, 한국에선 어떻게 맞출까요? 핵심부터: 한국엔 【국가 공인 번역사 자격이 없습니다】.\n\n✔️ 독일·프랑스처럼 법원이 임명하는 【선서 번역사】 제도가 한국엔 없어요 — 그 자리를 대신하는 게 【번역공증】입니다\n✔️ 구조는 이렇습니다 — 번역인이 '원문과 다름없다'고 서명·확약하고, 공증인이 그 【서명을 인증】하는 방식이에요\n✔️ 제출처가 certified만 요구하면 번역회사 【번역확인서】로 끝나는 경우도 있습니다 — 공증까지 갈지는 제출처가 정해요\n✔️ '공인'이라는 단어에 겁먹을 필요 없어요 — 요구 수준을 확인하고 그에 맞는 형식을 갖추면 됩니다\n\n안내문 속 certified 문장, 캡처해서 보내주세요 — 번역확인서면 되는지 공증까지 필요한지부터 갈라드릴게요.",
+  "sources": "📍출처·소재 (수집 2026-10-27)\nhttps://thaonco.com/ko/translation-times/legal-ko/a-practical-guide-to-certified-translation-ko/ — '공인 번역'은 국가자격이 아니라 서명 확인서 첨부 방식이라는 실무 정리\nhttps://m.earticle.net/Article/A245844 — 번역공증이 번역자 서명 확인 절차임을 다룬 학술 논문\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "번역 상식",
+    "headline": "'공인번역'의 정체 —\n한국엔 *공인번역사가 없다*",
+    "body": "선서번역사 없는 한국, certified의 답은 번역공증·번역확인서",
+    "tag": "#공인번역",
+    "photoQuery": "certified translation stamp official documents"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-27",
+  "time_kst": "10:30",
+  "topic": "태양광조형",
+  "text": "조명 조형물 세우고 싶은데 자리에 전기가 안 들어온다? 공원 한복판, 둘레길, 단지 끝자락 — 요즘은 그 자리에 【태양광 조형물】을 세운다. 패널이 낮에 벌어 밤에 켜는 구조다.\n\n✔️ 설계의 시작은 전기 계산이다 — LED가 하룻밤 쓸 전력을 역산해 【패널·배터리 용량】을 잡고, 흐린 날 버티는 【예비일수】까지 넣는 게 정석이야\n✔️ 패널은 숨기는 게 실력이다 — 상부 마감에 녹이거나 별도 구조로 빼서, 그림자 안 지는 방향에 앉힌다\n✔️ 배터리엔 【충전 컨트롤러】가 따라붙는다 — 과충전 막는 이 부품과 방수함 자리까지가 설계다\n✔️ 점등 시간을 줄이면 판이 작아진다 — 센서로 사람 올 때만 켜면 배터리 용량이 뚝 떨어져\n\n전기 인입 공사비가 조형물값을 넘는 자리가 의외로 많다. 그런 자리면 '태양광으로 돌리면요?' 한 줄 던져봐라.",
+  "sources": "📍출처·소재 (수집 2026-10-27)\nhttps://www.paclights.com/explore/outdoor-led-solar-lights-electrical-engineers-must-know-calculations/ — 태양광 조명 용량 계산(예비일수·배터리 공식·차광 유의)\nhttps://forum.allaboutcircuits.com/threads/solar-powered-sculpture.141725/ — 오프그리드 조형물 LED 전력·배터리 산정 사례\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "조형물 설계",
+    "headline": "전기 없는 자리엔\n*해를 심는다*",
+    "body": "패널이 낮에 벌어 밤에 켜는 태양광 조형물",
+    "tag": "#태양광조형물",
+    "photoQuery": "solar panel art sculpture park night led glow"
+  }
+}
