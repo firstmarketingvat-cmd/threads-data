@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-28",
+  "time_kst": "08:30",
+  "topic": "노이즈",
+  "text": "폰으로 어두운 데서 찍은 사진의 자글자글한 알갱이 — 【노이즈】입니다. 스튜디오 사진이 유독 매끈한 건 보정 덕이 아니라, 노이즈가 생길 이유를 애초에 지웠기 때문이에요.\n\n✔️ ISO는 감도가 아니라 【증폭】입니다 — 부족한 빛을 전기적으로 키우면 신호와 함께 잡음도 같이 커져요\n✔️ 노이즈는 【어두운 부분】부터 낍니다 — 그림자 디테일일수록 더 많이 증폭되거든요\n✔️ 색까지 망칩니다 — 컬러 노이즈는 제품 고유색을 얼룩덜룩 틀어놓고, 질감은 저가처럼 보이게 해요\n✔️ 스튜디오의 답은 단순합니다 — 스트로보로 빛을 충분히 주고 【기본 ISO(100~200)】로 찍어요. 증폭할 일을 안 만드는 거죠\n\n노이즈 제거 앱은 알갱이와 함께 디테일도 지웁니다. 지우는 것보다 안 만드는 게 먼저예요.",
+  "sources": "📍출처·소재 (수집 2026-10-28)\nhttps://www.digifotopro.nl/en/iso-in-the-studio-waarom-100-niet-altijd-wint — 스튜디오 ISO 해설: 기본 ISO가 노이즈 최소, 기종별 기본 ISO 상이(100이 아닐 수 있음)\nhttps://www.ortery.com/?p=1431 — 제품 촬영 가이드: 스트로보+ISO 100~200 권장, 밝기 노이즈=저가 인상·컬러 노이즈=색 왜곡\nhttps://babydreambackdrops.com/blogs/articles/iso-explained-the-most-misunderstood-setting-in-photography — ISO=신호 증폭 원리, 노이즈는 그림자 영역부터 (일반 해설)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "촬영 상식",
+    "headline": "노이즈는 지우는 게 아니라\n*안 만드는* 겁니다",
+    "body": "ISO는 증폭 — 빛이 충분하면 알갱이는 애초에 없다",
+    "tag": "#노이즈",
+    "photoQuery": "camera iso dial studio strobe product photography clean"
+  }
+}

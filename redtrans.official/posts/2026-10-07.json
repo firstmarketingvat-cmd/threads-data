@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-07",
+  "time_kst": "08:30",
+  "topic": "베트남주소",
+  "text": "베트남에서 온 서류, 주소가 등록증과 다른가요? 오류가 아닐 수 있습니다 — 2025년 7월 1일, 베트남 성·시가 【63개→34개】로 통합됐거든요.\n\n✔️ 직할시 6개+성 28개 체제가 되고, 중간의 【현(district)급은 폐지】됐습니다 — 주소 표기부터 짧아졌어요\n✔️ 옛 주소의 법인·투자등록증은 【그대로 유효】합니다 — 재무부 공문상 경계 변경만으론 갱신 의무가 없어요\n✔️ 다만 실무는 챙겨야 합니다 — 거래처 통지·세금계산서 신주소 반영을 권하고, 주소만 바꾸는 변경등록은 【공고 수수료 면제】예요\n✔️ 번역의 함정 — 빈즈엉·박닌 같은 옛 성 이름 서류와 새 주소 서류가 섞여 오면, 【같은 곳임을 아는 번역】이어야 제출처 혼선이 없습니다\n\n두 서류의 주소가 달라도 회사가 이사한 게 아닙니다 — 지도가 바뀐 거예요.",
+  "sources": "📍출처·소재 (수집 2026-10-28)\nhttps://english.luatvietnam.vn/legal-updates/enterprises-not-required-to-update-address-after-provincial-mergers-892-103256-article.html — 현지 법령정보(LuatVietnam): 재무부 공문 4370/BTC-DNTN, 경계 변경만으로는 등록주소 갱신 의무 없음\nhttps://assets.kpmg.com/content/dam/kpmg/vn/pdf/2025/08/pertaining-address-updates-on-business-licences-ko.pdf — KPMG 베트남(한국어): 거래처 통지·세금계산서 신주소 반영 등 실무 권고\nhttps://v.daum.net/v/20250613174543205 — 국내 보도: 국회 결의로 63→34개(직할시 6+성 28), 2025-07-01 시행\nhttps://www.pwc.com/vn/en/publications/2025/250708-reorganisation-of-governmental-units.pdf — PwC 베트남: 2단계 지방행정 전환·ERC 갱신 불요 정리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 실무",
+    "headline": "베트남 성·시가\n*63개 → 34개*",
+    "body": "옛 주소 등록증 그대로 유효 — 번역·제출 때 혼선만 주의",
+    "tag": "#베트남주소",
+    "photoQuery": "vietnam map provinces administrative boundaries"
+  }
+}
