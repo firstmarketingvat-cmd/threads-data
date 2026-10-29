@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-08",
+  "time_kst": "08:30",
+  "topic": "날짜표기",
+  "text": "번역 검수에서 저희가 숫자만 따로 한 번 더 보는 이유 — 【날짜와 소수점】은 나라마다 문법이 다르기 때문입니다. 01/02/2026, 베트남에선 2월 1일, 미국에선 【1월 2일】이에요.\n\n✔️ 베트남·유럽 다수는 【일/월/년】, 미국은 【월/일/년】 순입니다 — 계약 발효일·생년월일이 숫자로만 적혀 있으면 서류마다 해석이 갈릴 수 있어요\n✔️ 그래서 공식 서류 번역은 월을 【문자로】 풀어 씁니다 — 'Feb 1, 2026', 'ngày 01 tháng 02 năm 2026'처럼요\n✔️ 금액은 반대 함정입니다 — 베트남은 천 단위를 점, 소수점을 쉼표로 씁니다. 【1.500đ는 천오백 동】이지 1.5동이 아니에요\n✔️ 번역문의 숫자를 제출국 표기로 바꿀지 원문대로 둘지는 【제출처 기준】을 따릅니다\n\n생년월일 한 칸, 계약금액 한 줄이 서류 전체를 반려시키기도 합니다. 숫자 많은 서류일수록 원문과 나란히 놓고 검수해드려요.",
+  "sources": "📍출처·소재 (수집 2026-10-29)\nhttps://gengo.com/vi/?p=85205 — 베트남어 스타일가이드(날짜 dd/mm 표기)\nhttps://www.localeplanet.com/icu/vi_VN/index.html — vi_VN 로케일: 소수점 쉼표·천 단위 점\nhttps://lawnet.vn/ngan-hang-phap-luat/en/tu-van-phap-luat/ke-toan--kiem-toan/what-are-regulations-on-text-numbers-and-currencies-on-invoices-in-vietnam-404442 — 베트남 세금계산서 숫자 구분기호 규정\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "번역 실무",
+    "headline": "01/02/2026,\n*몇 월 며칠*일까요",
+    "body": "나라마다 다른 날짜·소수점 표기 — 숫자 한 칸이 반려를 부릅니다",
+    "tag": "#날짜표기",
+    "photoQuery": "calendar documents desk"
+  }
+}
