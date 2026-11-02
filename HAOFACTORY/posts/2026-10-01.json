@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-01",
+  "time_kst": "08:30",
+  "topic": "그린월",
+  "text": "로비 한 벽을 통째로 덮은 식물 벽 — 【그린월】이다. 보이는 건 초록인데, 이 물건 견적의 절반은 벽 뒤 【설비】에 있다.\n\n✔️ 실내엔 비도 해도 없다 — 그래서 그린월은 조경이 아니라 시스템이다. 【자동 관수+배수 라인】이 벽 뒤에 깔리고, 급수 없인 몇 주를 못 버틴다\n✔️ 빛도 설계다 — 채광 모자란 실내엔 【식물 생육용 LED】가 따라붙는다. 인테리어 조명만으론 식물이 못 산다\n✔️ 무게는 모듈+배지+물 먹은 상태로 계산한다 — 거는 벽이 그 하중을 받는지 【구조 검토】가 먼저다\n✔️ 세우고 끝이 아니다 — 고사주 교체·관수 점검 같은 【정기 관리】 계약까지가 한 세트다. 관리 빠진 그린월은 몇 달 뒤 갈색 벽이 된다\n\n초록 벽 하나가 공간의 공기를 바꾼다 — 단, '살아 있는 조형물'이란 걸 아는 데가 세워야 산다.",
+  "sources": "📍출처·소재 (수집 2026-11-02)\nhttps://www.csicreative.com/blog-silos/education/living-plant-walls-indoors-systems-types-and-applications/ — 실내 리빙월 시스템 구성(자동 관수·배수·보조 조명)\nhttps://soltech.com/blogs/blog/how-to-set-up-a-plant-wall-indoors-that-actually-thrives — 실내 식물벽엔 풀스펙트럼 생육 LED 필수\nhttps://facilityexecutive.com/living-green-walls-commercial-buildings/ — 상업 건물 그린월: 관수·배수·조명·유지관리·운영비 항목\n⚠️ 정책·수치 변동 가능·공식 확인 (하중·구조 기준은 현장별 검토)",
+  "card": {
+    "kicker": "공간 연출",
+    "headline": "그린월의 절반은\n*벽 뒤 설비*다",
+    "body": "관수·배수·생육 LED·구조 검토 — 살아 있는 조형물",
+    "tag": "#그린월",
+    "photoQuery": "indoor living green wall lobby plants"
+  }
+}

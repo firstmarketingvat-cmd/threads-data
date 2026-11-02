@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-24",
+  "time_kst": "06:30",
+  "topic": "스모그",
+  "text": "'중국은 공기 나쁘잖아' — 그 이미지로 겨울 베이징을 접는 건 10년 전 지도로 여행 짜는 거다. 숫자가 꽤 달라졌어.\n\n✔️ 작년 베이징 연평균 초미세먼지는 【27㎍/㎥】 — 사상 처음 30 아래로 내려왔다. 중오염일은 2013년 58일에서 작년 【단 하루】\n✔️ 그래도 변수는 【난방철】이다 — 북방 집중난방이 11월 15일~3월 15일 돌아가고, 대기가 정체되는 날엔 수치가 출렁인다\n✔️ 답은 실시간 확인 — 출발 전 AQI 앱 한 번, 민감한 사람은 KF 마스크 몇 장이면 보험 끝이다\n✔️ 맑은 날 겨울 베이징은 보너스다 — 비수기라 사람 적고, 하늘 파란 날 자금성이 1년 중 제일 선명해\n\n스모그 무서워 겨울 중국 접었던 사람, 다시 계산해봐라. 패딩과 마스크 한 장이면 돼.",
+  "sources": "📍출처·소재 (수집 2026-11-02)\nhttps://gna.org.gh/2026/04/beijing-sees-best-air-quality-heavy-pollution-nearly-eliminated/ — 2025 베이징 연평균 PM2.5 27.0㎍/㎥·중오염일 1일·우량일 311일\nhttps://www.ecns.cn/news/society/2025-12-17/detail-ihexziya0704318.shtml — 베이징 대기질 개선·동절기 난방 시즌 대응 (현지 언론)\nhttps://wanderinchina.com/ko/destinations/beijing/weather/ — 베이징 11월 기온·비수기·미세먼지 대비 팁\nhttps://www.cbsnews.com/news/chinese-freeze-before-govt-turns-on-the-heat/ — 북방 집중난방 11/15~3/15 제도\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "중국 겨울여행",
+    "headline": "베이징 스모그,\n*10년 전 지도*로 보지 마라",
+    "body": "연평균 PM2.5 27 — 난방철엔 AQI 앱 한 번이면 끝",
+    "tag": "#스모그",
+    "photoQuery": "beijing winter clear blue sky forbidden city"
+  }
+}
