@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-09",
+  "time_kst": "06:30",
+  "topic": "비과세수당",
+  "text": "베트남 법인 급여 담당들, 7월부터 급여표 한 줄이 바뀐 거 챙겼어? — 시행령 【253/2026】이다. 새 개인소득세법(109/2025)의 시행령인데, 야간·초과근무 수당 비과세 규정이 여기 다시 깔렸어.\n\n✔️ 원칙은 그대로다 — 노동법 한도 안에서 지급한 야간·초과근무 수당의 【할증분은 비과세】다\n✔️ 함정은 【한도 초과분】이다 — 법정 한도를 넘긴 초과근무분 수당은 과세소득으로 들어간다\n✔️ 그런데 그 '초과분' 계산법을 시행령이 비워놨다 — 지방 세무국이 공문으로 【케이스 4개】를 쪼개 안내할 만큼 실무 해석이 갈리는 중이야\n\n기회는 정비다 — 연말정산 전에 OT 대장과 급여 시트를 253호 기준으로 맞춰두면 세무조사에서 산다.\n\n리스크는 관성이다 — 옛 시행령 기준 엑셀을 그대로 돌리면 비과세 처리부터 어긋난다.\n\n너네 법인 OT 수당, 비과세·과세 라인 다시 그어놨어?",
+  "sources": "📍출처·소재 (수집 2026-11-04)\nhttps://www.ey.com/content/dam/ey-unified-site/ey-com/en-vn/technical/tax/documents/ey-decree-253-providing-guidance-on-the-implementation-of-personal-income-tax-law-109-en.pdf — EY: 시행령 253/2026 해설(2026.6.30 공포·7.1 시행)\nhttps://www.crowe.com/vn/news/pit-regarding-night-shift-wages-medical-education-deductions-and-former-employee-withholding — 야간수당 PIT 처리·닌빈 세무국 공문 4케이스\nhttps://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/tien-luong-lam-them-gio-vuot-muc-khong-duoc-mien-thue-tncn-tu-ngay-01072026-227559.html — 한도 초과 OT 수당 과세 (현지 법령DB)\nhttps://assets.kpmg.com/content/dam/kpmgsites/vn/pdf/2026/07/gms-tax-alert-decree-253-ko.pdf.coredownload.inline.pdf — KPMG 한국어 해설\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 세무",
+    "headline": "야근수당 비과세,\n*초과분*이 함정이다",
+    "body": "시행령 253/2026 — 한도 내 할증 비과세, 초과분 계산은 해석 갈림",
+    "tag": "#비과세수당",
+    "photoQuery": "vietnam office payroll calculator night"
+  }
+}
