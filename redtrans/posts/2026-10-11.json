@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-11",
+  "time_kst": "08:30",
+  "topic": "남북베트남어",
+  "text": "베트남어 번역 한 번으로 전국 커버했다고 생각하면 한 칸 놓친 거다 — 베트남어는 【북부어와 남부어】가 꽤 다르다. 물건 이름부터 갈려.\n\n✔️ 과일은 북부 【quả】, 남부 【trái】 — 컵도 북부 cốc, 남부 ly다. 식품 라벨·메뉴판에 바로 걸리는 단어들이야\n✔️ 발음도 갈린다 — 남부에선 d·gi가 다른 소리로 나, 하노이 기준 성우 녹음이 호치민 광고에선 '뉴스 톤'으로 들린다\n✔️ 뜻은 통해도 【'우리 말'로 안 읽힌다】 — 현지인은 카피 한 줄에서 지역을 읽어내\n\n기회는 타깃팅이다 — 주력 시장이 남부면 남부어 감수 한 번으로 체감 거리가 확 준다.\n\n리스크는 '표준어 하나면 된다'는 관성이다 — 음성 광고·숏폼일수록 티가 크게 난다.\n\n너네 베트남어 카피, 어느 지역 말로 쓰였는지 확인해봤어?",
+  "sources": "📍출처·소재 (수집 2026-11-09)\nhttps://www.1stopasia.com/blog/wp-content/uploads/articles-download/Vietnamese-Dialects-Demystified-North-vs-South-and-Their-Impact-on-Localization.pdf — 현지화 업계 자료: 남북 방언 차이와 마케팅 영향(quả/trái, xe máy/xe Honda 등)\nhttps://vietnamguide.co.kr/베트남어/ — 한국어 안내: 남북 어휘·발음 차이 정리\nhttps://jackfruitadventure.com/differences-from-south-to-north-vietnam/ — 남북 생활·언어 차이 사례\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 현지화",
+    "headline": "같은 베트남어인데\n*하노이말·호치민말*이 다르다",
+    "body": "quả vs trái, cốc vs ly — 타깃 지역부터 정하고 번역한다",
+    "tag": "#남북베트남어",
+    "photoQuery": "hanoi and ho chi minh city street contrast vietnam"
+  }
+}
