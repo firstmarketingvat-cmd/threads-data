@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-16",
+  "time_kst": "08:30",
+  "topic": "캐나다아포",
+  "text": "'캐나다 이민 서류, 대사관 인증까지 받아야 하나요?' — 이제 아닙니다. 캐나다도 2024년 1월 11일부터 【아포스티유 협약국】이거든요.\n\n✔️ 한국 서류를 캐나다에 낼 땐 번역·공증 뒤 【아포스티유 한 번】이면 됩니다 — 예전처럼 캐나다 공관 영사인증을 또 받을 필요가 없어요\n✔️ 거꾸로 캐나다 서류는 【발급 지역이 기준】입니다 — 연방 서류와 다수 주는 Global Affairs Canada, 온타리오·BC·퀘벡 등은 주정부 기관이 찍어요\n✔️ 캐나다 쪽 아포스티유는 수수료가 없는 대신 【우편 처리 기간】을 계산에 넣어야 합니다\n✔️ 영어·불어가 아닌 서류엔 【공인 번역본】을 함께 요구합니다 — 한국 서류 묶음이라면 번역 품질이 곧 통과율이에요\n\n유학·이민·취업으로 캐나다 가는 분들, 제출처 안내문이 요구하는 게 아포인지 공증인지부터 보내주세요 — 경로를 갈라드릴게요.",
+  "sources": "📍출처·소재 (수집 2026-11-11)\nhttps://www.canada.ca/en/global-affairs/news/2023/12/improving-authentication-services-in-canada.html — 캐나다 정부: 아포스티유 협약 2024.1.11 발효 공지\nhttps://international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/authentication-services-authentification.aspx?lang=eng — Global Affairs Canada: 인증 서비스 안내(관할·번역 요건·무료)\nhttps://www.fasken.com/en/knowledge/2024/03/canada-joins-the-apostille-convention — Fasken: 주별 아포스티유 발급 관할 정리\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "아포스티유",
+    "headline": "캐나다 서류도 이제\n*아포 한 번*입니다",
+    "body": "2024.1.11 협약 발효 — 영사인증 단계가 사라졌어요",
+    "tag": "#캐나다아포",
+    "photoQuery": "canada flag documents passport maple leaf"
+  }
+}
