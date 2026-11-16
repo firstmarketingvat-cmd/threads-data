@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-18",
+  "time_kst": "10:30",
+  "topic": "미국아포",
+  "text": "'미국 서류 아포스티유, 어디서 받나요?' — 답은 서류의 【발급 주체】가 정합니다. 미국은 연방과 주(州)가 도장 찍는 곳이 다르거든요.\n\n✔️ 출생·결혼증명서, 주립대 학위 같은 주 서류는 그 주의 【Secretary of State】가 찍습니다 — 50개 주 각각 창구와 요건이 달라요\n✔️ 【FBI 범죄경력증명서】 같은 연방 서류는 주 사무소에선 못 받습니다 — 워싱턴의 연방 국무부(Office of Authentications) 관할이에요\n✔️ 함정은 기간입니다 — 연방 국무부는 우편 접수 기준 【수 주 단위】라, 비자 일정에서 제일 먼저 역산할 서류예요\n✔️ 위임장 같은 사문서는 공증을 거쳐야 아포 경로에 올라갑니다 — 주마다 요건 확인이 먼저예요\n\n취업·이민·유학으로 미국 서류 받는 분들, 어느 기관 발급분인지부터 알려주세요 — 경로가 바로 갈립니다.",
+  "sources": "📍출처·소재 (수집 2026-11-16)\nhttps://travel.state.gov/en/international-travel/living-abroad/criminal-records.html — 미 국무부: FBI 기록 아포스티유는 Office of Authentications 관할\nhttps://www.apostilletexas.org/blog/why-you-cant-apostille-fbi-background-checks-in-texas/ — 주 SOS에서 FBI 조회 아포 불가(업계 자료)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "아포스티유",
+    "headline": "미국 아포스티유는\n*연방과 주*가 다릅니다",
+    "body": "FBI는 연방 국무부, 출생·결혼증명은 주 Secretary of State",
+    "tag": "#미국아포",
+    "photoQuery": "washington dc government documents seal"
+  }
+}
