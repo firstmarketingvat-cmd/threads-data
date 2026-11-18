@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20",
+  "time_kst": "08:30",
+  "topic": "자본금",
+  "text": "'법인 세웠으니 자본금은 천천히 넣어도 되죠?' — 베트남 설립 후 자주 받는 질문인데, 답은 【90일】입니다. 기업등록증(ERC) 발급일부터 90일 안에 정관자본금을 전액 납입해야 하거든요.\n\n✔️ 외국인 투자자는 송금 경로도 정해져 있습니다 — 설립 후 개설하는 【DICA(직접투자자본계좌)】로 들어온 돈만 출자로 인정돼요. 일반 계좌로 보내면 납입으로 안 잡힙니다\n✔️ 송금인 명의가 【투자등록증상의 투자자】와 다르면 문제가 됩니다 — 본사 이름 그대로 보내는 게 원칙이에요\n✔️ 기한을 넘기면 과태료에, 실제 납입액 기준 【30일 내 자본금 변경 등록】 의무까지 생깁니다\n✔️ 투자등록증(IRC)에 납입 일정이 따로 적혀 있으면 그 일정이 기준입니다\n\n설립 서류보다 송금 일정이 법인의 첫 시험대입니다 — 자본금 계획은 설립 전에 세우는 겁니다.",
+  "sources": "📍출처·소재 (수집 2026-11-18)\nhttps://lawnet.vn/ngan-hang-phap-luat/en/tu-van-phap-luat/doanh-nghiep/what-is-time-limit-for-members-of-multiplemember-limited-liability-companies-to-contribute-sufficient-capital-in-vietnam-381661 — 베트남 기업법(59/2020/QH14) 제47조: ERC 발급일부터 90일 내 출자 완료, 미납 시 30일 내 자본금 변경 등록 의무\nhttps://vietanlaw.com/foreign-investors-cannot-contribute-capital-on-time-under-vietnamese-law — 외국인 투자자 기한 미준수 시 과태료·IRC 일정 기준 등 법적 결과 (현지 로펌 해설)\nhttps://www.vietnam-briefing.com/news/capital-contribution-in-vietnam-a-brief-guide-for-business-setups.html — FDI 자본금은 DICA(직접투자자본계좌) 경유 납입 원칙 (Circular 06/2019/TT-NHNN)\n※ 공식 법령·로펌 해설 기반, Threads/현지 SNS 소재 미사용\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "베트남 실무",
+    "headline": "법인은 세웠는데,\n자본금은 *90일*입니다",
+    "body": "ERC 발급일부터 90일 — DICA 계좌로 들어온 돈만 출자로 인정됩니다",
+    "tag": "#자본금",
+    "photoQuery": "international bank transfer business documents desk vietnam"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-11",
+  "time_kst": "10:30",
+  "topic": "진공성형",
+  "text": "행사장마다 똑같이 걸리는 그 캐릭터 얼굴, 그 매끈한 돔 커버 — 하나하나 깎은 게 아니라 【진공성형】으로 찍은 거다.\n\n✔️ 원리는 단순하다 — 플라스틱 판(ABS·PETG)을 말랑하게 데워 금형에 씌우고 사이 공기를 빨아내면, 【대기압】이 눌러 형태를 뜬다\n✔️ 돈은 금형에 든다 — 틀 하나 제대로 깎으면 같은 파츠가 수십 장 나온다. 수량이 늘수록 장당 단가가 뚝 떨어지는 공법이야\n✔️ 설계엔 문법이 있다 — 깊게 뽑을수록 모서리가 얇아지고, 빠지는 각도 【구배】 없인 금형에서 안 빠진다. 언더컷은 틀을 쪼개야 해\n✔️ 간판·조형물에선 발광 파츠 단골이다 — 가볍고 빛이 투과돼 【조명 커버】·입체 글자와 찰떡\n\n깎는 조형이 한 점을 만든다면, 찍는 조형은 같은 품질 100개를 만든다. 수량이 보이는 순간, 공법이 바뀐다.",
+  "sources": "📍출처·소재 (수집 2026-11-18)\nhttps://mayku.me/learn/what-is-vacuum-forming — 진공성형 원리(시트 가열→진공→대기압 밀착)·소재(ABS·PETG 등) 확인\nhttps://rapidmade.com/vacuum-forming-and-its-applications-a-comprehensive-technical-white-paper-for-engineers/ — 공정 순서(고정→가열→진공→냉각·트리밍)·금형·간판 패널 용도 확인\nhttps://www.matterhackers.com/about/designing-for-vacuum-forming-tips-tricks — 구배(draft)·언더컷 제약·깊은 성형 시 두께 얇아짐 등 설계 문법 확인\n(Threads/현지 소스 미사용 — 기술 공법 주제라 기술 자료로 검증)\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "공법 노트",
+    "headline": "그 똑같은 100개,\n*공기가* 찍는다",
+    "body": "판을 데워 금형에 씌우고 공기를 빼면, 대기압이 형태를 뜬다 — 수량의 공법, 진공성형",
+    "tag": "#진공성형",
+    "photoQuery": "vacuum forming thermoplastic sheet mold factory workshop"
+  }
+}
