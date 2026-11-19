@@ -1,0 +1,14 @@
+{
+ "date": "2026-10-12",
+ "time_kst": "08:30",
+ "topic": "절곡",
+ "text": "각 잡힌 입체 글자, 칼각으로 떨어지는 스테인리스 조형물 — 그 면들, 전부 용접한 게 아니다. 판을 접는 공정, 【절곡】이다.\n\n✔️ 레이저로 오린 판을 【프레스 브레이크】가 누르며 접는다 — 전개도 한 장이 입체가 되는 순서다\n✔️ 접히는 자리에서 판이 늘어난다 — 펼친 치수를 미리 보정하는 【전개 계산】이 어긋나면 모서리가 안 만난다\n✔️ 각엔 한계가 있다 — 소재마다 【최소 굽힘 반경】이 있고, 무리하게 접으면 바깥면이 갈라진다. 압연 결 방향이면 더 위험해\n✔️ 종이접기처럼 서는 칼각은 뒤를 V자로 파낸 뒤 접는 【브이커팅】의 작품이다 — 간판 글자 모서리가 그렇게 선다\n\n용접 비드를 갈아 만든 면은 시간의 흔적이고, 절곡으로 세운 면은 계산의 흔적이다. 매끈함에도 족보가 있다.",
+ "sources": "📍출처·소재 (수집 2026-11-19)\nhttps://www.thefabricator.com/article/bending/press-brake-bending-basics-die-angles-tonnage-and-k-factors — 프레스 브레이크 기초: 전개 계산(K팩터)·굽힘 공정\nhttps://www.thefabricator.com/article/bending/analyzing-the-k-factor-in-sheet-metal-bending — 굽힘 시 중립축 이동·전개 치수 보정 원리\nhttps://www.thefabricator.com/thefabricator/article/bending/predicting-an-air-formed-radius-on-the-press-brake-and-k-factor-research — 최소 굽힘 반경·결 방향 평행 굽힘 시 크랙 위험\n브이커팅(V-groove) 후 절곡으로 칼각 모서리를 세우는 것은 간판·금속 가공 업계 공통 실무\n⚠️ 정책·수치 변동 가능·공식 확인",
+ "card": {
+  "kicker": "공법 노트",
+  "headline": "그 칼각 모서리,\n*접어서* 세운 거다",
+  "body": "레이저로 오리고 프레스로 접는다 — 판금 절곡의 문법",
+  "tag": "#절곡",
+  "photoQuery": "press brake sheet metal bending stainless steel workshop"
+ }
+}
