@@ -1,0 +1,14 @@
+{
+ "date": "2026-10-13",
+ "time_kst": "08:30",
+ "topic": "판톤CU",
+ "text": "브랜드 컬러를 판톤 번호로 박아놨는데 명함과 봉투 색이 다르게 나온다 — 번호 뒤 【C와 U】를 안 가른 탓이다. 같은 번호, 같은 잉크라도 종이가 다르면 다른 색이 돼.\n\n✔️ C는 코팅지(Coated), U는 비코팅지(Uncoated)다 — 아트지 위 잉크는 표면에 남아 쨍하고, 모조지는 잉크를 빨아들여 톤이 가라앉는다\n✔️ 진한 색일수록 차이가 벌어진다 — 연한 색은 비슷하게 나와도 네이비·레드 계열은 아예 다른 색처럼 보이기도 해\n✔️ 컬러칩 북도 C용·U용 두 권이 따로다 — 시안 승인은 실제 찍을 종이 쪽 칩으로 봐야 맞다\n✔️ 두 종이에서 같아 보이게 가려면 — 억지로 맞추지 말고 아예 【다른 번호】를 각각 고르는 게 실무 답이다\n\n로고 색은 번호 하나가 아니라 '번호+종이' 세트다. 26년째 브랜드 가이드 받으면 C인지 U인지부터 묻는 이유야.",
+ "sources": "📍출처·소재 (수집 2026-11-20)\nhttps://intercom.help/pantone/en/articles/7215702-what-does-the-terms-coated-and-uncoated-mean-in-the-pantone-graphics-system — 판톤 공식: C/U 접미사 의미, 같은 조색이라도 용지 따라 발색 차이\nhttps://www.myperfectcolor.com/What-is-the-difference-between-Pantone-C-and-U/34187.htm — 같은 번호 C/U 비교(진한 색일수록 차이 큼)\nhttps://www.xrite.com/service-support/pantone_coated_vs_uncoated_guides — 엑스라이트: C/U 가이드북 구분, 교차 매칭 시 다른 번호 선택 권고\n⚠️ 정책·수치 변동 가능·공식 확인",
+ "card": {
+  "kicker": "인쇄 실무 지식",
+  "headline": "같은 판톤인데\n*C와 U*는 다른 색이다",
+  "body": "코팅지·비코팅지 — 번호 하나로 두 종이를 못 잡는다",
+  "tag": "#판톤CU",
+  "photoQuery": "pantone color swatch fan deck coated uncoated paper"
+ }
+}
