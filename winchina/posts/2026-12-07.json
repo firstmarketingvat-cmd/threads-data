@@ -1,0 +1,14 @@
+{
+ "date": "2026-12-07",
+ "time_kst": "06:30",
+ "topic": "택배역참",
+ "text": "타오바오 주문하고 집 앞에서 택배 기다려봐라 — 안 온다. 중국 택배의 기본값은 문 앞이 아니라 【역참(驿站)】이다.\n\n✔️ 아파트 단지·캠퍼스마다 차이냐오 역참·스마트 사물함이 깔려 있다 — 기사는 집까지 안 올라오고 거기 맡기는 게 보통이다\n✔️ 도착하면 문자·앱으로 【픽업코드】가 온다 — 선반에서 내 걸 찾아 기기에 스캔하면 끝\n✔️ 조회·수령·발송은 【차이냐오 앱】 하나로 돈다 — 알리페이·위챗 미니프로그램으로도 된다\n✔️ 보낼 땐 【실명 등록】이다 — 여권 들고 가야 접수된다\n\n'배송 완료' 떴는데 집엔 아무것도 없다? 당황하지 마라 — 네 택배는 단지 입구 역참 선반에서 널 기다리고 있다.",
+ "sources": "📍출처·소재 (수집 2026-11-21)\nhttps://govt.chinadaily.com.cn/s/202503/10/WS67ce5681498eec7e1f731586/a-guide-to-using-delivery-services.html — 중국 정부 포털(차이나데일리) 외국인용 택배 이용 가이드: 역참·사물함 수령, 발송 절차\nhttps://english.shanghai.gov.cn/en-PostalCourierServices/20231215/c492629c319e40929eaf103d8396af9e.html — 상하이시 공식: 택배 서비스 이용 안내\nhttps://www.cainiao.com/en/chn-guoguo.html — 차이냐오 궈궈 앱 공식: 택배 조회·수령·발송 기능\nhttps://en.wikipedia.org/wiki/Cainiao — 역참 네트워크·픽업코드 수령 구조\n⚠️ 정책·수치 변동 가능·공식 확인",
+ "card": {
+  "kicker": "중국 생활 실전",
+  "headline": "중국 택배는\n*집 앞에 안 온다*",
+  "body": "역참·픽업코드 — 중국 택배 수령의 문법",
+  "tag": "#택배역참",
+  "photoQuery": "parcel pickup station package shelves china delivery"
+ }
+}
