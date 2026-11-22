@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-24",
+  "time_kst": "10:30",
+  "topic": "영국아포",
+  "text": "'영국 서류도 아포스티유 되나요?' — 됩니다. 영국은 협약국이라 【FCDO(외무부) 도장 하나】로 끝나요. 게다가 전자 아포스티유가 가장 앞서 있는 나라입니다.\n\n✔️ 영국 서류 아포는 【FCDO 리걸라이제이션 오피스】가 찍습니다 — 표준(우편)은 건당 45파운드, 【e-아포스티유】는 35파운드예요\n✔️ e-아포는 영국 공증인·솔리시터가 【전자서명한 PDF】만 올라갑니다 — 출생·혼인증명 같은 GRO 발급 서류는 대상이 아니에요\n✔️ 위임장 같은 사문서는 공증을 거쳐야 아포 경로에 올라갑니다\n✔️ 반대로 한국 서류를 영국에 낼 땐 — 번역·공증 뒤 한국 외교부 아포 【한 번】이면 됩니다\n\n유학·취업·이민으로 영국 서류 오가는 분들, 종이로 받을지 전자로 받을지는 【제출처】가 정합니다 — 요구 문구부터 보내주세요.",
+  "sources": "📍출처·소재 (수집 2026-11-22)\nhttps://www.gov.uk/get-document-legalised — 영국 정부 아포스티유 신청 안내(표준·e-아포 경로)\nhttps://www.gov.uk/government/news/changes-to-fees-for-legalising-uk-public-documents — 수수료 개정: 표준 £45·e-아포 £35\nhttps://www.gov.uk/government/news/uk-legalises-public-documents-electronically-2-september-2022 — e-아포스티유 도입·전자서명 PDF 요건\n⚠️ 수수료·요건 변동 가능·gov.uk 확인",
+  "card": {
+    "kicker": "국가별 아포",
+    "headline": "영국 아포스티유는\n*전자가 더 싸다*",
+    "body": "FCDO 도장 하나 — 종이 £45, e-아포 £35",
+    "tag": "#영국아포",
+    "photoQuery": "london official documents stamp desk"
+  }
+}
