@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20",
+  "time_kst": "08:30",
+  "topic": "레드제품",
+  "text": "연말 패키지의 그 새빨간 제품, 찍어보면 압니다 — 【빨강】은 카메라가 제일 쉽게 망가뜨리는 색이에요.\n\n✔️ 범인은 【R채널 포화】입니다 — 센서의 빨강 채널만 먼저 한계를 치면서, 디테일이 뭉개진 '빨간 덩어리'가 돼요\n✔️ 전체 밝기는 멀쩡해 보여도 채널은 넘칠 수 있습니다 — 그래서 레드 제품은 히스토그램을 【RGB 따로】 띄워놓고 찍어요\n✔️ 처방은 거꾸로입니다 — 노출을 반 스톱쯤 눌러 채널부터 지키고, 밝기는 보정에서 올립니다. RAW로 찍어야 되돌릴 여지가 남아요\n✔️ 보정에서 빨강만 살짝 채도를 내리면 — 오히려 '정확한 빨강'으로 보입니다. 뭉갰던 질감이 돌아오거든요\n\n크리스마스 레드, 립스틱, 고추장 — 잘 나온 빨강은 쨍한 빨강이 아니라 【결이 보이는 빨강】입니다.",
+  "sources": "📍출처·소재 (수집 2026-11-28)\nhttps://learn.zoner.com/learn-stop-red-blowout/ — Zoner: 레드 블로우아웃(R채널 포화) 방지\nhttps://www.fastrawviewer.com/blog/red_flowers_photography — FastRawViewer: 빨간 피사체 채널 클리핑 분석\nhttps://www.lightstalking.com/photographers-this-is-how-to-keep-your-reds-under-control/ — Light Stalking: 레드 관리 노출·보정 팁\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "스튜디오 노트",
+    "headline": "빨강은 카메라가\n*제일 먼저 망치는* 색입니다",
+    "body": "R채널 포화 — 레드 제품은 노출부터 거꾸로 갑니다",
+    "tag": "#레드제품",
+    "photoQuery": "red cosmetic product studio photography dramatic"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20",
+  "time_kst": "08:30",
+  "topic": "메타메리즘",
+  "text": "사무실 형광등 밑에선 똑같던 두 색이 매장 조명 아래선 갈라진다 — 【메타메리즘】이다. 어떤 빛에선 같아 보이던 색이 광원이 바뀌면 다른 색이 되는 현상이야.\n\n✔️ 원리는 이렇다 — 잉크마다 반사하는 파장이 달라서, 특정 광원에서만 '우연히' 같아 보일 수 있다. 빛이 바뀌면 그 우연이 깨진다\n✔️ 그래서 인쇄 감리엔 【표준광원 D50】 부스가 있다 — 햇빛에 가까운 기준 빛 아래서 색을 판정한다\n✔️ 사고 단골은 【재질이 다른 세트】다 — 종이 박스와 비닐 라벨처럼 바탕이 다르면, 같은 색을 맞춰도 조명 따라 틀어진다\n✔️ 시안 확인은 한 가지 빛으로 끝내지 마라 — 창가·형광등·매장 조명, 최소 두세 광원에서 봐야 안전하다\n\n색은 잉크가 아니라 빛이 완성한다. 26년째 색 맞춤 의뢰엔 '어떤 조명 아래 놓이나요?'부터 묻는 이유야.",
+  "sources": "📍출처·소재 (수집 2026-11-28)\nhttps://www.datacolor.com/business-solutions/blog/lightbooth/ — 데이터컬러: 라이트부스·메타메리즘 해설\nhttps://fespa.com/en/news-media/standard-lighting-conditions-for-wide-format-printers-and-their-many-markets — FESPA: 인쇄 색 평가 표준광원 D50·ISO 3664\nhttps://creativepro.com/out-of-gamut-why-is-color/3/ — CreativePro: 교정 조명 D50 관행\n⚠️ 정책·수치 변동 가능·공식 확인",
+  "card": {
+    "kicker": "인쇄 실무",
+    "headline": "형광등 밑 같던 색이\n*조명 바뀌면* 갈라진다",
+    "body": "메타메리즘 — 감리에 표준광원 D50 부스가 있는 이유다",
+    "tag": "#메타메리즘",
+    "photoQuery": "color swatches light booth print proofing"
+  }
+}
